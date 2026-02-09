@@ -74,21 +74,37 @@ async function fetchProductHuntFeed(limit = 10) {
   }
 }
 
-function fetchXFromLocalReport(limit = 10) {
-  const xDir = '/Users/dtjgp/Library/CloudStorage/OneDrive-PolitecnicodiTorino/Obsidian/PoliTO/X 日报';
-  if (!fs.existsSync(xDir)) return [];
-  const files = fs.readdirSync(xDir).filter((f) => /^X日报_\d{4}-\d{2}-\d{2}\.md$/.test(f)).sort();
-  if (!files.length) return [];
-  const latest = files[files.length - 1];
-  const content = fs.readFileSync(path.join(xDir, latest), 'utf-8');
+function extractXItems(content, limit = 10) {
   const lines = content.split('\n').map((l) => l.trim()).filter(Boolean);
   return lines
-    .filter((l) => /^\d+\.|^[-•]/.test(l) || l.includes('http'))
+    .filter((l) => (/^\d+\.|^[-•]/.test(l) || l.includes('http')) && l !== '---')
     .slice(0, limit)
     .map((l) => {
       const title = l.replace(/^\d+\.\s*/, '');
       return { title, link: '', summary: oneLiner(title) };
     });
+}
+
+function fetchXFromLocalReport(limit = 10) {
+  // Priority 1: local Obsidian X report (when running on Jun's machine)
+  const xDir = '/Users/dtjgp/Library/CloudStorage/OneDrive-PolitecnicodiTorino/Obsidian/PoliTO/X 日报';
+  if (fs.existsSync(xDir)) {
+    const files = fs.readdirSync(xDir).filter((f) => /^X日报_\d{4}-\d{2}-\d{2}\.md$/.test(f)).sort();
+    if (files.length) {
+      const latest = files[files.length - 1];
+      const content = fs.readFileSync(path.join(xDir, latest), 'utf-8');
+      return extractXItems(content, limit);
+    }
+  }
+
+  // Priority 2: repo-synced fallback for GitHub Actions
+  const fallback = 'data/x/latest.md';
+  if (fs.existsSync(fallback)) {
+    const content = fs.readFileSync(fallback, 'utf-8');
+    return extractXItems(content, limit);
+  }
+
+  return [];
 }
 
 function mdSection(name, rows) {

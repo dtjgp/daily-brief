@@ -4,6 +4,8 @@
   "private": true,
   "description": "Automated daily multi-source brief",
   "scripts": {
-    "build": "node scripts/generate-daily-brief.mjs"
+    "sync:x": "node scripts/sync-x-report.mjs",
+    "build": "node scripts/generate-daily-brief.mjs",
+    "build:full": "npm run sync:x && npm run build"
   }
 }
