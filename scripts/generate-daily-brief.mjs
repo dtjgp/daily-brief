@@ -62,13 +62,16 @@ async function fetchGitHubTrending(limit = 10) {
 async function fetchProductHuntFeed(limit = 10) {
   try {
     const xml = await text('https://www.producthunt.com/feed');
-    return [...xml.matchAll(/<item>[\s\S]*?<title>([\s\S]*?)<\/title>[\s\S]*?<link>([\s\S]*?)<\/link>[\s\S]*?(?:<description>([\s\S]*?)<\/description>)?/g)]
+    // Product Hunt feed is Atom, not RSS <item>
+    const entries = [...xml.matchAll(/<entry>[\s\S]*?<title>([\s\S]*?)<\/title>[\s\S]*?<link[^>]*href="([^"]+)"[^>]*\/>[\s\S]*?(?:<content[^>]*>([\s\S]*?)<\/content>)?[\s\S]*?<\/entry>/g)]
       .slice(0, limit)
       .map((m) => {
         const title = clean(m[1].replace(/<!\[CDATA\[|\]\]>/g, ''));
+        const link = clean(m[2]);
         const desc = clean((m[3] || '').replace(/<!\[CDATA\[|\]\]>/g, ''));
-        return { title, link: clean(m[2]), desc, summary: oneLiner(title, desc) };
+        return { title, link, desc, summary: oneLiner(title, desc) };
       });
+    return entries;
   } catch {
     return [];
   }
