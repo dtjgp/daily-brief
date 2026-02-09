@@ -1,0 +1,162 @@
+{
+  "date": "2026-02-09",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Art of Roads in Games",
+        "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
+        "score": 297
+      },
+      {
+        "title": "Vouch",
+        "link": "https://github.com/mitchellh/vouch",
+        "score": 843
+      },
+      {
+        "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
+        "link": "https://github.com/naver/lispe",
+        "score": 51
+      },
+      {
+        "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
+        "link": "https://bobbiec.github.io/cistercian-font.html",
+        "score": 89
+      },
+      {
+        "title": "Every book recommended on the Odd Lots Discord",
+        "link": "https://odd-lots-books.netlify.app/",
+        "score": 94
+      },
+      {
+        "title": "Claude’s C Compiler vs. GCC",
+        "link": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+        "score": 250
+      },
+      {
+        "title": "Apple XNU: Clutch Scheduler",
+        "link": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
+        "score": 137
+      },
+      {
+        "title": "More Mac malware from Google search",
+        "link": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
+        "score": 185
+      },
+      {
+        "title": "Custom Firmware for the MZ-RH1 – Ready for Testing",
+        "link": "https://sir68k.re/posts/rh1-firmware-available/",
+        "score": 46
+      },
+      {
+        "title": "Clean Coder: The Dark Path (2017)",
+        "link": "https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html",
+        "score": 4
+      }
+    ],
+    "github": [
+      {
+        "title": "BlockRunAI/ClawRouter",
+        "link": "https://github.com/BlockRunAI/ClawRouter",
+        "score": 1879,
+        "desc": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments."
+      },
+      {
+        "title": "mitchellh/vouch",
+        "link": "https://github.com/mitchellh/vouch",
+        "score": 1791,
+        "desc": "A community trust management system based on explicit vouches to participate."
+      },
+      {
+        "title": "anthropics/claudes-c-compiler",
+        "link": "https://github.com/anthropics/claudes-c-compiler",
+        "score": 1762,
+        "desc": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
+      },
+      {
+        "title": "antonpk1/excalidraw-mcp-app",
+        "link": "https://github.com/antonpk1/excalidraw-mcp-app",
+        "score": 1000,
+        "desc": "Streamable Excalidraw MCP App"
+      },
+      {
+        "title": "foru17/clash-master",
+        "link": "https://github.com/foru17/clash-master",
+        "score": 918,
+        "desc": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
+      },
+      {
+        "title": "eljojo/rememory",
+        "link": "https://github.com/eljojo/rememory",
+        "score": 737,
+        "desc": "have a plan for the worst-case scenario"
+      },
+      {
+        "title": "SamNet-dev/paqctl",
+        "link": "https://github.com/SamNet-dev/paqctl",
+        "score": 608,
+        "desc": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation"
+      },
+      {
+        "title": "op7418/CodePilot",
+        "link": "https://github.com/op7418/CodePilot",
+        "score": 557,
+        "desc": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
+      },
+      {
+        "title": "sanyuan0704/code-review-expert",
+        "link": "https://github.com/sanyuan0704/code-review-expert",
+        "score": 548,
+        "desc": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions"
+      },
+      {
+        "title": "zhukunpenglinyutong/codemoss",
+        "link": "https://github.com/zhukunpenglinyutong/codemoss",
+        "score": 545,
+        "desc": "下一代VibeCoding，何须用IDE"
+      }
+    ],
+    "producthunt": [],
+    "x": [
+      {
+        "title": "---",
+        "link": ""
+      },
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": ""
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": ""
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": ""
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": ""
+      },
+      {
+        "title": "---",
+        "link": ""
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": ""
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": ""
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": ""
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": ""
+      }
+    ]
+  }
+}
