@@ -17,6 +17,12 @@ async function text(url) {
 }
 
 const clean = (s = '') => s.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+const decodeEntities = (s = '') => s
+  .replace(/&amp;/g, '&')
+  .replace(/&lt;/g, '<')
+  .replace(/&gt;/g, '>')
+  .replace(/&quot;/g, '"')
+  .replace(/&#39;/g, "'");
 
 function oneLiner(title, desc = '') {
   const t = clean(title);
@@ -25,6 +31,7 @@ function oneLiner(title, desc = '') {
   // 1) If we have description, prefer specific compressed summary
   if (d) {
     const s = d
+      .replace(/Discussion\s*\|\s*Link/gi, '')
       .replace(/^\W+/, '')
       .split(/(?<=[.!?。！？])\s+/)[0]
       .slice(0, 120);
@@ -56,7 +63,8 @@ async function fetchHN(limit = 10) {
       title: item.title,
       link: item.url || `https://news.ycombinator.com/item?id=${item.id}`,
       score: item.score || 0,
-      summary: oneLiner(item.title),
+      desc: item.text ? clean(item.text) : '',
+      summary: oneLiner(item.title, item.text || ''),
     });
   }
   return out;
@@ -84,16 +92,18 @@ async function fetchGitHubTrending(limit = 10) {
 async function fetchProductHuntFeed(limit = 10) {
   try {
     const xml = await text('https://www.producthunt.com/feed');
-    // Product Hunt feed is Atom, not RSS <item>
-    const entries = [...xml.matchAll(/<entry>[\s\S]*?<title>([\s\S]*?)<\/title>[\s\S]*?<link[^>]*href="([^"]+)"[^>]*\/>[\s\S]*?(?:<content[^>]*>([\s\S]*?)<\/content>)?[\s\S]*?<\/entry>/g)]
-      .slice(0, limit)
-      .map((m) => {
-        const title = clean(m[1].replace(/<!\[CDATA\[|\]\]>/g, ''));
-        const link = clean(m[2]);
-        const desc = clean((m[3] || '').replace(/<!\[CDATA\[|\]\]>/g, ''));
-        return { title, link, desc, summary: oneLiner(title, desc) };
-      });
-    return entries;
+    const rawEntries = [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)].slice(0, limit).map((m) => m[1]);
+
+    return rawEntries.map((entry) => {
+      const title = decodeEntities(clean((entry.match(/<title[^>]*>([\s\S]*?)<\/title>/i) || [,''])[1]));
+      const idLink = decodeEntities(clean((entry.match(/<id[^>]*>([\s\S]*?)<\/id>/i) || [,''])[1]));
+      const altLink = decodeEntities(clean((entry.match(/<link[^>]*rel="alternate"[^>]*href="([^"]+)"/i) || [,''])[1]));
+      const summaryRaw = (entry.match(/<summary[^>]*>([\s\S]*?)<\/summary>/i) || [,''])[1]
+        || (entry.match(/<content[^>]*>([\s\S]*?)<\/content>/i) || [,''])[1];
+      const desc = decodeEntities(clean(summaryRaw));
+      const link = altLink || idLink || 'https://www.producthunt.com/';
+      return { title, link, desc, summary: oneLiner(title, desc) };
+    }).filter((x) => x.title && /^https?:\/\//.test(x.link));
   } catch {
     return [];
   }
@@ -130,6 +140,53 @@ function fetchXFromLocalReport(limit = 10) {
   }
 
   return [];
+}
+
+async function summarizeWithLLM(rows, sourceName) {
+  const apiKey = process.env.OPENAI_API_KEY;
+  const model = process.env.OPENAI_MODEL || 'gpt-4o-mini';
+  if (!apiKey || !rows.length) return rows;
+
+  try {
+    const promptRows = rows.map((r, i) => `${i + 1}. title=${r.title}; desc=${r.desc || ''}`);
+    const prompt = [
+      `你是资讯编辑。请为 ${sourceName} 的每条内容生成一句中文摘要。`,
+      '要求：',
+      '- 每条 18-40 字',
+      '- 不要重复模板句',
+      '- 能体现“这条在讲什么”',
+      '- 输出 JSON: {"summaries":[...]}，长度必须与输入条数一致',
+      '',
+      ...promptRows,
+    ].join('\n');
+
+    const resp = await fetch('https://api.openai.com/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${apiKey}`,
+      },
+      body: JSON.stringify({
+        model,
+        temperature: 0.3,
+        messages: [{ role: 'user', content: prompt }],
+      }),
+    });
+
+    if (!resp.ok) return rows;
+    const data = await resp.json();
+    const content = data?.choices?.[0]?.message?.content || '';
+    const s = content.indexOf('{');
+    const e = content.lastIndexOf('}');
+    if (s < 0 || e <= s) return rows;
+    const parsed = JSON.parse(content.slice(s, e + 1));
+    const arr = Array.isArray(parsed?.summaries) ? parsed.summaries : [];
+    if (arr.length !== rows.length) return rows;
+
+    return rows.map((r, i) => ({ ...r, summary: clean(String(arr[i] || '')) || r.summary }));
+  } catch {
+    return rows;
+  }
 }
 
 function mdSection(name, rows) {
@@ -172,17 +229,24 @@ async function main() {
   ]);
   const x = fetchXFromLocalReport(10);
 
-  const payload = { date, sources: { hackernews: hn, githubTrending: gh, producthunt: ph, x } };
+  const [hnS, ghS, phS, xS] = await Promise.all([
+    summarizeWithLLM(hn, 'Hacker News'),
+    summarizeWithLLM(gh, 'GitHub Trending'),
+    summarizeWithLLM(ph, 'Product Hunt'),
+    summarizeWithLLM(x, 'X'),
+  ]);
+
+  const payload = { date, sources: { hackernews: hnS, githubTrending: ghS, producthunt: phS, x: xS } };
   fs.mkdirSync('data', { recursive: true });
   fs.mkdirSync('daily', { recursive: true });
   fs.writeFileSync(`data/${date}.json`, JSON.stringify(payload, null, 2));
 
   const md = `# Daily Brief - ${date}\n\n` +
     `> Sources: Hacker News / GitHub Trending / Product Hunt / X monitored stream\n\n` +
-    mdSection('Hacker News', hn) + '\n' +
-    mdSection('GitHub Trending', gh) + '\n' +
-    mdSection('Product Hunt', ph) + '\n' +
-    mdSection('X (from local X report)', x) + '\n';
+    mdSection('Hacker News', hnS) + '\n' +
+    mdSection('GitHub Trending', ghS) + '\n' +
+    mdSection('Product Hunt', phS) + '\n' +
+    mdSection('X (from local X report)', xS) + '\n';
 
   fs.writeFileSync(`daily/${date}.md`, md);
   buildIndex();
