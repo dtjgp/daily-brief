@@ -18,7 +18,7 @@
         "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
         "link": "https://github.com/naver/lispe",
         "score": 55,
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「LispE: Lisp Interpreter with…」，建议按与你当前课题相关度决定是否深读。"
       },
       {
         "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
@@ -36,7 +36,7 @@
         "title": "Clean Coder: The Dark Path (2017)",
         "link": "https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html",
         "score": 7,
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「Clean Coder: The Dark Path (…」，建议按与你当前课题相关度决定是否深读。"
       },
       {
         "title": "More Mac malware from Google search",
@@ -48,19 +48,19 @@
         "title": "Apple XNU: Clutch Scheduler",
         "link": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
         "score": 140,
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「Apple XNU: Clutch Scheduler」，建议按与你当前课题相关度决定是否深读。"
       },
       {
         "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
         "link": "https://underhillgame.com/",
-        "score": 208,
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "score": 210,
+        "summary": "这条主要讨论「Show HN: I created a Mars co…」，建议按与你当前课题相关度决定是否深读。"
       },
       {
         "title": "Ask HN: What are you working on? (February 2026)",
         "link": "https://news.ycombinator.com/item?id=46937696",
         "score": 155,
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「Ask HN: What are you working…」，建议按与你当前课题相关度决定是否深读。"
       }
     ],
     "githubTrending": [
@@ -69,7 +69,7 @@
         "link": "https://github.com/KeygraphHQ/shannon",
         "score": "15,123",
         "desc": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-        "summary": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps. Shann"
+        "summary": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps."
       },
       {
         "title": "pydantic/monty",
@@ -81,7 +81,7 @@
       {
         "title": "openai/skills",
         "link": "https://github.com/openai/skills",
-        "score": "7,297",
+        "score": "7,298",
         "desc": "Star openai / skills Skills Catalog for Codex",
         "summary": "Star openai / skills Skills Catalog for Codex"
       },
@@ -104,35 +104,97 @@
         "link": "https://github.com/google/langextract",
         "score": "25,026",
         "desc": "Star google / langextract A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
-        "summary": "Star google / langextract A Python library for extracting structured information from unstructured t"
+        "summary": "Star google / langextract A Python library for extracting structured information from unstructured text using LLMs with "
       },
       {
         "title": "obra/superpowers",
         "link": "https://github.com/obra/superpowers",
         "score": "48,207",
         "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
-        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology t"
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
       },
       {
         "title": "OpenBMB/MiniCPM-o",
         "link": "https://github.com/OpenBMB/MiniCPM-o",
         "score": "23,541",
         "desc": "Star OpenBMB / MiniCPM-o A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
-        "summary": "Star OpenBMB / MiniCPM-o A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimoda"
+        "summary": "Star OpenBMB / MiniCPM-o A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on "
       },
       {
         "title": "likec4/likec4",
         "link": "https://github.com/likec4/likec4",
-        "score": "2,498",
+        "score": "2,499",
         "desc": "Sponsor Star likec4 / likec4 Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-        "summary": "Sponsor Star likec4 / likec4 Visualize, collaborate, and evolve the software architecture with alway"
+        "summary": "Sponsor Star likec4 / likec4 Visualize, collaborate, and evolve the software architecture with always actual and live di"
       },
       {
         "title": "iOfficeAI/AionUi",
         "link": "https://github.com/iOfficeAI/AionUi",
         "score": "13,506",
         "desc": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-        "summary": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Cod"
+        "summary": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, "
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "ClawdTalk",
+        "link": "https://www.producthunt.com/products/dubstream-by-camb",
+        "desc": "",
+        "summary": "这条主要讨论「ClawdTalk」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Agent Credit",
+        "link": "https://www.producthunt.com/products/openai",
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Dropstone 3",
+        "link": "https://www.producthunt.com/products/apple",
+        "desc": "",
+        "summary": "这条主要讨论「Dropstone 3」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Umbrel Pro",
+        "link": "https://www.producthunt.com/products/rivva",
+        "desc": "",
+        "summary": "这条主要讨论「Umbrel Pro」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Unicorne",
+        "link": "https://www.producthunt.com/products/afterpage",
+        "desc": "",
+        "summary": "这条主要讨论「Unicorne」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "CRML",
+        "link": "https://www.producthunt.com/products/bezel-2",
+        "desc": "",
+        "summary": "这条主要讨论「CRML」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "SuperX",
+        "link": "https://www.producthunt.com/products/sway-12",
+        "desc": "",
+        "summary": "这条主要讨论「SuperX」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "StayAwake.Dev",
+        "link": "https://www.producthunt.com/products/axel-3",
+        "desc": "",
+        "summary": "这条主要讨论「StayAwake.Dev」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Inspector",
+        "link": "https://www.producthunt.com/products/sunday-the-book-quotes-collector",
+        "desc": "",
+        "summary": "这条主要讨论「Inspector」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "VolumeHub",
+        "link": "https://www.producthunt.com/products/extrovert",
+        "desc": "",
+        "summary": "这条主要讨论「VolumeHub」，建议按与你当前课题相关度决定是否深读。"
       }
     ],
     "producthunt": [
@@ -201,52 +263,52 @@
       {
         "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
         "link": "",
-        "summary": "围绕 AI/Agent 方向的热门项目或讨论。"
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
       },
       {
         "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
         "link": "",
-        "summary": "围绕 AI/Agent 方向的热门项目或讨论。"
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
       },
       {
         "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
         "link": "",
-        "summary": "围绕 AI/Agent 方向的热门项目或讨论。"
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
       },
       {
         "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
         "link": "",
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
       },
       {
         "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
         "link": "",
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
       },
       {
         "title": "\"This is a good sign\" - 对某事件表示认可",
         "link": "",
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
       },
       {
         "title": "\"Wow\" - 简短评论",
         "link": "",
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
       },
       {
         "title": "支持 Fetterman 的观点",
         "link": "",
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
       },
       {
         "title": "\"Grok\" - 提及 Grok",
         "link": "",
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
       },
       {
         "title": "\"This is how the scam works\" - 批评某种骗局",
         "link": "",
-        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
       }
     ]
   }

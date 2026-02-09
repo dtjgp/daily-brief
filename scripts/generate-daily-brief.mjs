@@ -19,10 +19,32 @@ async function text(url) {
 const clean = (s = '') => s.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
 
 function oneLiner(title, desc = '') {
-  if (desc) return clean(desc).slice(0, 100);
-  if (/agent|ai|llm|gpt|model/i.test(title)) return '围绕 AI/Agent 方向的热门项目或讨论。';
-  if (/framework|sdk|tool|cli/i.test(title)) return '偏工具链/工程效率方向，适合快速落地尝试。';
-  return '今日热门条目，建议按需求快速筛选是否深入。';
+  const t = clean(title);
+  const d = clean(desc);
+
+  // 1) If we have description, prefer specific compressed summary
+  if (d) {
+    const s = d
+      .replace(/^\W+/, '')
+      .split(/(?<=[.!?。！？])\s+/)[0]
+      .slice(0, 120);
+    if (s.length >= 18) return s;
+  }
+
+  // 2) Keyword-driven synthesis from title to avoid repetitive generic text
+  const rules = [
+    [/\b(ai|agent|llm|gpt|model|openai|claude|gemini)\b/i, '聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。'],
+    [/\b(security|vuln|hack|exploit|cve|malware)\b/i, '偏安全/攻防方向，重点关注风险面与可操作防护建议。'],
+    [/\b(open source|github|repo|framework|sdk|cli|tool|library)\b/i, '偏开源工具链更新，适合评估是否纳入你的日常工作流。'],
+    [/\b(video|image|audio|speech|vision)\b/i, '偏多模态与内容生成方向，适合关注生产效率与质量提升。'],
+    [/\b(performance|latency|speed|efficient|optimization)\b/i, '核心在性能优化，建议关注速度、成本与精度三者平衡。'],
+  ];
+  for (const [re, line] of rules) {
+    if (re.test(`${t} ${d}`)) return line;
+  }
+
+  // 3) Fallback: still specific to title
+  return `这条主要讨论「${t.slice(0, 28)}${t.length > 28 ? '…' : ''}」，建议按与你当前课题相关度决定是否深读。`;
 }
 
 async function fetchHN(limit = 10) {
