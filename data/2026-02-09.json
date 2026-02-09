@@ -77,14 +77,14 @@
       {
         "title": "KeygraphHQ/shannon",
         "link": "https://github.com/KeygraphHQ/shannon",
-        "score": "15,133",
+        "score": "15,136",
         "desc": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
         "summary": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps."
       },
       {
         "title": "pydantic/monty",
         "link": "https://github.com/pydantic/monty",
-        "score": "3,391",
+        "score": "3,392",
         "desc": "Sponsor Star pydantic / monty A minimal, secure Python interpreter written in Rust for use by AI",
         "summary": "Sponsor Star pydantic / monty A minimal, secure Python interpreter written in Rust for use by AI"
       },
@@ -112,7 +112,7 @@
       {
         "title": "google/langextract",
         "link": "https://github.com/google/langextract",
-        "score": "25,027",
+        "score": "25,028",
         "desc": "Star google / langextract A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
         "summary": "Star google / langextract A Python library for extracting structured information from unstructured text using LLMs with "
       },
