@@ -5,15 +5,24 @@ const today = new Date();
 const date = today.toISOString().slice(0, 10);
 
 async function j(url) {
-  const r = await fetch(url, { headers: { 'User-Agent': 'daily-brief-bot/0.1' } });
+  const r = await fetch(url, { headers: { 'User-Agent': 'daily-brief-bot/0.2' } });
   if (!r.ok) throw new Error(`${r.status} ${url}`);
   return r.json();
 }
 
 async function text(url) {
-  const r = await fetch(url, { headers: { 'User-Agent': 'daily-brief-bot/0.1' } });
+  const r = await fetch(url, { headers: { 'User-Agent': 'daily-brief-bot/0.2' } });
   if (!r.ok) throw new Error(`${r.status} ${url}`);
   return r.text();
+}
+
+const clean = (s = '') => s.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+
+function oneLiner(title, desc = '') {
+  if (desc) return clean(desc).slice(0, 100);
+  if (/agent|ai|llm|gpt|model/i.test(title)) return '围绕 AI/Agent 方向的热门项目或讨论。';
+  if (/framework|sdk|tool|cli/i.test(title)) return '偏工具链/工程效率方向，适合快速落地尝试。';
+  return '今日热门条目，建议按需求快速筛选是否深入。';
 }
 
 async function fetchHN(limit = 10) {
@@ -25,32 +34,41 @@ async function fetchHN(limit = 10) {
       title: item.title,
       link: item.url || `https://news.ycombinator.com/item?id=${item.id}`,
       score: item.score || 0,
+      summary: oneLiner(item.title),
     });
   }
   return out;
 }
 
-async function fetchGitHubTrendingProxy(limit = 10) {
-  const since = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
-  const q = encodeURIComponent(`created:>${since}`);
-  const url = `https://api.github.com/search/repositories?q=${q}&sort=stars&order=desc&per_page=${limit}`;
-  const res = await j(url);
-  return (res.items || []).map((x) => ({
-    title: x.full_name,
-    link: x.html_url,
-    score: x.stargazers_count,
-    desc: x.description || '',
-  }));
+async function fetchGitHubTrending(limit = 10) {
+  const html = await text('https://github.com/trending');
+  const blocks = [...html.matchAll(/<article[\s\S]*?<\/article>/g)].slice(0, limit);
+  return blocks.map((m) => {
+    const b = m[0];
+    const repoPath = clean((b.match(/<h2[\s\S]*?<a[^>]*href="([^"]+)"/i) || [])[1] || '');
+    const title = repoPath.replace(/^\//, '');
+    const desc = clean((b.match(/<p[^>]*>([\s\S]*?)<\/p>/i) || [])[1] || '');
+    const starsRaw = clean((b.match(/<a[^>]*href="[^"]*stargazers"[^>]*>([\s\S]*?)<\/a>/i) || [])[1] || '');
+    return {
+      title,
+      link: repoPath ? `https://github.com${repoPath}` : 'https://github.com/trending',
+      score: starsRaw,
+      desc,
+      summary: oneLiner(title, desc),
+    };
+  }).filter((x) => x.title);
 }
 
 async function fetchProductHuntFeed(limit = 10) {
-  // Public feed (best-effort). If blocked, returns empty list.
   try {
     const xml = await text('https://www.producthunt.com/feed');
-    const items = [...xml.matchAll(/<item>[\s\S]*?<title>([\s\S]*?)<\/title>[\s\S]*?<link>([\s\S]*?)<\/link>/g)]
+    return [...xml.matchAll(/<item>[\s\S]*?<title>([\s\S]*?)<\/title>[\s\S]*?<link>([\s\S]*?)<\/link>[\s\S]*?(?:<description>([\s\S]*?)<\/description>)?/g)]
       .slice(0, limit)
-      .map((m) => ({ title: m[1].replace(/<!\[CDATA\[|\]\]>/g, '').trim(), link: m[2].trim() }));
-    return items;
+      .map((m) => {
+        const title = clean(m[1].replace(/<!\[CDATA\[|\]\]>/g, ''));
+        const desc = clean((m[3] || '').replace(/<!\[CDATA\[|\]\]>/g, ''));
+        return { title, link: clean(m[2]), desc, summary: oneLiner(title, desc) };
+      });
   } catch {
     return [];
   }
@@ -64,39 +82,70 @@ function fetchXFromLocalReport(limit = 10) {
   const latest = files[files.length - 1];
   const content = fs.readFileSync(path.join(xDir, latest), 'utf-8');
   const lines = content.split('\n').map((l) => l.trim()).filter(Boolean);
-  const picks = lines
+  return lines
     .filter((l) => /^\d+\.|^[-•]/.test(l) || l.includes('http'))
     .slice(0, limit)
-    .map((l) => ({ title: l.replace(/^\d+\.\s*/, ''), link: '' }));
-  return picks;
+    .map((l) => {
+      const title = l.replace(/^\d+\.\s*/, '');
+      return { title, link: '', summary: oneLiner(title) };
+    });
 }
 
 function mdSection(name, rows) {
   if (!rows.length) return `## ${name}\n\n_暂无数据_\n`;
-  const body = rows.map((r, i) => `${i + 1}. [${r.title}](${r.link || '#'})${r.score ? `（${r.score}）` : ''}${r.desc ? ` - ${r.desc}` : ''}`).join('\n');
+  const body = rows.map((r, i) => {
+    const meta = r.score ? `（${r.score}）` : '';
+    return `${i + 1}. [${r.title}](${r.link || '#'})${meta}\n   - 一句话：${r.summary}`;
+  }).join('\n');
   return `## ${name}\n\n${body}\n`;
+}
+
+function buildIndex() {
+  const dir = 'daily';
+  const files = fs.existsSync(dir)
+    ? fs.readdirSync(dir).filter((f) => /^\d{4}-\d{2}-\d{2}\.md$/.test(f)).sort().reverse()
+    : [];
+
+  const lines = [
+    '# Daily Brief Archive',
+    '',
+    `Last updated: ${date}`,
+    '',
+    ...files.map((f) => `- [${f.replace('.md', '')}](../daily/${f})`),
+    '',
+  ];
+
+  const htmlItems = files.map((f) => `<li><a href="../daily/${f}">${f.replace('.md', '')}</a></li>`).join('');
+  const html = `<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Daily Brief Archive</title></head><body><h1>Daily Brief Archive</h1><p>Last updated: ${date}</p><ul>${htmlItems}</ul></body></html>`;
+
+  fs.mkdirSync('site', { recursive: true });
+  fs.writeFileSync('site/index.md', lines.join('\n'));
+  fs.writeFileSync('site/index.html', html);
 }
 
 async function main() {
   const [hn, gh, ph] = await Promise.all([
     fetchHN(10),
-    fetchGitHubTrendingProxy(10),
+    fetchGitHubTrending(10),
     fetchProductHuntFeed(10),
   ]);
   const x = fetchXFromLocalReport(10);
 
-  const payload = { date, sources: { hackernews: hn, github: gh, producthunt: ph, x: x } };
+  const payload = { date, sources: { hackernews: hn, githubTrending: gh, producthunt: ph, x } };
+  fs.mkdirSync('data', { recursive: true });
+  fs.mkdirSync('daily', { recursive: true });
   fs.writeFileSync(`data/${date}.json`, JSON.stringify(payload, null, 2));
 
   const md = `# Daily Brief - ${date}\n\n` +
-    `> Sources: Hacker News / GitHub (trending proxy) / Product Hunt / X monitored stream\n\n` +
+    `> Sources: Hacker News / GitHub Trending / Product Hunt / X monitored stream\n\n` +
     mdSection('Hacker News', hn) + '\n' +
-    mdSection('GitHub Trending (proxy)', gh) + '\n' +
+    mdSection('GitHub Trending', gh) + '\n' +
     mdSection('Product Hunt', ph) + '\n' +
     mdSection('X (from local X report)', x) + '\n';
 
   fs.writeFileSync(`daily/${date}.md`, md);
-  console.log(`Generated daily/${date}.md`);
+  buildIndex();
+  console.log(`Generated daily/${date}.md, site/index.md, site/index.html`);
 }
 
 main().catch((e) => {

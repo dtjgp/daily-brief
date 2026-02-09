@@ -5,157 +5,187 @@
       {
         "title": "Art of Roads in Games",
         "link": "https://sandboxspirit.com/blog/art-of-roads-in-games/",
-        "score": 297
+        "score": 299,
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "Vouch",
         "link": "https://github.com/mitchellh/vouch",
-        "score": 843
+        "score": 845,
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "LispE: Lisp Interpreter with Pattern Programming and Lazy Evaluation",
         "link": "https://github.com/naver/lispe",
-        "score": 51
+        "score": 51,
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "Show HN: A custom font that displays Cistercian numerals using ligatures",
         "link": "https://bobbiec.github.io/cistercian-font.html",
-        "score": 89
+        "score": 89,
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "Every book recommended on the Odd Lots Discord",
         "link": "https://odd-lots-books.netlify.app/",
-        "score": 94
+        "score": 94,
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "Claude’s C Compiler vs. GCC",
         "link": "https://harshanu.space/en/tech/ccc-vs-gcc/",
-        "score": 250
+        "score": 254,
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "Apple XNU: Clutch Scheduler",
         "link": "https://github.com/apple-oss-distributions/xnu/blob/main/doc/scheduler/sched_clutch_edge.md",
-        "score": 137
+        "score": 138,
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "More Mac malware from Google search",
         "link": "https://eclecticlight.co/2026/01/30/more-malware-from-google-search/",
-        "score": 185
+        "score": 185,
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "Custom Firmware for the MZ-RH1 – Ready for Testing",
         "link": "https://sir68k.re/posts/rh1-firmware-available/",
-        "score": 46
+        "score": 46,
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "Clean Coder: The Dark Path (2017)",
         "link": "https://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html",
-        "score": 4
+        "score": 4,
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       }
     ],
-    "github": [
+    "githubTrending": [
       {
-        "title": "BlockRunAI/ClawRouter",
-        "link": "https://github.com/BlockRunAI/ClawRouter",
-        "score": 1879,
-        "desc": "Smart LLM router — save 78% on inference costs. 30+ models, one wallet, x402 micropayments."
+        "title": "KeygraphHQ/shannon",
+        "link": "https://github.com/KeygraphHQ/shannon",
+        "score": "15,019",
+        "desc": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "summary": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps. Shann"
       },
       {
-        "title": "mitchellh/vouch",
-        "link": "https://github.com/mitchellh/vouch",
-        "score": 1791,
-        "desc": "A community trust management system based on explicit vouches to participate."
+        "title": "pydantic/monty",
+        "link": "https://github.com/pydantic/monty",
+        "score": "3,362",
+        "desc": "Sponsor Star pydantic / monty A minimal, secure Python interpreter written in Rust for use by AI",
+        "summary": "Sponsor Star pydantic / monty A minimal, secure Python interpreter written in Rust for use by AI"
       },
       {
-        "title": "anthropics/claudes-c-compiler",
-        "link": "https://github.com/anthropics/claudes-c-compiler",
-        "score": 1762,
-        "desc": "Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel."
+        "title": "openai/skills",
+        "link": "https://github.com/openai/skills",
+        "score": "7,288",
+        "desc": "Star openai / skills Skills Catalog for Codex",
+        "summary": "Star openai / skills Skills Catalog for Codex"
       },
       {
-        "title": "antonpk1/excalidraw-mcp-app",
-        "link": "https://github.com/antonpk1/excalidraw-mcp-app",
-        "score": 1000,
-        "desc": "Streamable Excalidraw MCP App"
+        "title": "virattt/dexter",
+        "link": "https://github.com/virattt/dexter",
+        "score": "13,085",
+        "desc": "Star virattt / dexter An autonomous agent for deep financial research",
+        "summary": "Star virattt / dexter An autonomous agent for deep financial research"
       },
       {
-        "title": "foru17/clash-master",
-        "link": "https://github.com/foru17/clash-master",
-        "score": 918,
-        "desc": "A modern and elegant dashboard for visualizing and managing Clash network traffic."
+        "title": "microsoft/litebox",
+        "link": "https://github.com/microsoft/litebox",
+        "score": "1,587",
+        "desc": "Star microsoft / litebox A security-focused library OS supporting kernel- and user-mode execution",
+        "summary": "Star microsoft / litebox A security-focused library OS supporting kernel- and user-mode execution"
       },
       {
-        "title": "eljojo/rememory",
-        "link": "https://github.com/eljojo/rememory",
-        "score": 737,
-        "desc": "have a plan for the worst-case scenario"
+        "title": "google/langextract",
+        "link": "https://github.com/google/langextract",
+        "score": "25,016",
+        "desc": "Star google / langextract A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "summary": "Star google / langextract A Python library for extracting structured information from unstructured t"
       },
       {
-        "title": "SamNet-dev/paqctl",
-        "link": "https://github.com/SamNet-dev/paqctl",
-        "score": 608,
-        "desc": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation"
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "48,192",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology t"
       },
       {
-        "title": "op7418/CodePilot",
-        "link": "https://github.com/op7418/CodePilot",
-        "score": 557,
-        "desc": "A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js."
+        "title": "OpenBMB/MiniCPM-o",
+        "link": "https://github.com/OpenBMB/MiniCPM-o",
+        "score": "23,535",
+        "desc": "Star OpenBMB / MiniCPM-o A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+        "summary": "Star OpenBMB / MiniCPM-o A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimoda"
       },
       {
-        "title": "sanyuan0704/code-review-expert",
-        "link": "https://github.com/sanyuan0704/code-review-expert",
-        "score": 548,
-        "desc": "Expert code review skill: SOLID, security, performance, error handling, boundary conditions"
+        "title": "likec4/likec4",
+        "link": "https://github.com/likec4/likec4",
+        "score": "2,496",
+        "desc": "Sponsor Star likec4 / likec4 Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+        "summary": "Sponsor Star likec4 / likec4 Visualize, collaborate, and evolve the software architecture with alway"
       },
       {
-        "title": "zhukunpenglinyutong/codemoss",
-        "link": "https://github.com/zhukunpenglinyutong/codemoss",
-        "score": 545,
-        "desc": "下一代VibeCoding，何须用IDE"
+        "title": "iOfficeAI/AionUi",
+        "link": "https://github.com/iOfficeAI/AionUi",
+        "score": "13,493",
+        "desc": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+        "summary": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Cod"
       }
     ],
     "producthunt": [],
     "x": [
       {
         "title": "---",
-        "link": ""
+        "link": "",
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
-        "link": ""
+        "link": "",
+        "summary": "围绕 AI/Agent 方向的热门项目或讨论。"
       },
       {
         "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
-        "link": ""
+        "link": "",
+        "summary": "围绕 AI/Agent 方向的热门项目或讨论。"
       },
       {
         "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
-        "link": ""
+        "link": "",
+        "summary": "围绕 AI/Agent 方向的热门项目或讨论。"
       },
       {
         "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
-        "link": ""
+        "link": "",
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "---",
-        "link": ""
+        "link": "",
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
-        "link": ""
+        "link": "",
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "\"This is a good sign\" - 对某事件表示认可",
-        "link": ""
+        "link": "",
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "\"Wow\" - 简短评论",
-        "link": ""
+        "link": "",
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       },
       {
         "title": "支持 Fetterman 的观点",
-        "link": ""
+        "link": "",
+        "summary": "今日热门条目，建议按需求快速筛选是否深入。"
       }
     ]
   }
