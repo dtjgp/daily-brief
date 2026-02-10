@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-10",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+        "link": "https://arxiv.org/abs/2512.20798",
+        "score": 228,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Discord will require a face scan or ID for full access next month",
+        "link": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+        "score": 1602,
+        "desc": "https:&#x2F;&#x2F;discord.com&#x2F;press-releases&#x2F;discord-launches-teen-by-...https:&#x2F;&#x2F;discord.com&#x2F;safety&#x2F;how-discord-is-building-safer-exp...",
+        "summary": "https:&#x2F;&#x2F;discord.com&#x2F;press-releases&#x2F;discord-launches-teen-by-...https:&#x2F;&#x2F;discord.com&#x2F;sa"
+      },
+      {
+        "title": "Rust implementation of Mistral's Voxtral Mini 4B Realtime runs in your browser",
+        "link": "https://github.com/TrevorS/voxtral-mini-realtime-rs",
+        "score": 183,
+        "desc": "",
+        "summary": "这条主要讨论「Rust implementation of Mistr…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Brutalist Southbank Centre Listed",
+        "link": "https://www.architectsjournal.co.uk/news/brutalist-southbank-centre-finally-listed-after-35-years-of-refusals",
+        "score": 10,
+        "desc": "",
+        "summary": "这条主要讨论「Brutalist Southbank Centre L…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Pure C, CPU-only inference with Mistral Voxtral Realtime 4B speech to text model",
+        "link": "https://github.com/antirez/voxtral.c",
+        "score": 114,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Why is the sky blue?",
+        "link": "https://explainers.blog/posts/why-is-the-sky-blue/",
+        "score": 556,
+        "desc": "",
+        "summary": "这条主要讨论「Why is the sky blue?」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+        "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+        "score": 484,
+        "desc": "",
+        "summary": "这条主要讨论「Converting a $3.88 analog cl…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Discord Alternatives, Ranked",
+        "link": "https://taggart-tech.com/discord-alternatives/",
+        "score": 178,
+        "desc": "",
+        "summary": "这条主要讨论「Discord Alternatives, Ranked」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Hard-braking events as indicators of road segment crash risk",
+        "link": "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/",
+        "score": 269,
+        "desc": "",
+        "summary": "这条主要讨论「Hard-braking events as indic…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Is particle physics dead, dying, or just hard?",
+        "link": "https://www.quantamagazine.org/is-particle-physics-dead-dying-or-just-hard-20260126/",
+        "score": 105,
+        "desc": "",
+        "summary": "这条主要讨论「Is particle physics dead, dy…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "KeygraphHQ/shannon",
+        "link": "https://github.com/KeygraphHQ/shannon",
+        "score": "18,387",
+        "desc": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "summary": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps."
+      },
+      {
+        "title": "virattt/dexter",
+        "link": "https://github.com/virattt/dexter",
+        "score": "13,815",
+        "desc": "Star virattt / dexter An autonomous agent for deep financial research",
+        "summary": "Star virattt / dexter An autonomous agent for deep financial research"
+      },
+      {
+        "title": "pydantic/monty",
+        "link": "https://github.com/pydantic/monty",
+        "score": "4,197",
+        "desc": "Sponsor Star pydantic / monty A minimal, secure Python interpreter written in Rust for use by AI",
+        "summary": "Sponsor Star pydantic / monty A minimal, secure Python interpreter written in Rust for use by AI"
+      },
+      {
+        "title": "hsliuping/TradingAgents-CN",
+        "link": "https://github.com/hsliuping/TradingAgents-CN",
+        "score": "16,496",
+        "desc": "Star hsliuping / TradingAgents-CN 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+        "summary": "Star hsliuping / TradingAgents-CN 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版"
+      },
+      {
+        "title": "iOfficeAI/AionUi",
+        "link": "https://github.com/iOfficeAI/AionUi",
+        "score": "14,081",
+        "desc": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+        "summary": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, "
+      },
+      {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/public-apis/public-apis",
+        "score": "397,454",
+        "desc": "Star public-apis / public-apis A collective list of free APIs",
+        "summary": "Star public-apis / public-apis A collective list of free APIs"
+      },
+      {
+        "title": "github/gh-aw",
+        "link": "https://github.com/github/gh-aw",
+        "score": "1,070",
+        "desc": "Star github / gh-aw GitHub Agentic Workflows",
+        "summary": "Star github / gh-aw GitHub Agentic Workflows"
+      },
+      {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "score": "93,332",
+        "desc": "Star Shubhamsaboo / awesome-llm-apps Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "summary": "Star Shubhamsaboo / awesome-llm-apps Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemi"
+      },
+      {
+        "title": "gitbutlerapp/gitbutler",
+        "link": "https://github.com/gitbutlerapp/gitbutler",
+        "score": "18,731",
+        "desc": "Star gitbutlerapp / gitbutler The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+        "summary": "Star gitbutlerapp / gitbutler The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte"
+      },
+      {
+        "title": "microsoft/litebox",
+        "link": "https://github.com/microsoft/litebox",
+        "score": "1,784",
+        "desc": "Star microsoft / litebox A security-focused library OS supporting kernel- and user-mode execution",
+        "summary": "Star microsoft / litebox A security-focused library OS supporting kernel- and user-mode execution"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Claw Cognition",
+        "link": "https://www.producthunt.com/products/claw-cognition",
+        "desc": "<p> Design how your AI thinks </p> <p> <a href=\"https://www.producthunt.com/products/claw-cognition?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076776?app_id=339\">Link</a> </p>",
+        "summary": "Design how your AI thinks "
+      },
+      {
+        "title": "Evra",
+        "link": "https://www.producthunt.com/products/evra-your-ai-therapy-companion",
+        "desc": "<p> Talk, vent, and feel better with 24/7 AI therapy </p> <p> <a href=\"https://www.producthunt.com/products/evra-your-ai-therapy-companion?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076345?app_id=339\">Link</a> </p>",
+        "summary": "Talk, vent, and feel better with 24/7 AI therapy "
+      },
+      {
+        "title": "PredictLeads Technographics Dataset",
+        "link": "https://www.producthunt.com/products/predictleads-technographics-dataset",
+        "desc": "<p> Source-backed technographics with an API and MCP server. </p> <p> <a href=\"https://www.producthunt.com/products/predictleads-technographics-dataset?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1067149?app_id=339\">Link</a> </p>",
+        "summary": "Source-backed technographics with an API and MCP server."
+      },
+      {
+        "title": "Tinkerer Club",
+        "link": "https://www.producthunt.com/products/tinkerer-club-own-everything",
+        "desc": "<p> The private club for ppl who automate, self-host, and use AI </p> <p> <a href=\"https://www.producthunt.com/products/tinkerer-club-own-everything?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076378?app_id=339\">Link</a> </p>",
+        "summary": "The private club for ppl who automate, self-host, and use AI "
+      },
+      {
+        "title": "Tapfree for Android",
+        "link": "https://www.producthunt.com/products/tapfree-for-android-2",
+        "desc": "<p> Voice dictation that adapts to what’s on your screen </p> <p> <a href=\"https://www.producthunt.com/products/tapfree-for-android-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076695?app_id=339\">Link</a> </p>",
+        "summary": "Voice dictation that adapts to what’s on your screen "
+      },
+      {
+        "title": "Spawned",
+        "link": "https://www.producthunt.com/products/spawned",
+        "desc": "<p> Build, launch, and discover products in a single platform </p> <p> <a href=\"https://www.producthunt.com/products/spawned?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1073980?app_id=339\">Link</a> </p>",
+        "summary": "Build, launch, and discover products in a single platform "
+      },
+      {
+        "title": "Agent Builder by Thesys",
+        "link": "https://www.producthunt.com/products/thesys",
+        "desc": "<p> Build AI agents that respond with UI instead of text </p> <p> <a href=\"https://www.producthunt.com/products/thesys?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076788?app_id=339\">Link</a> </p>",
+        "summary": "Build AI agents that respond with UI instead of text "
+      },
+      {
+        "title": "Makers Page",
+        "link": "https://www.producthunt.com/products/makers-page",
+        "desc": "<p> Your hub to showcase your projects and verify your revenue </p> <p> <a href=\"https://www.producthunt.com/products/makers-page?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076705?app_id=339\">Link</a> </p>",
+        "summary": "Your hub to showcase your projects and verify your revenue "
+      },
+      {
+        "title": "Cosmic CLI",
+        "link": "https://www.producthunt.com/products/cosmic",
+        "desc": "<p> AI-powered CLI that builds, deploys, and manages content. </p> <p> <a href=\"https://www.producthunt.com/products/cosmic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076080?app_id=339\">Link</a> </p>",
+        "summary": "AI-powered CLI that builds, deploys, and manages content."
+      },
+      {
+        "title": "Video Forms",
+        "link": "https://www.producthunt.com/products/video-forms",
+        "desc": "<p> Embed questionnaires in videos to create interactive forms </p> <p> <a href=\"https://www.producthunt.com/products/video-forms?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074191?app_id=339\">Link</a> </p>",
+        "summary": "Embed questionnaires in videos to create interactive forms "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
