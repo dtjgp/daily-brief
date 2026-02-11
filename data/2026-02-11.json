@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-11",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Windows Notepad App Remote Code Execution Vulnerability",
+        "link": "https://www.cve.org/CVERecord?id=CVE-2026-20841",
+        "score": 41,
+        "desc": "",
+        "summary": "这条主要讨论「Windows Notepad App Remote C…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "The AI Vampire",
+        "link": "https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163",
+        "score": 5,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "The Feynman Lectures on Physics (1961-1964)",
+        "link": "https://www.feynmanlectures.caltech.edu/",
+        "score": 294,
+        "desc": "",
+        "summary": "这条主要讨论「The Feynman Lectures on Phys…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Exploring a Modern SMTPE 2110 Broadcast Truck",
+        "link": "https://www.jeffgeerling.com/blog/2026/exploring-a-modern-smpte-2110-broadcast-truck-with-my-dad/",
+        "score": 95,
+        "desc": "",
+        "summary": "这条主要讨论「Exploring a Modern SMTPE 211…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "The Singularity will occur on a Tuesday",
+        "link": "https://campedersen.com/singularity",
+        "score": 1031,
+        "desc": "",
+        "summary": "这条主要讨论「The Singularity will occur o…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
+        "link": "https://entire.io/blog/hello-entire-world/",
+        "score": 471,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "The Day the Telnet Died",
+        "link": "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/",
+        "score": 322,
+        "desc": "",
+        "summary": "这条主要讨论「The Day the Telnet Died」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Lessons you will learn living in a snowy place",
+        "link": "https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/",
+        "score": 137,
+        "desc": "",
+        "summary": "这条主要讨论「Lessons you will learn livin…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "CoLoop (YC S21) Is Hiring Ex Technical Founders in London",
+        "link": "https://www.workatastartup.com/jobs/90016",
+        "score": 1,
+        "desc": "",
+        "summary": "这条主要讨论「CoLoop (YC S21) Is Hiring Ex…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Stay Hungry, Stay Foolish (2005)",
+        "link": "https://stevejobsarchive.com/stories/stay-hungry-stay-foolish",
+        "score": 21,
+        "desc": "",
+        "summary": "这条主要讨论「Stay Hungry, Stay Foolish (2…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "google/langextract",
+        "link": "https://github.com/google/langextract",
+        "score": "29,413",
+        "desc": "Star google / langextract A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "summary": "Star google / langextract A Python library for extracting structured information from unstructured text using LLMs with "
+      },
+      {
+        "title": "iOfficeAI/AionUi",
+        "link": "https://github.com/iOfficeAI/AionUi",
+        "score": "14,779",
+        "desc": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+        "summary": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, "
+      },
+      {
+        "title": "KeygraphHQ/shannon",
+        "link": "https://github.com/KeygraphHQ/shannon",
+        "score": "20,156",
+        "desc": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+        "summary": "Star KeygraphHQ / shannon Fully autonomous AI hacker to find actual exploits in your web apps."
+      },
+      {
+        "title": "github/gh-aw",
+        "link": "https://github.com/github/gh-aw",
+        "score": "1,463",
+        "desc": "Star github / gh-aw GitHub Agentic Workflows",
+        "summary": "Star github / gh-aw GitHub Agentic Workflows"
+      },
+      {
+        "title": "EveryInc/compound-engineering-plugin",
+        "link": "https://github.com/EveryInc/compound-engineering-plugin",
+        "score": "8,260",
+        "desc": "Star EveryInc / compound-engineering-plugin Official Claude Code compound engineering plugin",
+        "summary": "Star EveryInc / compound-engineering-plugin Official Claude Code compound engineering plugin"
+      },
+      {
+        "title": "hsliuping/TradingAgents-CN",
+        "link": "https://github.com/hsliuping/TradingAgents-CN",
+        "score": "16,853",
+        "desc": "Star hsliuping / TradingAgents-CN 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+        "summary": "Star hsliuping / TradingAgents-CN 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版"
+      },
+      {
+        "title": "gitbutlerapp/gitbutler",
+        "link": "https://github.com/gitbutlerapp/gitbutler",
+        "score": "19,128",
+        "desc": "Star gitbutlerapp / gitbutler The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+        "summary": "Star gitbutlerapp / gitbutler The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte"
+      },
+      {
+        "title": "carlvellotti/claude-code-pm-course",
+        "link": "https://github.com/carlvellotti/claude-code-pm-course",
+        "score": "951",
+        "desc": "Star carlvellotti / claude-code-pm-course Interactive course teaching Product Managers how to use Claude Code effectively",
+        "summary": "Star carlvellotti / claude-code-pm-course Interactive course teaching Product Managers how to use Claude Code effectivel"
+      },
+      {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "score": "93,786",
+        "desc": "Star Shubhamsaboo / awesome-llm-apps Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "summary": "Star Shubhamsaboo / awesome-llm-apps Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemi"
+      },
+      {
+        "title": "drawdb-io/drawdb",
+        "link": "https://github.com/drawdb-io/drawdb",
+        "score": "36,490",
+        "desc": "Star drawdb-io / drawdb Free, simple, and intuitive online database diagram editor and SQL generator.",
+        "summary": "Star drawdb-io / drawdb Free, simple, and intuitive online database diagram editor and SQL generator."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "SpotVault",
+        "link": "https://www.producthunt.com/products/spotvault",
+        "desc": "<p> Collect, save, and keep your foraging spots private </p> <p> <a href=\"https://www.producthunt.com/products/spotvault?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074050?app_id=339\">Link</a> </p>",
+        "summary": "Collect, save, and keep your foraging spots private "
+      },
+      {
+        "title": "Antal.Ai",
+        "link": "https://www.producthunt.com/products/antal-ai",
+        "desc": "<p> Detects and obscures people in realtime video streams </p> <p> <a href=\"https://www.producthunt.com/products/antal-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076540?app_id=339\">Link</a> </p>",
+        "summary": "Detects and obscures people in realtime video streams "
+      },
+      {
+        "title": "JumprAI",
+        "link": "https://www.producthunt.com/products/jumprai",
+        "desc": "<p> Find any moment inside YouTube videos with AI search </p> <p> <a href=\"https://www.producthunt.com/products/jumprai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077121?app_id=339\">Link</a> </p>",
+        "summary": "Find any moment inside YouTube videos with AI search "
+      },
+      {
+        "title": "Doraverse's All-in-One AI for Meetings",
+        "link": "https://www.producthunt.com/products/doraverse-3",
+        "desc": "<p> Meet in any language with live translations </p> <p> <a href=\"https://www.producthunt.com/products/doraverse-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075004?app_id=339\">Link</a> </p>",
+        "summary": "Meet in any language with live translations "
+      },
+      {
+        "title": "happycapy",
+        "link": "https://www.producthunt.com/products/happycapy",
+        "desc": "<p> The agent-native computer, for the rest of us </p> <p> <a href=\"https://www.producthunt.com/products/happycapy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074937?app_id=339\">Link</a> </p>",
+        "summary": "The agent-native computer, for the rest of us "
+      },
+      {
+        "title": "Willow for Developers",
+        "link": "https://www.producthunt.com/products/willow-voice",
+        "desc": "<p> Dictation for Cursor & AI IDEs, the fastest way to vibe code </p> <p> <a href=\"https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076736?app_id=339\">Link</a> </p>",
+        "summary": "Dictation for Cursor & AI IDEs, the fastest way to vibe code "
+      },
+      {
+        "title": "Tines",
+        "link": "https://www.producthunt.com/products/tines",
+        "desc": "<p> The intelligent workflow platform </p> <p> <a href=\"https://www.producthunt.com/products/tines?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071929?app_id=339\">Link</a> </p>",
+        "summary": "The intelligent workflow platform "
+      },
+      {
+        "title": "Revo AI Email Assistant",
+        "link": "https://www.producthunt.com/products/revo-ai",
+        "desc": "<p> The first email AI that doesn't suck </p> <p> <a href=\"https://www.producthunt.com/products/revo-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1034112?app_id=339\">Link</a> </p>",
+        "summary": "The first email AI that doesn't suck "
+      },
+      {
+        "title": "Oz",
+        "link": "https://www.producthunt.com/products/warp",
+        "desc": "<p> Run hundreds of cloud agents in parallel </p> <p> <a href=\"https://www.producthunt.com/products/warp?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077468?app_id=339\">Link</a> </p>",
+        "summary": "Run hundreds of cloud agents in parallel "
+      },
+      {
+        "title": "0xAudit",
+        "link": "https://www.producthunt.com/products/0xaudit",
+        "desc": "<p> The security layer for AI agents to scan, fix verify via MCP </p> <p> <a href=\"https://www.producthunt.com/products/0xaudit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076715?app_id=339\">Link</a> </p>",
+        "summary": "The security layer for AI agents to scan, fix verify via MCP "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
