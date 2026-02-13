@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-13",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Resizing windows on macOS Tahoe – the saga continues",
+        "link": "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/",
+        "score": 487,
+        "desc": "",
+        "summary": "这条主要讨论「Resizing windows on macOS Ta…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "MMAcevedo aka Lena by qntm",
+        "link": "https://qntm.org/mmacevedo",
+        "score": 50,
+        "desc": "",
+        "summary": "这条主要讨论「MMAcevedo aka Lena by qntm」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "GPT‑5.3‑Codex‑Spark",
+        "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+        "score": 707,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Gemini 3 Deep Think",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+        "score": 826,
+        "desc": "https:&#x2F;&#x2F;x.com&#x2F;GoogleDeepMind&#x2F;status&#x2F;2021981510400709092https:&#x2F;&#x2F;x.com&#x2F;fchollet&#x2F;status&#x2F;2021983310541729894",
+        "summary": "https:&#x2F;&#x2F;x.com&#x2F;GoogleDeepMind&#x2F;status&#x2F;2021981510400709092https:&#x2F;&#x2F;x.com&#x2F;fchollet&#x"
+      },
+      {
+        "title": "Skip the Tips: A game to select \"No Tip\" but dark patterns try to stop you",
+        "link": "https://skipthe.tips/",
+        "score": 283,
+        "desc": "",
+        "summary": "这条主要讨论「Skip the Tips: A game to sel…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Ring owners are returning their cameras",
+        "link": "https://www.msn.com/en-us/lifestyle/shopping/ring-owners-are-returning-their-cameras-here-s-how-much-you-can-get/ar-AA1W8Qa3",
+        "score": 74,
+        "desc": "",
+        "summary": "这条主要讨论「Ring owners are returning th…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "AWS Adds support for nested virtualization",
+        "link": "https://github.com/aws/aws-sdk-go-v2/commit/3dca5e45d5ad05460b93410087833cbaa624754e",
+        "score": 186,
+        "desc": "",
+        "summary": "这条主要讨论「AWS Adds support for nested …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "An AI agent published a hit piece on me",
+        "link": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+        "score": 1744,
+        "desc": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46987559 - Feb 2026 (582 comments)",
+        "summary": "Previously: AI agent opens a PR write a blogpost to shames the maintainer who closes it - https:&#x2F;&#x2F;news.ycombin"
+      },
+      {
+        "title": "Asimov (YC W26) Is Hiring",
+        "link": "https://news.ycombinator.com/item?id=46999753",
+        "score": 1,
+        "desc": "We&#x27;re building training data for humanoid robots by collecting egocentric video of people doing everyday tasks.The role: Wear a phone mounted on a lightweight headband while going about your day — cooking, cleaning, desk work, errands, organizing, whatever you normally do. We send you the kit (headband + guide), you download our app, and start recording.Details: - $20&#x2F;hr base pay, raises up to $25&#x2F;hr after your first 5 hours collected.- Bonus incentives based on volume of data collected- Unlimited hours, flexible schedule- No technical experience required — training provided- We ship you everything you need except for phone.Privacy: We do not collect audio. All faces and PII are automatically blurred.Full remote, anywhere in the world. Fill out our interest form at to get started.https:&#x2F;&#x2F;tryasimov.ai&#x2F;collectors",
+        "summary": "We&#x27;re building training data for humanoid robots by collecting egocentric video of people doing everyday tasks.The "
+      },
+      {
+        "title": "We interfaced single-threaded C++ with multi-threaded Rust",
+        "link": "https://antithesis.com/blog/2026/rust_cpp/",
+        "score": 14,
+        "desc": "",
+        "summary": "这条主要讨论「We interfaced single-threade…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "tambo-ai/tambo",
+        "link": "https://github.com/tambo-ai/tambo",
+        "score": "9,238",
+        "desc": "Star tambo-ai / tambo Generative UI SDK for React",
+        "summary": "Star tambo-ai / tambo Generative UI SDK for React"
+      },
+      {
+        "title": "danielmiessler/Personal_AI_Infrastructure",
+        "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+        "score": "7,714",
+        "desc": "Sponsor Star danielmiessler / Personal_AI_Infrastructure Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+        "summary": "Sponsor Star danielmiessler / Personal_AI_Infrastructure Agentic AI Infrastructure for magnifying HUMAN capabilities."
+      },
+      {
+        "title": "google/langextract",
+        "link": "https://github.com/google/langextract",
+        "score": "31,665",
+        "desc": "Star google / langextract A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+        "summary": "Star google / langextract A Python library for extracting structured information from unstructured text using LLMs with "
+      },
+      {
+        "title": "ChromeDevTools/chrome-devtools-mcp",
+        "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "score": "24,517",
+        "desc": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents",
+        "summary": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents"
+      },
+      {
+        "title": "microsoft/PowerToys",
+        "link": "https://github.com/microsoft/PowerToys",
+        "score": "129,720",
+        "desc": "Star microsoft / PowerToys Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+        "summary": "Star microsoft / PowerToys Microsoft PowerToys is a collection of utilities that supercharge productivity and customizat"
+      },
+      {
+        "title": "iOfficeAI/AionUi",
+        "link": "https://github.com/iOfficeAI/AionUi",
+        "score": "15,559",
+        "desc": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+        "summary": "Star iOfficeAI / AionUi Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, "
+      },
+      {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "score": "94,513",
+        "desc": "Star Shubhamsaboo / awesome-llm-apps Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "summary": "Star Shubhamsaboo / awesome-llm-apps Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemi"
+      },
+      {
+        "title": "rowboatlabs/rowboat",
+        "link": "https://github.com/rowboatlabs/rowboat",
+        "score": "5,322",
+        "desc": "Star rowboatlabs / rowboat Open-source AI coworker, with memory",
+        "summary": "Star rowboatlabs / rowboat Open-source AI coworker, with memory"
+      },
+      {
+        "title": "github/gh-aw",
+        "link": "https://github.com/github/gh-aw",
+        "score": "2,078",
+        "desc": "Star github / gh-aw GitHub Agentic Workflows",
+        "summary": "Star github / gh-aw GitHub Agentic Workflows"
+      },
+      {
+        "title": "unslothai/unsloth",
+        "link": "https://github.com/unslothai/unsloth",
+        "score": "52,109",
+        "desc": "Sponsor Star unslothai / unsloth Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+        "summary": "Sponsor Star unslothai / unsloth Fine-tuning &amp; Reinforcement Learning for LLMs."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Typeletter",
+        "link": "https://www.producthunt.com/products/typeletter-letters-to-the-soul",
+        "desc": "<p> Turn your browser into a cozy, nostalgic writing nook </p> <p> <a href=\"https://www.producthunt.com/products/typeletter-letters-to-the-soul?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078401?app_id=339\">Link</a> </p>",
+        "summary": "Turn your browser into a cozy, nostalgic writing nook "
+      },
+      {
+        "title": "GPT‑5.3‑Codex‑Spark",
+        "link": "https://www.producthunt.com/products/openai",
+        "desc": "<p> An ultra-fast model for real-time coding in Codex </p> <p> <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078542?app_id=339\">Link</a> </p>",
+        "summary": "An ultra-fast model for real-time coding in Codex "
+      },
+      {
+        "title": "Walme Wallet",
+        "link": "https://www.producthunt.com/products/walme-wallet",
+        "desc": "<p> A unified hub for all your Web3 wallets </p> <p> <a href=\"https://www.producthunt.com/products/walme-wallet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077307?app_id=339\">Link</a> </p>",
+        "summary": "A unified hub for all your Web3 wallets "
+      },
+      {
+        "title": "Lovon AI Therapy",
+        "link": "https://www.producthunt.com/products/lovon",
+        "desc": "<p> Talk it out and feel better </p> <p> <a href=\"https://www.producthunt.com/products/lovon?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076729?app_id=339\">Link</a> </p>",
+        "summary": "Talk it out and feel better "
+      },
+      {
+        "title": "TrumpRx",
+        "link": "https://www.producthunt.com/products/trumprx",
+        "desc": "<p> Find the world's lowest prices on prescription drugs </p> <p> <a href=\"https://www.producthunt.com/products/trumprx?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078709?app_id=339\">Link</a> </p>",
+        "summary": "Find the world's lowest prices on prescription drugs "
+      },
+      {
+        "title": "Cosmic-light",
+        "link": "https://www.producthunt.com/products/cosmic-light",
+        "desc": "<p> A stunning Dynamic Island Control Center for Windows </p> <p> <a href=\"https://www.producthunt.com/products/cosmic-light?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078606?app_id=339\">Link</a> </p>",
+        "summary": "A stunning Dynamic Island Control Center for Windows "
+      },
+      {
+        "title": "Atomic Bot",
+        "link": "https://www.producthunt.com/products/atomic-bot",
+        "desc": "<p> One-click OpenClaw macOS app </p> <p> <a href=\"https://www.producthunt.com/products/atomic-bot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078632?app_id=339\">Link</a> </p>",
+        "summary": "One-click OpenClaw macOS app "
+      },
+      {
+        "title": "FlowGrid",
+        "link": "https://www.producthunt.com/products/flowgrid",
+        "desc": "<p> Private, AI-powered CRM that builds itself from your data </p> <p> <a href=\"https://www.producthunt.com/products/flowgrid?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077021?app_id=339\">Link</a> </p>",
+        "summary": "Private, AI-powered CRM that builds itself from your data "
+      },
+      {
+        "title": "Product Front",
+        "link": "https://www.producthunt.com/products/product-front",
+        "desc": "<p> A place to get discovered faster and discover new products </p> <p> <a href=\"https://www.producthunt.com/products/product-front?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078357?app_id=339\">Link</a> </p>",
+        "summary": "A place to get discovered faster and discover new products "
+      },
+      {
+        "title": "ZenMux",
+        "link": "https://www.producthunt.com/products/zenmux-2",
+        "desc": "<p> An Enterprise-Grade LLM Gateway with Automatic Compensation </p> <p> <a href=\"https://www.producthunt.com/products/zenmux-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076499?app_id=339\">Link</a> </p>",
+        "summary": "An Enterprise-Grade LLM Gateway with Automatic Compensation "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
