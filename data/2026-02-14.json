@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-14",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+        "link": "https://github.com/mickamy/sql-tap",
+        "score": 74,
+        "desc": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL&#x2F;MySQL wire protocol and displays them in a terminal UI. You can run EXPLAIN on any captured query. No application code changes needed — just change the port.",
+        "summary": "sql-tap is a transparent proxy that captures SQL queries by parsing the PostgreSQL&#x2F;MySQL wire protocol and displays"
+      },
+      {
+        "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+        "link": "https://www.wallstreetraider.com/story.html",
+        "score": 207,
+        "desc": "Hello my name is Ben Ward for the past 3 years I have been remastering the financial game Wall Street Raider created by Michael Jenkins originally on DOS in 1986.It has been a rough journey but I finally see the light at the end of the tunnel. I just recently redid the website and thought maybe the full story of how this project came to be would interest you all. Thank you for reading.",
+        "summary": "Hello my name is Ben Ward for the past 3 years I have been remastering the financial game Wall Street Raider created by "
+      },
+      {
+        "title": "Understanding the Go Compiler: The Linker",
+        "link": "https://internals-for-interns.com/posts/the-go-linker/",
+        "score": 52,
+        "desc": "",
+        "summary": "这条主要讨论「Understanding the Go Compile…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "The Three Year Myth",
+        "link": "https://green.spacedino.net/the-three-year-myth/",
+        "score": 20,
+        "desc": "",
+        "summary": "这条主要讨论「The Three Year Myth」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+        "link": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+        "score": 146,
+        "desc": "Hi HN! I&#x27;m currently a Master&#x27;s student at USTC (University of Science and Technology of China). I&#x27;ve been diving deep into Data Engineering, especially in the context of Large Language Models (LLMs).The Problem: I found that learning resources for modern data engineering are often fragmented and scattered across hundreds of medium articles or disjointed tutorials. It&#x27;s hard to piece everything together into a coherent system.The Solution: I decided to open-source my learning notes and build them into a structured book. My goal is to help developers fast-track their learning curve.Key Features:LLM-Centric: Focuses on data pipelines specifically designed for LLM training and RAG systems.Scenario-Based: Instead of just listing tools, I compare different methods&#x2F;architectures based on specific business scenarios (e.g., &quot;When to use Vector DB vs. Keyword Search&quot;).Hands-on Projects: Includes full code for real-world implementations, not just &quot;Hello World&quot; examples.This is a work in progress, and I&#x27;m treating it as &quot;Book-as-Code&quot;. I would love to hear your feedback on the roadmap or any &quot;anti-patterns&quot; I might have included!Check it out:Online: https:&#x2F;&#x2F;datascale-ai.github.io&#x2F;data_engineering_book&#x2F;GitHub: https:&#x2F;&#x2F;github.com&#x2F;datascale-ai&#x2F;data_engineering_book",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Common Lisp Screenshots: today's CL applications in action",
+        "link": "http://www.lisp-screenshots.org",
+        "score": 96,
+        "desc": "",
+        "summary": "这条主要讨论「Common Lisp Screenshots: tod…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "GPT-5.2 derives a new result in theoretical physics",
+        "link": "https://openai.com/index/new-result-theoretical-physics/",
+        "score": 461,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Backblaze Drive Stats for 2025",
+        "link": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+        "score": 54,
+        "desc": "",
+        "summary": "这条主要讨论「Backblaze Drive Stats for 20…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Cogram (YC W22) – Hiring former technical founders",
+        "link": "https://www.ycombinator.com/companies/cogram/jobs/LDTrViN-ex-technical-founder-product-engineer",
+        "score": 1,
+        "desc": "",
+        "summary": "这条主要讨论「Cogram (YC W22) – Hiring for…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Building a TUI is easy now",
+        "link": "https://hatchet.run/blog/tuis-are-easy-now",
+        "score": 210,
+        "desc": "",
+        "summary": "这条主要讨论「Building a TUI is easy now」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "SynkraAI/aios-core",
+        "link": "https://github.com/SynkraAI/aios-core",
+        "score": "476",
+        "desc": "Star SynkraAI / aios-core Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "summary": "Star SynkraAI / aios-core Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0"
+      },
+      {
+        "title": "ChromeDevTools/chrome-devtools-mcp",
+        "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "score": "24,812",
+        "desc": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents",
+        "summary": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents"
+      },
+      {
+        "title": "danielmiessler/Personal_AI_Infrastructure",
+        "link": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+        "score": "8,214",
+        "desc": "Sponsor Star danielmiessler / Personal_AI_Infrastructure Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+        "summary": "Sponsor Star danielmiessler / Personal_AI_Infrastructure Agentic AI Infrastructure for magnifying HUMAN capabilities."
+      },
+      {
+        "title": "patchy631/ai-engineering-hub",
+        "link": "https://github.com/patchy631/ai-engineering-hub",
+        "score": "29,439",
+        "desc": "Sponsor Star patchy631 / ai-engineering-hub In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+        "summary": "Sponsor Star patchy631 / ai-engineering-hub In-depth tutorials on LLMs, RAGs and real-world AI agent applications."
+      },
+      {
+        "title": "TelegramMessenger/MTProxy",
+        "link": "https://github.com/TelegramMessenger/MTProxy",
+        "score": "5,920",
+        "desc": "",
+        "summary": "这条主要讨论「TelegramMessenger/MTProxy」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "google-deepmind/superhuman",
+        "link": "https://github.com/google-deepmind/superhuman",
+        "score": "424",
+        "desc": "",
+        "summary": "这条主要讨论「google-deepmind/superhuman」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "cheahjs/free-llm-api-resources",
+        "link": "https://github.com/cheahjs/free-llm-api-resources",
+        "score": "10,802",
+        "desc": "Star cheahjs / free-llm-api-resources A list of free LLM inference resources accessible via API.",
+        "summary": "Star cheahjs / free-llm-api-resources A list of free LLM inference resources accessible via API."
+      },
+      {
+        "title": "HandsOnLLM/Hands-On-Large-Language-Models",
+        "link": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+        "score": "21,224",
+        "desc": "Star HandsOnLLM / Hands-On-Large-Language-Models Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+        "summary": "Star HandsOnLLM / Hands-On-Large-Language-Models Official code repo for the O'Reilly Book - \"Hands-On Large Language Mod"
+      },
+      {
+        "title": "THUDM/slime",
+        "link": "https://github.com/THUDM/slime",
+        "score": "4,125",
+        "desc": "Star THUDM / slime slime is an LLM post-training framework for RL Scaling.",
+        "summary": "Star THUDM / slime slime is an LLM post-training framework for RL Scaling."
+      },
+      {
+        "title": "DebugSwift/DebugSwift",
+        "link": "https://github.com/DebugSwift/DebugSwift",
+        "score": "1,519",
+        "desc": "Sponsor Star DebugSwift / DebugSwift A toolkit to make debugging iOS applications easier 🚀",
+        "summary": "Sponsor Star DebugSwift / DebugSwift A toolkit to make debugging iOS applications easier 🚀"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "SnapPoint",
+        "link": "https://www.producthunt.com/products/snappoint",
+        "desc": "<p> Make Your System Snap Back Into Alignment </p> <p> <a href=\"https://www.producthunt.com/products/snappoint?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075242?app_id=339\">Link</a> </p>",
+        "summary": "Make Your System Snap Back Into Alignment "
+      },
+      {
+        "title": "WikiTrip 2.0",
+        "link": "https://www.producthunt.com/products/wikitrip",
+        "desc": "<p> Location-based audio guide powered by Wikipedia </p> <p> <a href=\"https://www.producthunt.com/products/wikitrip?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078961?app_id=339\">Link</a> </p>",
+        "summary": "Location-based audio guide powered by Wikipedia "
+      },
+      {
+        "title": "Termsy",
+        "link": "https://www.producthunt.com/products/termsy",
+        "desc": "<p> Scans terms and conditions for you </p> <p> <a href=\"https://www.producthunt.com/products/termsy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078850?app_id=339\">Link</a> </p>",
+        "summary": "Scans terms and conditions for you "
+      },
+      {
+        "title": "CozyTwo",
+        "link": "https://www.producthunt.com/products/cozytwo",
+        "desc": "<p> Build a home together, even when you're apart. </p> <p> <a href=\"https://www.producthunt.com/products/cozytwo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070457?app_id=339\">Link</a> </p>",
+        "summary": "Build a home together, even when you're apart."
+      },
+      {
+        "title": "TexTab",
+        "link": "https://www.producthunt.com/products/textab",
+        "desc": "<p> Turn any AI task into a Keyboard Shortcut </p> <p> <a href=\"https://www.producthunt.com/products/textab?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077348?app_id=339\">Link</a> </p>",
+        "summary": "Turn any AI task into a Keyboard Shortcut "
+      },
+      {
+        "title": "Seedance 2.0",
+        "link": "https://www.producthunt.com/products/pixeldance-seaweed",
+        "desc": "<p> Advanced AI video creation with precise narrative control </p> <p> <a href=\"https://www.producthunt.com/products/pixeldance-seaweed?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078959?app_id=339\">Link</a> </p>",
+        "summary": "Advanced AI video creation with precise narrative control "
+      },
+      {
+        "title": "Your Love Style",
+        "link": "https://www.producthunt.com/products/your-love-style-a-valentine-s-day-event",
+        "desc": "<p> A choose-your-own-adventure game meets personality quiz </p> <p> <a href=\"https://www.producthunt.com/products/your-love-style-a-valentine-s-day-event?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079178?app_id=339\">Link</a> </p>",
+        "summary": "A choose-your-own-adventure game meets personality quiz "
+      },
+      {
+        "title": "Cline CLI 2.0",
+        "link": "https://www.producthunt.com/products/cline-4",
+        "desc": "<p> Parallel agents & headless CI/CD in your terminal </p> <p> <a href=\"https://www.producthunt.com/products/cline-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079203?app_id=339\">Link</a> </p>",
+        "summary": "Parallel agents & headless CI/CD in your terminal "
+      },
+      {
+        "title": "Valentine Online",
+        "link": "https://www.producthunt.com/products/valentine-online",
+        "desc": "<p> Personalized Valentine’s surprise page for your loved one </p> <p> <a href=\"https://www.producthunt.com/products/valentine-online?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078829?app_id=339\">Link</a> </p>",
+        "summary": "Personalized Valentine’s surprise page for your loved one "
+      },
+      {
+        "title": "Elebean",
+        "link": "https://www.producthunt.com/products/elebean",
+        "desc": "<p> Your music companion </p> <p> <a href=\"https://www.producthunt.com/products/elebean?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078316?app_id=339\">Link</a> </p>",
+        "summary": "Your music companion "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
