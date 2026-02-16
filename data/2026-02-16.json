@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-16",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "I want to wash my car. The car wash is 50 meters away. Should I walk or drive?",
+        "link": "https://mastodon.world/@knowmadd/116072773118828295",
+        "score": 296,
+        "desc": "",
+        "summary": "这条主要讨论「I want to wash my car. The c…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "I’m joining OpenAI",
+        "link": "https://steipete.me/posts/2026/openclaw",
+        "score": 943,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Building SQLite with a small swarm",
+        "link": "https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html",
+        "score": 41,
+        "desc": "Hope some find this post interesting on my experience with parallel coding agents.",
+        "summary": "Hope some find this post interesting on my experience with parallel coding agents."
+      },
+      {
+        "title": "picol: A Tcl interpreter in 500 lines of code",
+        "link": "https://github.com/antirez/picol",
+        "score": 6,
+        "desc": "",
+        "summary": "这条主要讨论「picol: A Tcl interpreter in …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Magnus Carlsen Wins the Freestyle (Chess960) World Championship",
+        "link": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+        "score": 255,
+        "desc": "",
+        "summary": "这条主要讨论「Magnus Carlsen Wins the Free…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Arm wants a bigger slice of the chip business",
+        "link": "https://www.economist.com/business/2026/02/12/arm-wants-a-bigger-slice-of-the-chip-business",
+        "score": 65,
+        "desc": "",
+        "summary": "这条主要讨论「Arm wants a bigger slice of …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "1,300-year-old world chronicle unearthed in Sinai",
+        "link": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
+        "score": 19,
+        "desc": "",
+        "summary": "这条主要讨论「1,300-year-old world chronic…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
+        "link": "https://modern-css.com",
+        "score": 421,
+        "desc": "",
+        "summary": "这条主要讨论「Modern CSS Code Snippets: St…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Expensively Quadratic: The LLM Agent Cost Curve",
+        "link": "https://blog.exe.dev/expensively-quadratic",
+        "score": 14,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Audio is the one area small labs are winning",
+        "link": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
+        "score": 180,
+        "desc": "",
+        "summary": "偏多模态与内容生成方向，适合关注生产效率与质量提升。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/nautechsystems/nautilus_trader",
+        "score": "19,483",
+        "desc": "Star nautechsystems / nautilus_trader A high-performance algorithmic trading platform and event-driven backtester",
+        "summary": "Star nautechsystems / nautilus_trader A high-performance algorithmic trading platform and event-driven backtester"
+      },
+      {
+        "title": "steipete/gogcli",
+        "link": "https://github.com/steipete/gogcli",
+        "score": "3,159",
+        "desc": "Sponsor Star steipete / gogcli Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "summary": "Sponsor Star steipete / gogcli Google Suite CLI: Gmail, GCal, GDrive, GContacts."
+      },
+      {
+        "title": "rowboatlabs/rowboat",
+        "link": "https://github.com/rowboatlabs/rowboat",
+        "score": "6,999",
+        "desc": "Star rowboatlabs / rowboat Open-source AI coworker, with memory",
+        "summary": "Star rowboatlabs / rowboat Open-source AI coworker, with memory"
+      },
+      {
+        "title": "github/gh-aw",
+        "link": "https://github.com/github/gh-aw",
+        "score": "2,804",
+        "desc": "Star github / gh-aw GitHub Agentic Workflows",
+        "summary": "Star github / gh-aw GitHub Agentic Workflows"
+      },
+      {
+        "title": "ChromeDevTools/chrome-devtools-mcp",
+        "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+        "score": "25,527",
+        "desc": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents",
+        "summary": "Star ChromeDevTools / chrome-devtools-mcp Chrome DevTools for coding agents"
+      },
+      {
+        "title": "alibaba/zvec",
+        "link": "https://github.com/alibaba/zvec",
+        "score": "2,635",
+        "desc": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database",
+        "summary": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database"
+      },
+      {
+        "title": "openclaw/openclaw",
+        "link": "https://github.com/openclaw/openclaw",
+        "score": "198,664",
+        "desc": "Sponsor Star openclaw / openclaw Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "summary": "Sponsor Star openclaw / openclaw Your own personal AI assistant."
+      },
+      {
+        "title": "moonshine-ai/moonshine",
+        "link": "https://github.com/moonshine-ai/moonshine",
+        "score": "3,968",
+        "desc": "Star moonshine-ai / moonshine Fast and accurate automatic speech recognition (ASR) for edge devices",
+        "summary": "Star moonshine-ai / moonshine Fast and accurate automatic speech recognition (ASR) for edge devices"
+      },
+      {
+        "title": "brave/brave-browser",
+        "link": "https://github.com/brave/brave-browser",
+        "score": "21,619",
+        "desc": "Star brave / brave-browser Brave browser for Android, iOS, Linux, macOS, Windows.",
+        "summary": "Star brave / brave-browser Brave browser for Android, iOS, Linux, macOS, Windows."
+      },
+      {
+        "title": "SynkraAI/aios-core",
+        "link": "https://github.com/SynkraAI/aios-core",
+        "score": "847",
+        "desc": "Star SynkraAI / aios-core Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "summary": "Star SynkraAI / aios-core Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Meteorite",
+        "link": "https://www.producthunt.com/products/meteorite-2",
+        "desc": "<p> A minimal & frictionless menu bar notetaker for macOS </p> <p> <a href=\"https://www.producthunt.com/products/meteorite-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080058?app_id=339\">Link</a> </p>",
+        "summary": "A minimal & frictionless menu bar notetaker for macOS "
+      },
+      {
+        "title": "JDoodle.ai MCP",
+        "link": "https://www.producthunt.com/products/jdoodle-ai",
+        "desc": "<p> Build and deploy web apps straight from ChatGPT/Claude </p> <p> <a href=\"https://www.producthunt.com/products/jdoodle-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078858?app_id=339\">Link</a> </p>",
+        "summary": "Build and deploy web apps straight from ChatGPT/Claude "
+      },
+      {
+        "title": "PenguinBot AI",
+        "link": "https://www.producthunt.com/products/penguinbot-ai",
+        "desc": "<p> Your AI-Employee Working 24/7 </p> <p> <a href=\"https://www.producthunt.com/products/penguinbot-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079657?app_id=339\">Link</a> </p>",
+        "summary": "Your AI-Employee Working 24/7 "
+      },
+      {
+        "title": "Agent Bar",
+        "link": "https://www.producthunt.com/products/agent-bar",
+        "desc": "<p> Run Claude Code from your menu bar </p> <p> <a href=\"https://www.producthunt.com/products/agent-bar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079030?app_id=339\">Link</a> </p>",
+        "summary": "Run Claude Code from your menu bar "
+      },
+      {
+        "title": "HookWatch",
+        "link": "https://www.producthunt.com/products/hookwatch",
+        "desc": "<p> Automated webhook monitoring for indie hackers & small teams </p> <p> <a href=\"https://www.producthunt.com/products/hookwatch?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078368?app_id=339\">Link</a> </p>",
+        "summary": "Automated webhook monitoring for indie hackers & small teams "
+      },
+      {
+        "title": "SearchSeal",
+        "link": "https://www.producthunt.com/products/searchseal",
+        "desc": "<p> Track what AI says about your brand. Get recommended. </p> <p> <a href=\"https://www.producthunt.com/products/searchseal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079003?app_id=339\">Link</a> </p>",
+        "summary": "Track what AI says about your brand."
+      },
+      {
+        "title": "NVIDIA PersonaPlex",
+        "link": "https://www.producthunt.com/products/nvidia",
+        "desc": "<p> Natural Conversational AI With Any Role and Voice </p> <p> <a href=\"https://www.producthunt.com/products/nvidia?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079988?app_id=339\">Link</a> </p>",
+        "summary": "Natural Conversational AI With Any Role and Voice "
+      },
+      {
+        "title": "CoThou Autonomous Superagent",
+        "link": "https://www.producthunt.com/products/seamlessity",
+        "desc": "<p> Reasoning from first principles to turn thoughts into action </p> <p> <a href=\"https://www.producthunt.com/products/seamlessity?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080070?app_id=339\">Link</a> </p>",
+        "summary": "Reasoning from first principles to turn thoughts into action "
+      },
+      {
+        "title": "Toolspend",
+        "link": "https://www.producthunt.com/products/toolspend",
+        "desc": "<p> Track AI spend, usage, and cost across tools </p> <p> <a href=\"https://www.producthunt.com/products/toolspend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1071095?app_id=339\">Link</a> </p>",
+        "summary": "Track AI spend, usage, and cost across tools "
+      },
+      {
+        "title": "Enough Cream",
+        "link": "https://www.producthunt.com/products/enough-cream",
+        "desc": "<p> Perfect coffee, every time. </p> <p> <a href=\"https://www.producthunt.com/products/enough-cream?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074131?app_id=339\">Link</a> </p>",
+        "summary": "Perfect coffee, every time."
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
