@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-17",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Four Column ASCII (2017)",
+        "link": "https://garbagecollected.org/2017/01/31/four-column-ascii/",
+        "score": 85,
+        "desc": "",
+        "summary": "这条主要讨论「Four Column ASCII (2017)」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "14-year-old Miles Wu folded origami pattern that holds 10k times its own weight",
+        "link": "https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/",
+        "score": 637,
+        "desc": "",
+        "summary": "这条主要讨论「14-year-old Miles Wu folded …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "A deep dive into Apple's .car file format",
+        "link": "https://dbg.re/posts/car-file-format/",
+        "score": 70,
+        "desc": "",
+        "summary": "这条主要讨论「A deep dive into Apple's .ca…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Rise of the Triforce",
+        "link": "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/",
+        "score": 242,
+        "desc": "",
+        "summary": "这条主要讨论「Rise of the Triforce」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Evaluating AGENTS.md: are they helpful for coding agents?",
+        "link": "https://arxiv.org/abs/2602.11988",
+        "score": 92,
+        "desc": "",
+        "summary": "这条主要讨论「Evaluating AGENTS.md: are th…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Poor Deming never stood a chance",
+        "link": "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/",
+        "score": 58,
+        "desc": "",
+        "summary": "这条主要讨论「Poor Deming never stood a ch…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: I built a tool to un-dumb Claude Code's CLI output (Local Log Viewer)",
+        "link": "https://github.com/matt1398/claude-devtools",
+        "score": 6,
+        "desc": "Hi HN,I built this because I got tired of the Claude Code CLI hiding details from me.Recent updates have replaced critical output with summaries like &quot;Read 3 files&quot; or &quot;Edited 2 files&quot;. To see what actually happened, I was forced to use `--verbose`, which floods the terminal with unreadable JSON and system prompts.I wanted a middle ground: *Full observability without the noise.*`claude-devtools` is a local Electron app that tails the session logs in `~&#x2F;.claude&#x2F;` to reconstruct the execution trace in real-time.*Unlike wrappers, it solves the visibility gap in your native terminal workflow:* 1. *Real Diffs:* It shows inline diffs (red&#x2F;green) the moment files are edited, instead of just a checkmark. 2. *Context Forensics:* It breaks down token usage by File vs Tool Output vs Thinking (so you know exactly why your context window is full). 3. *Agent Trees:* It visualizes sub-agent execution paths which are usually interleaved and confusing in the CLI.It’s 100% local, and works with the logs already on your machine. No API keys required.Repo: https:&#x2F;&#x2F;github.com&#x2F;matt1398&#x2F;claude-devtools (Screenshots and diff viewer demo are in the README)",
+        "summary": "Hi HN,I built this because I got tired of the Claude Code CLI hiding details from me.Recent updates have replaced critic"
+      },
+      {
+        "title": "What your Bluetooth devices reveal",
+        "link": "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/",
+        "score": 407,
+        "desc": "",
+        "summary": "这条主要讨论「What your Bluetooth devices …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Visual introduction to PyTorch",
+        "link": "https://0byte.io/articles/pytorch_introduction.html",
+        "score": 231,
+        "desc": "",
+        "summary": "这条主要讨论「Visual introduction to PyTor…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Free alternative to Wispr Flow, Superwhisper, and Monologue",
+        "link": "https://github.com/zachlatta/freeflow",
+        "score": 175,
+        "desc": "",
+        "summary": "这条主要讨论「Show HN: Free alternative to…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "alibaba/zvec",
+        "link": "https://github.com/alibaba/zvec",
+        "score": "4,008",
+        "desc": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database",
+        "summary": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database"
+      },
+      {
+        "title": "nautechsystems/nautilus_trader",
+        "link": "https://github.com/nautechsystems/nautilus_trader",
+        "score": "19,891",
+        "desc": "Star nautechsystems / nautilus_trader A high-performance algorithmic trading platform and event-driven backtester",
+        "summary": "Star nautechsystems / nautilus_trader A high-performance algorithmic trading platform and event-driven backtester"
+      },
+      {
+        "title": "rowboatlabs/rowboat",
+        "link": "https://github.com/rowboatlabs/rowboat",
+        "score": "7,450",
+        "desc": "Star rowboatlabs / rowboat Open-source AI coworker, with memory",
+        "summary": "Star rowboatlabs / rowboat Open-source AI coworker, with memory"
+      },
+      {
+        "title": "steipete/gogcli",
+        "link": "https://github.com/steipete/gogcli",
+        "score": "3,645",
+        "desc": "Sponsor Star steipete / gogcli Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "summary": "Sponsor Star steipete / gogcli Google Suite CLI: Gmail, GCal, GDrive, GContacts."
+      },
+      {
+        "title": "openclaw/openclaw",
+        "link": "https://github.com/openclaw/openclaw",
+        "score": "202,760",
+        "desc": "Sponsor Star openclaw / openclaw Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "summary": "Sponsor Star openclaw / openclaw Your own personal AI assistant."
+      },
+      {
+        "title": "SynkraAI/aios-core",
+        "link": "https://github.com/SynkraAI/aios-core",
+        "score": "1,042",
+        "desc": "Star SynkraAI / aios-core Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "summary": "Star SynkraAI / aios-core Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0"
+      },
+      {
+        "title": "letta-ai/letta-code",
+        "link": "https://github.com/letta-ai/letta-code",
+        "score": "1,529",
+        "desc": "Star letta-ai / letta-code The memory-first coding agent",
+        "summary": "Star letta-ai / letta-code The memory-first coding agent"
+      },
+      {
+        "title": "ruvnet/wifi-densepose",
+        "link": "https://github.com/ruvnet/wifi-densepose",
+        "score": "6,897",
+        "desc": "Star ruvnet / wifi-densepose Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers",
+        "summary": "Star ruvnet / wifi-densepose Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose "
+      },
+      {
+        "title": "seerr-team/seerr",
+        "link": "https://github.com/seerr-team/seerr",
+        "score": "9,142",
+        "desc": "Star seerr-team / seerr Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+        "summary": "Star seerr-team / seerr Open-source media request and discovery manager for Jellyfin, Plex, and Emby."
+      },
+      {
+        "title": "hummingbot/hummingbot",
+        "link": "https://github.com/hummingbot/hummingbot",
+        "score": "16,706",
+        "desc": "Sponsor Star hummingbot / hummingbot Open source software that helps you create and deploy high-frequency crypto trading bots",
+        "summary": "Sponsor Star hummingbot / hummingbot Open source software that helps you create and deploy high-frequency crypto trading"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Agent Monitor",
+        "link": "https://www.producthunt.com/products/agent-monitor-track-ai-traffic",
+        "desc": "<p> Server-side analytics for AI & bot traffic </p> <p> <a href=\"https://www.producthunt.com/products/agent-monitor-track-ai-traffic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080448?app_id=339\">Link</a> </p>",
+        "summary": "Server-side analytics for AI & bot traffic "
+      },
+      {
+        "title": "Drivebase",
+        "link": "https://www.producthunt.com/products/drivebase",
+        "desc": "<p> Unified file manager for all your cloud storage </p> <p> <a href=\"https://www.producthunt.com/products/drivebase?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078989?app_id=339\">Link</a> </p>",
+        "summary": "Unified file manager for all your cloud storage "
+      },
+      {
+        "title": "Company logo API",
+        "link": "https://www.producthunt.com/products/hunter",
+        "desc": "<p> Find any company logo for free </p> <p> <a href=\"https://www.producthunt.com/products/hunter?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080706?app_id=339\">Link</a> </p>",
+        "summary": "Find any company logo for free "
+      },
+      {
+        "title": "AI Tech Packs",
+        "link": "https://www.producthunt.com/products/ai-tech-packs",
+        "desc": "<p> Generate clothing tech packs (image → PDF/Excel) </p> <p> <a href=\"https://www.producthunt.com/products/ai-tech-packs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077871?app_id=339\">Link</a> </p>",
+        "summary": "Generate clothing tech packs (image → PDF/Excel) "
+      },
+      {
+        "title": "JustScribe",
+        "link": "https://www.producthunt.com/products/justscribe",
+        "desc": "<p> On-device instant voice transcription </p> <p> <a href=\"https://www.producthunt.com/products/justscribe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078541?app_id=339\">Link</a> </p>",
+        "summary": "On-device instant voice transcription "
+      },
+      {
+        "title": "VidClaw",
+        "link": "https://www.producthunt.com/products/vidclaw",
+        "desc": "<p> An open-source, self-hosted Kanban for your OpenClaw agent. </p> <p> <a href=\"https://www.producthunt.com/products/vidclaw?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080264?app_id=339\">Link</a> </p>",
+        "summary": "An open-source, self-hosted Kanban for your OpenClaw agent."
+      },
+      {
+        "title": "Vela",
+        "link": "https://www.producthunt.com/products/vela-4",
+        "desc": "<p> AI scheduling that works the way a great EA does </p> <p> <a href=\"https://www.producthunt.com/products/vela-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079997?app_id=339\">Link</a> </p>",
+        "summary": "AI scheduling that works the way a great EA does "
+      },
+      {
+        "title": "Brainstream",
+        "link": "https://www.producthunt.com/products/brainstream",
+        "desc": "<p> Agentic AI notes: smart search, briefs & tasks. </p> <p> <a href=\"https://www.producthunt.com/products/brainstream?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077051?app_id=339\">Link</a> </p>",
+        "summary": "Agentic AI notes: smart search, briefs & tasks."
+      },
+      {
+        "title": "Figr AI",
+        "link": "https://www.producthunt.com/products/figr-design-research-simplified",
+        "desc": "<p> Learns your product. Thinks through UX. </p> <p> <a href=\"https://www.producthunt.com/products/figr-design-research-simplified?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080289?app_id=339\">Link</a> </p>",
+        "summary": "Learns your product."
+      },
+      {
+        "title": "AI Hotkeys",
+        "link": "https://www.producthunt.com/products/ai-hotkeys",
+        "desc": "<p> Use a hotkey to quickly summon ChatGPT </p> <p> <a href=\"https://www.producthunt.com/products/ai-hotkeys?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1070028?app_id=339\">Link</a> </p>",
+        "summary": "Use a hotkey to quickly summon ChatGPT "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
