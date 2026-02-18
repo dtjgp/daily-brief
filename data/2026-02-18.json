@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-18",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "15 years later, Microsoft morged my diagram",
+        "link": "https://nvie.com/posts/15-years-later/",
+        "score": 306,
+        "desc": "",
+        "summary": "这条主要讨论「15 years later, Microsoft mo…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Halt and Catch Fire: TV's Best Drama You've Probably Never Heard Of (2021)",
+        "link": "https://www.sceneandheardnu.com/content/halt-and-catch-fire",
+        "score": 389,
+        "desc": "",
+        "summary": "这条主要讨论「Halt and Catch Fire: TV's Be…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Terminals should generate the 256-color palette",
+        "link": "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783",
+        "score": 63,
+        "desc": "",
+        "summary": "这条主要讨论「Terminals should generate th…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Claude Sonnet 4.6",
+        "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
+        "score": 1065,
+        "desc": "https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-sonnet-4-6-system-card [pdf]https:&#x2F;&#x2F;x.com&#x2F;claudeai&#x2F;status&#x2F;2023817132581208353 [video]",
+        "summary": "https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-sonnet-4-6-system-card [pdf]https:&#x2F;&#x2F;x.com&#x2F;claudeai&#x2F;s"
+      },
+      {
+        "title": "Thank HN: You helped save 33k lives",
+        "link": "https://news.ycombinator.com/item?id=47049824",
+        "score": 747,
+        "desc": "13 years ago, we launched Watsi.org with a Show HN [1].For nearly a year, this community drove so much traffic that we couldn’t list patients fast enough. Then pg saw us on HN, wrote us our first big check, and accepted us as the first YC nonprofit (W13). The next few years were a whirlwind.I was a young, naive founder with just enough experience to know I wanted Watsi to be more efficient, transparent, and innovative than most nonprofits. We spent 24&#x2F;7 talking to users and coding. We did things that don’t scale. We tried our best to be walking, talking pg essays.Over the years we learned that product&#x2F;market fit is different for nonprofits. Not many people wake up and think, &quot;I&#x27;d love to donate to a nonprofit today&quot; with the same oomph that they think, &quot;I&#x27;d love a coffee&quot; or &quot;I&#x27;d like to make more money.&quot;No matter how much effort we put into fundraising, donations grew linearly, while requests for care grew exponentially. I felt caught in the middle. After investing everything I had, I eventually burned out and transitioned to the board.I made a classic founder mistake and intertwined my self-worth with Watsi&#x27;s success. I believed that if I could somehow help every patient, I was a good person, but if I let down some patients, which became inevitable, I was a bad person.This was exacerbated by seeing our for-profit YC batch mates raise massive rounds. I felt like a failure for not scaling Watsi faster, but eventually we accepted reality and set Watsi on more of a slow, steady, and sustainable trajectory.Now that I have perspective, I&#x27;m incredibly proud of what the org has accomplished and grateful to everyone who has done a tour of duty to support us. Watsi donors have donated over $20M to fund 33,241 surgeries, and we have a good shot of helping patients for a long time to come.In a world of fast growth and fast crashes, here&#x27;s a huge thank you to the HN users who have stuck by Watsi, or any other important cause, even when it&#x27;s not on the front page. I believe it embodies the best of humanity. Thanks HN![1] http:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=4424081",
+        "summary": "13 years ago, we launched Watsi.org with a Show HN [1].For nearly a year, this community drove so much traffic that we c"
+      },
+      {
+        "title": "BarraCUDA Open-source CUDA compiler targeting AMD GPUs",
+        "link": "https://github.com/Zaneham/BarraCUDA",
+        "score": 278,
+        "desc": "",
+        "summary": "这条主要讨论「BarraCUDA Open-source CUDA c…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "A DuckDB-based metabase alternative",
+        "link": "https://github.com/taleshape-com/shaper",
+        "score": 27,
+        "desc": "",
+        "summary": "这条主要讨论「A DuckDB-based metabase alte…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
+        "link": "https://asteroidos.org/news/2-0-release/index.html",
+        "score": 359,
+        "desc": "Hi HN, After roughly 8 years of silently rolling 1.1 nightlies, we finally tagged a proper stable 2.0 release. We built this because wrist-sized Linux is genuinely fun to hack on, and because a handful of us think it&#x27;s worth keeping capable hardware alive long after manufacturers move on. Smartwatches don&#x27;t really get old — the silicon is basically the same as it was a decade ago. We just keep making it useful for us.No usage stats, no tracking, no illusions of mass adoption. The only real signal we get is the occasional person who appears in our Matrix chat going &quot;hey, it booted on my watch from 2014 and now it&#x27;s usable again&quot; — and that&#x27;s plenty.Privacy is non-negotiable: zero telemetry, no cloud, full local control. Longevity is the other half: we refuse to let good hardware become e-waste just because support ended. On the learning side, it&#x27;s been one of the best playgrounds: instant feedback on your wrist makes QML&#x2F;Qt, JavaScript watchfaces and embedded Linux feel tangible. The community is small and kind — perfect for people who want to learn open-source dev without gatekeeping.Technically we&#x27;re still pragmatic: libhybris + older kernels on most devices since it just works, but we&#x27;ve already mainlined rinato (Samsung Gear 2) and sparrow (ASUS ZenWatch 2) — rinato even boots with a usable UI. That&#x27;s the direction we&#x27;re pushing toward.Repo: https:&#x2F;&#x2F;github.com&#x2F;AsteroidOS Install images &amp; docs: https:&#x2F;&#x2F;asteroidos.org 2.0 demo video : https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=U6FiQz0yACc Announcement post: https:&#x2F;&#x2F;asteroidos.org&#x2F;news&#x2F;2-0-release&#x2F;Questions, port requests, mentoring offers, criticism, weird ideas — all welcome. We do this because shaping a tiny, open wearable UX and infrastructure is oddly satisfying, and because Linux on the wrist still feels like a playground worth playing in.Cheers, the AsteroidOS Team",
+        "summary": "Hi HN, After roughly 8 years of silently rolling 1.1 nightlies, we finally tagged a proper stable 2.0 release."
+      },
+      {
+        "title": "Stardex (YC S21) Is Hiring",
+        "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+        "score": 1,
+        "desc": "",
+        "summary": "这条主要讨论「Stardex (YC S21) Is Hiring」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Semantic Diffusion (2006)",
+        "link": "https://martinfowler.com/bliki/SemanticDiffusion.html",
+        "score": 10,
+        "desc": "",
+        "summary": "这条主要讨论「Semantic Diffusion (2006)」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "p-e-w/heretic",
+        "link": "https://github.com/p-e-w/heretic",
+        "score": "7,494",
+        "desc": "Star p-e-w / heretic Fully automatic censorship removal for language models",
+        "summary": "Star p-e-w / heretic Fully automatic censorship removal for language models"
+      },
+      {
+        "title": "seerr-team/seerr",
+        "link": "https://github.com/seerr-team/seerr",
+        "score": "9,389",
+        "desc": "Star seerr-team / seerr Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+        "summary": "Star seerr-team / seerr Open-source media request and discovery manager for Jellyfin, Plex, and Emby."
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "53,846",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "steipete/gogcli",
+        "link": "https://github.com/steipete/gogcli",
+        "score": "3,967",
+        "desc": "Sponsor Star steipete / gogcli Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+        "summary": "Sponsor Star steipete / gogcli Google Suite CLI: Gmail, GCal, GDrive, GContacts."
+      },
+      {
+        "title": "alibaba/zvec",
+        "link": "https://github.com/alibaba/zvec",
+        "score": "4,627",
+        "desc": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database",
+        "summary": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database"
+      },
+      {
+        "title": "openclaw/openclaw",
+        "link": "https://github.com/openclaw/openclaw",
+        "score": "206,491",
+        "desc": "Sponsor Star openclaw / openclaw Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "summary": "Sponsor Star openclaw / openclaw Your own personal AI assistant."
+      },
+      {
+        "title": "SynkraAI/aios-core",
+        "link": "https://github.com/SynkraAI/aios-core",
+        "score": "1,255",
+        "desc": "Star SynkraAI / aios-core Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+        "summary": "Star SynkraAI / aios-core Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0"
+      },
+      {
+        "title": "ashishps1/awesome-system-design-resources",
+        "link": "https://github.com/ashishps1/awesome-system-design-resources",
+        "score": "32,944",
+        "desc": "Star ashishps1 / awesome-system-design-resources Learn System Design concepts and prepare for interviews using free resources.",
+        "summary": "Star ashishps1 / awesome-system-design-resources Learn System Design concepts and prepare for interviews using free reso"
+      },
+      {
+        "title": "steipete/summarize",
+        "link": "https://github.com/steipete/summarize",
+        "score": "3,551",
+        "desc": "Sponsor Star steipete / summarize Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+        "summary": "Sponsor Star steipete / summarize Point at any URL/YouTube/Podcast or file."
+      },
+      {
+        "title": "hummingbot/hummingbot",
+        "link": "https://github.com/hummingbot/hummingbot",
+        "score": "17,177",
+        "desc": "Sponsor Star hummingbot / hummingbot Open source software that helps you create and deploy high-frequency crypto trading bots",
+        "summary": "Sponsor Star hummingbot / hummingbot Open source software that helps you create and deploy high-frequency crypto trading"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Design Rails: AI-native brand in mins",
+        "link": "https://www.producthunt.com/products/design-rails-ai-native-brand-in-mins",
+        "desc": "<p> Design Rails: Get an agent-ready brand in minutes </p> <p> <a href=\"https://www.producthunt.com/products/design-rails-ai-native-brand-in-mins?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080578?app_id=339\">Link</a> </p>",
+        "summary": "Design Rails: Get an agent-ready brand in minutes "
+      },
+      {
+        "title": "Moda",
+        "link": "https://www.producthunt.com/products/moda-2",
+        "desc": "<p> Finally, AI designs you can edit. </p> <p> <a href=\"https://www.producthunt.com/products/moda-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077208?app_id=339\">Link</a> </p>",
+        "summary": "Finally, AI designs you can edit."
+      },
+      {
+        "title": "Sonnet 4.6",
+        "link": "https://www.producthunt.com/products/anthropic-claude-3-5-sonnet",
+        "desc": "<p> The most capable Sonnet model yet </p> <p> <a href=\"https://www.producthunt.com/products/anthropic-claude-3-5-sonnet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081071?app_id=339\">Link</a> </p>",
+        "summary": "The most capable Sonnet model yet "
+      },
+      {
+        "title": "BotBot",
+        "link": "https://www.producthunt.com/products/botbot",
+        "desc": "<p> The open-source brain for any legged robot </p> <p> <a href=\"https://www.producthunt.com/products/botbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080914?app_id=339\">Link</a> </p>",
+        "summary": "The open-source brain for any legged robot "
+      },
+      {
+        "title": "Your AI Clone",
+        "link": "https://www.producthunt.com/products/your-ai-clone",
+        "desc": "<p> Your clone remembers people you've never met </p> <p> <a href=\"https://www.producthunt.com/products/your-ai-clone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081155?app_id=339\">Link</a> </p>",
+        "summary": "Your clone remembers people you've never met "
+      },
+      {
+        "title": "Konta",
+        "link": "https://www.producthunt.com/products/konta",
+        "desc": "<p> GitOps for Docker Compose on low‑resource VPS </p> <p> <a href=\"https://www.producthunt.com/products/konta?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080940?app_id=339\">Link</a> </p>",
+        "summary": "GitOps for Docker Compose on low‑resource VPS "
+      },
+      {
+        "title": "Deckary",
+        "link": "https://www.producthunt.com/products/deckary",
+        "desc": "<p> The AI consulting toolkit for PowerPoint </p> <p> <a href=\"https://www.producthunt.com/products/deckary?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080455?app_id=339\">Link</a> </p>",
+        "summary": "The AI consulting toolkit for PowerPoint "
+      },
+      {
+        "title": "Empirical Health for web",
+        "link": "https://www.producthunt.com/products/empirical-health",
+        "desc": "<p> Heart disease is a dumb way to die </p> <p> <a href=\"https://www.producthunt.com/products/empirical-health?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079063?app_id=339\">Link</a> </p>",
+        "summary": "Heart disease is a dumb way to die "
+      },
+      {
+        "title": "Travel Animator",
+        "link": "https://www.producthunt.com/products/travel-animator",
+        "desc": "<p> Name every stop your way with Place Labels. </p> <p> <a href=\"https://www.producthunt.com/products/travel-animator?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080157?app_id=339\">Link</a> </p>",
+        "summary": "Name every stop your way with Place Labels."
+      },
+      {
+        "title": "STUD",
+        "link": "https://www.producthunt.com/products/stud",
+        "desc": "<p> Cursor for Roblox Studio </p> <p> <a href=\"https://www.producthunt.com/products/stud?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079916?app_id=339\">Link</a> </p>",
+        "summary": "Cursor for Roblox Studio "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
