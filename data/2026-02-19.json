@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-19",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Martial arts robots at 2026 Spring Festival Gala [video]",
+        "link": "https://www.youtube.com/watch?v=mUmlv814aJo",
+        "score": 44,
+        "desc": "",
+        "summary": "偏多模态与内容生成方向，适合关注生产效率与质量提升。"
+      },
+      {
+        "title": "Sizing chaos",
+        "link": "https://pudding.cool/2026/02/womens-sizing/",
+        "score": 505,
+        "desc": "",
+        "summary": "这条主要讨论「Sizing chaos」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "27-year-old Apple iBooks can connect to Wi-Fi and download official updates",
+        "link": "https://old.reddit.com/r/MacOS/comments/1r8900z/macos_which_officially_supports_27_year_old/",
+        "score": 312,
+        "desc": "",
+        "summary": "这条主要讨论「27-year-old Apple iBooks can…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "15 years of FP64 segmentation, and why the Blackwell Ultra breaks the pattern",
+        "link": "https://nicolasdickenmann.com/blog/the-great-fp64-divide.html",
+        "score": 98,
+        "desc": "",
+        "summary": "这条主要讨论「15 years of FP64 segmentatio…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Anthropic officially bans using subscription auth for third party use",
+        "link": "https://code.claude.com/docs/en/legal-and-compliance",
+        "score": 298,
+        "desc": "",
+        "summary": "这条主要讨论「Anthropic officially bans us…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Cosmologically Unique IDs",
+        "link": "https://jasonfantl.com/posts/Universal-Unique-IDs/",
+        "score": 359,
+        "desc": "",
+        "summary": "这条主要讨论「Cosmologically Unique IDs」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Step 3.5 Flash: Fast Enough to Think. Reliable Enough to Act",
+        "link": "https://static.stepfun.com/blog/step-3.5-flash/",
+        "score": 54,
+        "desc": "",
+        "summary": "这条主要讨论「Step 3.5 Flash: Fast Enough …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Tailscale Peer Relays is now generally available",
+        "link": "https://tailscale.com/blog/peer-relays-ga",
+        "score": 395,
+        "desc": "",
+        "summary": "这条主要讨论「Tailscale Peer Relays is now…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "How to choose between Hindley-Milner and bidirectional typing",
+        "link": "https://thunderseethe.dev/posts/how-to-choose-between-hm-and-bidir/",
+        "score": 87,
+        "desc": "",
+        "summary": "这条主要讨论「How to choose between Hindle…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Visualizing the ARM64 Instruction Set (2024)",
+        "link": "https://zyedidia.github.io/blog/posts/6-arm64/",
+        "score": 25,
+        "desc": "",
+        "summary": "这条主要讨论「Visualizing the ARM64 Instru…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "alibaba/zvec",
+        "link": "https://github.com/alibaba/zvec",
+        "score": "5,035",
+        "desc": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database",
+        "summary": "Star alibaba / zvec A lightweight, lightning-fast, in-process vector database"
+      },
+      {
+        "title": "p-e-w/heretic",
+        "link": "https://github.com/p-e-w/heretic",
+        "score": "8,179",
+        "desc": "Star p-e-w / heretic Fully automatic censorship removal for language models",
+        "summary": "Star p-e-w / heretic Fully automatic censorship removal for language models"
+      },
+      {
+        "title": "OpenCTI-Platform/opencti",
+        "link": "https://github.com/OpenCTI-Platform/opencti",
+        "score": "8,774",
+        "desc": "Star OpenCTI-Platform / opencti Open Cyber Threat Intelligence Platform",
+        "summary": "Star OpenCTI-Platform / opencti Open Cyber Threat Intelligence Platform"
+      },
+      {
+        "title": "QwenLM/qwen-code",
+        "link": "https://github.com/QwenLM/qwen-code",
+        "score": "18,979",
+        "desc": "Star QwenLM / qwen-code An open-source AI agent that lives in your terminal.",
+        "summary": "Star QwenLM / qwen-code An open-source AI agent that lives in your terminal."
+      },
+      {
+        "title": "NirDiamant/RAG_Techniques",
+        "link": "https://github.com/NirDiamant/RAG_Techniques",
+        "score": "25,369",
+        "desc": "Sponsor Star NirDiamant / RAG_Techniques This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+        "summary": "Sponsor Star NirDiamant / RAG_Techniques This repository showcases various advanced techniques for Retrieval-Augmented G"
+      },
+      {
+        "title": "harvard-edge/cs249r_book",
+        "link": "https://github.com/harvard-edge/cs249r_book",
+        "score": "19,856",
+        "desc": "Star harvard-edge / cs249r_book Introduction to Machine Learning Systems",
+        "summary": "Star harvard-edge / cs249r_book Introduction to Machine Learning Systems"
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "54,737",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "HailToDodongo/pyrite64",
+        "link": "https://github.com/HailToDodongo/pyrite64",
+        "score": "1,442",
+        "desc": "Star HailToDodongo / pyrite64 N64 Game-Engine and Editor using libdragon &amp; tiny3d",
+        "summary": "Star HailToDodongo / pyrite64 N64 Game-Engine and Editor using libdragon &amp; tiny3d"
+      },
+      {
+        "title": "ComposioHQ/composio",
+        "link": "https://github.com/ComposioHQ/composio",
+        "score": "26,846",
+        "desc": "Star ComposioHQ / composio Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+        "summary": "Star ComposioHQ / composio Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandbo"
+      },
+      {
+        "title": "p2r3/convert",
+        "link": "https://github.com/p2r3/convert",
+        "score": "1,592",
+        "desc": "Star p2r3 / convert Truly universal online file converter",
+        "summary": "Star p2r3 / convert Truly universal online file converter"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Decks For Good",
+        "link": "https://www.producthunt.com/products/decks-for-good",
+        "desc": "<p> Get fundraising advice when you give to charity </p> <p> <a href=\"https://www.producthunt.com/products/decks-for-good?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081899?app_id=339\">Link</a> </p>",
+        "summary": "Get fundraising advice when you give to charity "
+      },
+      {
+        "title": "Yandex AI Türkiye",
+        "link": "https://www.producthunt.com/products/yandex-ai",
+        "desc": "<p> A local-first AI super app built for Turkey </p> <p> <a href=\"https://www.producthunt.com/products/yandex-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1077196?app_id=339\">Link</a> </p>",
+        "summary": "A local-first AI super app built for Turkey "
+      },
+      {
+        "title": "asktodo.ai",
+        "link": "https://www.producthunt.com/products/asktodo-ai",
+        "desc": "<p> 35+ Free AI Tools </p> <p> <a href=\"https://www.producthunt.com/products/asktodo-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081765?app_id=339\">Link</a> </p>",
+        "summary": "35+ Free AI Tools "
+      },
+      {
+        "title": "Kollect Voice Agent",
+        "link": "https://www.producthunt.com/products/kollect-voice-agent",
+        "desc": "<p> Collect forms via voice </p> <p> <a href=\"https://www.producthunt.com/products/kollect-voice-agent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081381?app_id=339\">Link</a> </p>",
+        "summary": "Collect forms via voice "
+      },
+      {
+        "title": "FF Designer",
+        "link": "https://www.producthunt.com/products/flutterflow",
+        "desc": "<p> Generate beautiful UI designs instantly. Edit them freely. </p> <p> <a href=\"https://www.producthunt.com/products/flutterflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081168?app_id=339\">Link</a> </p>",
+        "summary": "Generate beautiful UI designs instantly."
+      },
+      {
+        "title": "Feedix",
+        "link": "https://www.producthunt.com/products/feedix",
+        "desc": "<p> Your YouTube subscriptions, summarized and delivered by AI </p> <p> <a href=\"https://www.producthunt.com/products/feedix?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081371?app_id=339\">Link</a> </p>",
+        "summary": "Your YouTube subscriptions, summarized and delivered by AI "
+      },
+      {
+        "title": "Monologue for iOS",
+        "link": "https://www.producthunt.com/products/monologue-2",
+        "desc": "<p> Turn your voice into polished writing—wherever you go. </p> <p> <a href=\"https://www.producthunt.com/products/monologue-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081243?app_id=339\">Link</a> </p>",
+        "summary": "Turn your voice into polished writing—wherever you go."
+      },
+      {
+        "title": "HyperCaps for macOS",
+        "link": "https://www.producthunt.com/products/hypercaps-for-macos",
+        "desc": "<p> Turn CapsLock into a Super Key & Boost Productivity </p> <p> <a href=\"https://www.producthunt.com/products/hypercaps-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080908?app_id=339\">Link</a> </p>",
+        "summary": "Turn CapsLock into a Super Key & Boost Productivity "
+      },
+      {
+        "title": "Mengram",
+        "link": "https://www.producthunt.com/products/mengram",
+        "desc": "<p> AI memory API with 3 types: facts, events, and workflows </p> <p> <a href=\"https://www.producthunt.com/products/mengram?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081454?app_id=339\">Link</a> </p>",
+        "summary": "AI memory API with 3 types: facts, events, and workflows "
+      },
+      {
+        "title": "CertNode Reflex",
+        "link": "https://www.producthunt.com/products/certnode-reflex",
+        "desc": "<p> AI-powered chargeback defense. Pay only when you win. </p> <p> <a href=\"https://www.producthunt.com/products/certnode-reflex?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081436?app_id=339\">Link</a> </p>",
+        "summary": "AI-powered chargeback defense."
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
