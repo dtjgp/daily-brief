@@ -1,0 +1,249 @@
+{
+  "date": "2026-02-20",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Defer available in gcc and clang",
+        "link": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
+        "score": 108,
+        "desc": "",
+        "summary": "这条主要讨论「Defer available in gcc and c…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Consistency diffusion language models: Up to 14x faster, no quality loss",
+        "link": "https://www.together.ai/blog/consistency-diffusion-language-models",
+        "score": 75,
+        "desc": "",
+        "summary": "这条主要讨论「Consistency diffusion langua…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Gemini 3.1 Pro",
+        "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+        "score": 717,
+        "desc": "Preview: https:&#x2F;&#x2F;console.cloud.google.com&#x2F;vertex-ai&#x2F;publishers&#x2F;google...Card: https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-1-pro&#x2F;",
+        "summary": "Preview: https:&#x2F;&#x2F;console.cloud.google.com&#x2F;vertex-ai&#x2F;publishers&#x2F;google...Card: https:&#x2F;&#x2F"
+      },
+      {
+        "title": "Reading the undocumented MEMS accelerometer on Apple Silicon MacBooks via iokit",
+        "link": "https://github.com/olvvier/apple-silicon-accelerometer",
+        "score": 38,
+        "desc": "",
+        "summary": "这条主要讨论「Reading the undocumented MEM…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Pi for Excel: AI sidebar add-in for Excel",
+        "link": "https://github.com/tmustier/pi-for-excel",
+        "score": 59,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "FreeCAD",
+        "link": "https://www.freecad.org/index.php",
+        "score": 104,
+        "desc": "",
+        "summary": "这条主要讨论「FreeCAD」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Micasa – track your house from the terminal",
+        "link": "https://micasa.dev",
+        "score": 528,
+        "desc": "micasa is a terminal UI that helps you track home stuff, in a single SQLite file. No cloud, no account, no subscription. Backup with cp.I built it because I was tired of losing track of everything in notes apps, and &quot;I&#x27;ll remember that&quot;s. When do I need to clean the dishwasher filter? What&#x27;s the best quote for a complete overhaul of the backyard. Oops, found some mold behind the trim, need to address that ASAP. That sort of stuff.Another reason I made micasa was to build a (hopefully useful) low-stakes personal project where the code was written entirely by AI. I still review the code and click the merge button, but 99% of the programming was done with an agent.Here are some things I think make it worth checking out:- Vim-style modal UI. Nav mode to browse, edit mode to change. Multicolumn sort, fuzzy-jump to columns, pin-and-filter rows, hide columns you don&#x27;t need, drill into related records (like quotes for a project). Much of the spirit of the design and some of the actual design choices is and are inspired by VisiData. You should check that out too. - Local LLM chat. Definitely a gimmick, but I am trying preempt &quot;Yeah, but does it AI?&quot;-style conversations. This is an optional feature and you can simply pretend it doesn&#x27;t exist. All features work without it. - Single-file SQLite-based architecture. Document attachments (manuals, receipts, photos) are stored as BLOBs in the same SQLite database. One file is the whole app state. If you think this won&#x27;t scale, you&#x27;re right. It&#x27;s pretty damn easy to work with though. - Pure Go, zero CGO. Built on Charmbracelet for the TUI and GORM + go-sqlite for the database. Charm makes pretty nice TUIs, and this was my first time using it.Try it with sample data: go install github.com&#x2F;cpcloud&#x2F;micasa&#x2F;cmd&#x2F;micasa@latest &amp;&amp; micasa --demoIf you&#x27;re insane you can also run micasa --demo --years 1000 to generate 1000 years worth of demo data. Not sure what house would last that long, but hey, you do you.",
+        "summary": "micasa is a terminal UI that helps you track home stuff, in a single SQLite file."
+      },
+      {
+        "title": "An ARM Homelab Server, or a Minisforum MS-R1 Review",
+        "link": "https://sour.coffee/2026/02/20/an-arm-homelab-server-or-a-minisforum-ms-r1-review/",
+        "score": 63,
+        "desc": "",
+        "summary": "这条主要讨论「An ARM Homelab Server, or a …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
+        "link": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
+        "score": 336,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Almost Every infrastructure decision I endorse or regret after 4 years",
+        "link": "https://cep.dev/posts/every-infrastructure-decision-i-endorse-or-regret-after-4-years-running-infrastructure-at-a-startup/",
+        "score": 221,
+        "desc": "",
+        "summary": "这条主要讨论「Almost Every infrastructure …」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "55,661",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "RichardAtCT/claude-code-telegram",
+        "link": "https://github.com/RichardAtCT/claude-code-telegram",
+        "score": "1,107",
+        "desc": "Star RichardAtCT / claude-code-telegram A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+        "summary": "Star RichardAtCT / claude-code-telegram A powerful Telegram bot that provides remote access to Claude Code, enabling dev"
+      },
+      {
+        "title": "open-mercato/open-mercato",
+        "link": "https://github.com/open-mercato/open-mercato",
+        "score": "834",
+        "desc": "Star open-mercato / open-mercato AI‑supportive CRM / ERP foundation framework — built to power R&amp;D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+        "summary": "Star open-mercato / open-mercato AI‑supportive CRM / ERP foundation framework — built to power R&amp;D, new processes, o"
+      },
+      {
+        "title": "harvard-edge/cs249r_book",
+        "link": "https://github.com/harvard-edge/cs249r_book",
+        "score": "20,353",
+        "desc": "Star harvard-edge / cs249r_book Introduction to Machine Learning Systems",
+        "summary": "Star harvard-edge / cs249r_book Introduction to Machine Learning Systems"
+      },
+      {
+        "title": "HailToDodongo/pyrite64",
+        "link": "https://github.com/HailToDodongo/pyrite64",
+        "score": "1,881",
+        "desc": "Star HailToDodongo / pyrite64 N64 Game-Engine and Editor using libdragon &amp; tiny3d",
+        "summary": "Star HailToDodongo / pyrite64 N64 Game-Engine and Editor using libdragon &amp; tiny3d"
+      },
+      {
+        "title": "openclaw/openclaw",
+        "link": "https://github.com/openclaw/openclaw",
+        "score": "212,716",
+        "desc": "Sponsor Star openclaw / openclaw Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "summary": "Sponsor Star openclaw / openclaw Your own personal AI assistant."
+      },
+      {
+        "title": "freemocap/freemocap",
+        "link": "https://github.com/freemocap/freemocap",
+        "score": "5,353",
+        "desc": "Star freemocap / freemocap Free Motion Capture for Everyone 💀✨",
+        "summary": "Star freemocap / freemocap Free Motion Capture for Everyone 💀✨"
+      },
+      {
+        "title": "p-e-w/heretic",
+        "link": "https://github.com/p-e-w/heretic",
+        "score": "8,621",
+        "desc": "Star p-e-w / heretic Fully automatic censorship removal for language models",
+        "summary": "Star p-e-w / heretic Fully automatic censorship removal for language models"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Arcmark",
+        "link": "https://www.producthunt.com/products/arcmark",
+        "desc": "<p> Your bookmarks, attached to any browser as a sidebar </p> <p> <a href=\"https://www.producthunt.com/products/arcmark?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082382?app_id=339\">Link</a> </p>",
+        "summary": "Your bookmarks, attached to any browser as a sidebar "
+      },
+      {
+        "title": "moCODE",
+        "link": "https://www.producthunt.com/products/mocode",
+        "desc": "<p> AI coding assistant on Mobile for OpenCode/KiloCode Server </p> <p> <a href=\"https://www.producthunt.com/products/mocode?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082233?app_id=339\">Link</a> </p>",
+        "summary": "AI coding assistant on Mobile for OpenCode/KiloCode Server "
+      },
+      {
+        "title": "Guideless",
+        "link": "https://www.producthunt.com/products/guideless",
+        "desc": "<p> Create AI-narrated software video guides in minutes </p> <p> <a href=\"https://www.producthunt.com/products/guideless?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080248?app_id=339\">Link</a> </p>",
+        "summary": "Create AI-narrated software video guides in minutes "
+      },
+      {
+        "title": "NotchPrompt",
+        "link": "https://www.producthunt.com/products/notchprompt",
+        "desc": "<p> The invisible teleprompter that lives in your MacBook Notch. </p> <p> <a href=\"https://www.producthunt.com/products/notchprompt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081917?app_id=339\">Link</a> </p>",
+        "summary": "The invisible teleprompter that lives in your MacBook Notch."
+      },
+      {
+        "title": "keychains.dev - Secure your OpenClaw bot",
+        "link": "https://www.producthunt.com/products/keychain-dev",
+        "desc": "<p> Give it access to 6754+ APIs. Zero credentials exposed. </p> <p> <a href=\"https://www.producthunt.com/products/keychain-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082040?app_id=339\">Link</a> </p>",
+        "summary": "Give it access to 6754+ APIs."
+      },
+      {
+        "title": "Google Pomelli 2.0",
+        "link": "https://www.producthunt.com/products/pomelli-by-google-labs",
+        "desc": "<p> Turn simple product photos into pro studio imagery instantly </p> <p> <a href=\"https://www.producthunt.com/products/pomelli-by-google-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082273?app_id=339\">Link</a> </p>",
+        "summary": "Turn simple product photos into pro studio imagery instantly "
+      },
+      {
+        "title": "PI-Link Speed Radar",
+        "link": "https://www.producthunt.com/products/pi-link-speed-radar",
+        "desc": "<p> Smart Doppler radar powered by your phone </p> <p> <a href=\"https://www.producthunt.com/products/pi-link-speed-radar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082139?app_id=339\">Link</a> </p>",
+        "summary": "Smart Doppler radar powered by your phone "
+      },
+      {
+        "title": "Claudebin",
+        "link": "https://www.producthunt.com/products/claudebin",
+        "desc": "<p> Export and share your Claude Code sessions as resumable URLs </p> <p> <a href=\"https://www.producthunt.com/products/claudebin?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082108?app_id=339\">Link</a> </p>",
+        "summary": "Export and share your Claude Code sessions as resumable URLs "
+      },
+      {
+        "title": "Dreamer",
+        "link": "https://www.producthunt.com/products/dreamer-3",
+        "desc": "<p> Your home for personal intelligence </p> <p> <a href=\"https://www.producthunt.com/products/dreamer-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081242?app_id=339\">Link</a> </p>",
+        "summary": "Your home for personal intelligence "
+      },
+      {
+        "title": "Architect by Lyzr",
+        "link": "https://www.producthunt.com/products/architect",
+        "desc": "<p> Build AI that works for you </p> <p> <a href=\"https://www.producthunt.com/products/architect?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075250?app_id=339\">Link</a> </p>",
+        "summary": "Build AI that works for you "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
