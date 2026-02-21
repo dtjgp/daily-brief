@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-21",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Keep Android Open",
+        "link": "https://f-droid.org/2026/02/20/twif.html",
+        "score": 1393,
+        "desc": "",
+        "summary": "这条主要讨论「Keep Android Open」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Turn Dependabot off",
+        "link": "https://words.filippo.io/dependabot/",
+        "score": 417,
+        "desc": "",
+        "summary": "这条主要讨论「Turn Dependabot off」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Facebook is cooked",
+        "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
+        "score": 1016,
+        "desc": "",
+        "summary": "这条主要讨论「Facebook is cooked」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "I found a Vulnerability. They found a Lawyer",
+        "link": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
+        "score": 529,
+        "desc": "",
+        "summary": "这条主要讨论「I found a Vulnerability. The…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+        "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+        "score": 724,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+        "link": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+        "score": 408,
+        "desc": "Related:Archive.today is directing a DDoS attack against my blog - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46843805 - Feb 2026 (168 comments)Ask HN: Weird archive.today behavior? - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46624740 - Jan 2026 (69 comments)",
+        "summary": "Related:Archive.today is directing a DDoS attack against my blog - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=4"
+      },
+      {
+        "title": "CERN rebuilt the original browser from 1989 (2019)",
+        "link": "https://worldwideweb.cern.ch",
+        "score": 159,
+        "desc": "",
+        "summary": "这条主要讨论「CERN rebuilt the original br…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Microsoft team creates 'revolutionary' data storage system that lasts millennia",
+        "link": "https://www.nature.com/articles/d41586-026-00502-2",
+        "score": 42,
+        "desc": "",
+        "summary": "这条主要讨论「Microsoft team creates 'revo…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "What Is OAuth?",
+        "link": "https://leaflet.pub/p/did:plc:3vdrgzr2zybocs45yfhcr6ur/3mfd2oxx5v22b",
+        "score": 101,
+        "desc": "",
+        "summary": "这条主要讨论「What Is OAuth?」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Index, Count, Offset, Size",
+        "link": "https://tigerbeetle.com/blog/2026-02-16-index-count-offset-size/",
+        "score": 75,
+        "desc": "",
+        "summary": "这条主要讨论「Index, Count, Offset, Size」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "vxcontrol/pentagi",
+        "link": "https://github.com/vxcontrol/pentagi",
+        "score": "4,395",
+        "desc": "Star vxcontrol / pentagi ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "summary": "Star vxcontrol / pentagi ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+      },
+      {
+        "title": "blackboardsh/electrobun",
+        "link": "https://github.com/blackboardsh/electrobun",
+        "score": "6,201",
+        "desc": "Star blackboardsh / electrobun Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+        "summary": "Star blackboardsh / electrobun Build ultra fast, tiny, and cross-platform desktop apps with Typescript."
+      },
+      {
+        "title": "HailToDodongo/pyrite64",
+        "link": "https://github.com/HailToDodongo/pyrite64",
+        "score": "2,192",
+        "desc": "Star HailToDodongo / pyrite64 N64 Game-Engine and Editor using libdragon &amp; tiny3d",
+        "summary": "Star HailToDodongo / pyrite64 N64 Game-Engine and Editor using libdragon &amp; tiny3d"
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "56,442",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/aquasecurity/trivy",
+        "score": "32,137",
+        "desc": "Star aquasecurity / trivy Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "summary": "Star aquasecurity / trivy Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code reposit"
+      },
+      {
+        "title": "PostHog/posthog",
+        "link": "https://github.com/PostHog/posthog",
+        "score": "31,643",
+        "desc": "Star PostHog / posthog 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+        "summary": "Star PostHog / posthog 🦔 PostHog is an all-in-one developer platform for building successful products."
+      },
+      {
+        "title": "eslint/eslint",
+        "link": "https://github.com/eslint/eslint",
+        "score": "27,080",
+        "desc": "Sponsor Star eslint / eslint Find and fix problems in your JavaScript code.",
+        "summary": "Sponsor Star eslint / eslint Find and fix problems in your JavaScript code."
+      },
+      {
+        "title": "anthropics/claude-plugins-official",
+        "link": "https://github.com/anthropics/claude-plugins-official",
+        "score": "7,953",
+        "desc": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "summary": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins."
+      },
+      {
+        "title": "Effect-TS/effect-smol",
+        "link": "https://github.com/Effect-TS/effect-smol",
+        "score": "386",
+        "desc": "Star Effect-TS / effect-smol Core libraries and experimental work for Effect v4",
+        "summary": "Star Effect-TS / effect-smol Core libraries and experimental work for Effect v4"
+      },
+      {
+        "title": "google-research/timesfm",
+        "link": "https://github.com/google-research/timesfm",
+        "score": "8,928",
+        "desc": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+        "summary": "Star google-research / timesfm TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model devel"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Lyria 3 by Google Deepmind",
+        "link": "https://www.producthunt.com/products/lyria-3-by-google-deepmind",
+        "desc": "<p> Turn any photo or thought into a custom song inside Gemini </p> <p> <a href=\"https://www.producthunt.com/products/lyria-3-by-google-deepmind?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082279?app_id=339\">Link</a> </p>",
+        "summary": "Turn any photo or thought into a custom song inside Gemini "
+      },
+      {
+        "title": "Macky",
+        "link": "https://www.producthunt.com/products/macky-2",
+        "desc": "<p> Connect to your Mac terminal from iPhone </p> <p> <a href=\"https://www.producthunt.com/products/macky-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1069010?app_id=339\">Link</a> </p>",
+        "summary": "Connect to your Mac terminal from iPhone "
+      },
+      {
+        "title": "Woise",
+        "link": "https://www.producthunt.com/products/woise-2",
+        "desc": "<p> AI Voice & Screen Recording Tool for Websites </p> <p> <a href=\"https://www.producthunt.com/products/woise-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080223?app_id=339\">Link</a> </p>",
+        "summary": "AI Voice & Screen Recording Tool for Websites "
+      },
+      {
+        "title": "Prism Videos",
+        "link": "https://www.producthunt.com/products/prism-videos",
+        "desc": "<p> A unified workspace to generate and edit AI videos </p> <p> <a href=\"https://www.producthunt.com/products/prism-videos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081860?app_id=339\">Link</a> </p>",
+        "summary": "A unified workspace to generate and edit AI videos "
+      },
+      {
+        "title": "WANotifier",
+        "link": "https://www.producthunt.com/products/wanotifier",
+        "desc": "<p> All-in-one WhatsApp marketing & automation tool </p> <p> <a href=\"https://www.producthunt.com/products/wanotifier?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081360?app_id=339\">Link</a> </p>",
+        "summary": "All-in-one WhatsApp marketing & automation tool "
+      },
+      {
+        "title": "Rork Max",
+        "link": "https://www.producthunt.com/products/rork-app-for-ios",
+        "desc": "<p> Best AI for iOS apps. Website that replaces Xcode </p> <p> <a href=\"https://www.producthunt.com/products/rork-app-for-ios?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083049?app_id=339\">Link</a> </p>",
+        "summary": "Best AI for iOS apps."
+      },
+      {
+        "title": "git-lrc",
+        "link": "https://www.producthunt.com/products/git-lrc",
+        "desc": "<p> Free, unlimited AI code reviews that run on commit </p> <p> <a href=\"https://www.producthunt.com/products/git-lrc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079262?app_id=339\">Link</a> </p>",
+        "summary": "Free, unlimited AI code reviews that run on commit "
+      },
+      {
+        "title": "PulseKit",
+        "link": "https://www.producthunt.com/products/pulsekit",
+        "desc": "<p> Your key metrics, as widgets across your Apple devices </p> <p> <a href=\"https://www.producthunt.com/products/pulsekit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082716?app_id=339\">Link</a> </p>",
+        "summary": "Your key metrics, as widgets across your Apple devices "
+      },
+      {
+        "title": "keychains.dev",
+        "link": "https://www.producthunt.com/products/keychain-dev",
+        "desc": "<p> Give AI access to 6754+ APIs with zero credentials exposed </p> <p> <a href=\"https://www.producthunt.com/products/keychain-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082040?app_id=339\">Link</a> </p>",
+        "summary": "Give AI access to 6754+ APIs with zero credentials exposed "
+      },
+      {
+        "title": "Architect by Lyzr",
+        "link": "https://www.producthunt.com/products/architect",
+        "desc": "<p> Build AI that works for you </p> <p> <a href=\"https://www.producthunt.com/products/architect?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075250?app_id=339\">Link</a> </p>",
+        "summary": "Build AI that works for you "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
