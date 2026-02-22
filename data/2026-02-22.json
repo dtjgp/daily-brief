@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-22",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "How I use Claude Code: Separation of planning and execution",
+        "link": "https://boristane.com/blog/how-i-use-claude-code/",
+        "score": 437,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Japanese Woodblock Print Search",
+        "link": "https://ukiyo-e.org/",
+        "score": 72,
+        "desc": "",
+        "summary": "这条主要讨论「Japanese Woodblock Print Sea…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "A Botnet Accidentally Destroyed I2P",
+        "link": "https://www.sambent.com/a-botnet-accidentally-destroyed-i2p-the-full-story/",
+        "score": 90,
+        "desc": "",
+        "summary": "这条主要讨论「A Botnet Accidentally Destro…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "How Taalas \"prints\" LLM onto a chip?",
+        "link": "https://www.anuragk.com/blog/posts/Taalas.html",
+        "score": 84,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Show HN: Llama 3.1 70B on a single RTX 3090 via NVMe-to-GPU bypassing the CPU",
+        "link": "https://github.com/xaskasdf/ntransformer",
+        "score": 221,
+        "desc": "Hi everyone, I&#x27;m kinda involved in some retrogaming and with some experiments I ran into the following question: &quot;It would be possible to run transformer models bypassing the cpu&#x2F;ram, connecting the gpu to the nvme?&quot;This is the result of that question itself and some weekend vibecoding (it has the linked library repository in the readme as well), it seems to work, even on consumer gpus, it should work better on professional ones tho",
+        "summary": "Hi everyone, I&#x27;m kinda involved in some retrogaming and with some experiments I ran into the following question: &q"
+      },
+      {
+        "title": "Two Bits Are Better Than One: making bloom filters 2x more accurate",
+        "link": "https://floedb.ai/blog/two-bits-are-better-than-one-making-bloom-filters-2x-more-accurate",
+        "score": 79,
+        "desc": "",
+        "summary": "这条主要讨论「Two Bits Are Better Than One…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "How far back in time can you understand English?",
+        "link": "https://www.deadlanguagesociety.com/p/how-far-back-in-time-understand-english",
+        "score": 507,
+        "desc": "",
+        "summary": "这条主要讨论「How far back in time can you…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Gamedate – A site to revive dead multiplayer games",
+        "link": "https://gamedate.org/",
+        "score": 77,
+        "desc": "",
+        "summary": "这条主要讨论「Gamedate – A site to revive …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Evidence of the bouba-kiki effect in naïve baby chicks",
+        "link": "https://www.science.org/doi/10.1126/science.adq7188",
+        "score": 121,
+        "desc": "",
+        "summary": "这条主要讨论「Evidence of the bouba-kiki e…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Parse, Don't Validate and Type-Driven Design in Rust",
+        "link": "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/",
+        "score": 177,
+        "desc": "",
+        "summary": "这条主要讨论「Parse, Don't Validate and Ty…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "vxcontrol/pentagi",
+        "link": "https://github.com/vxcontrol/pentagi",
+        "score": "6,039",
+        "desc": "Star vxcontrol / pentagi ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "summary": "Star vxcontrol / pentagi ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+      },
+      {
+        "title": "abhigyanpatwari/GitNexus",
+        "link": "https://github.com/abhigyanpatwari/GitNexus",
+        "score": "1,169",
+        "desc": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "summary": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "57,257",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "huggingface/skills",
+        "link": "https://github.com/huggingface/skills",
+        "score": "1,772",
+        "desc": "",
+        "summary": "这条主要讨论「huggingface/skills」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "PowerShell/PowerShell",
+        "link": "https://github.com/PowerShell/PowerShell",
+        "score": "51,602",
+        "desc": "Star PowerShell / PowerShell PowerShell for every system!",
+        "summary": "Star PowerShell / PowerShell PowerShell for every system!"
+      },
+      {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/anthropics/claude-code",
+        "score": "68,574",
+        "desc": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "summary": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codeba"
+      },
+      {
+        "title": "stan-smith/FossFLOW",
+        "link": "https://github.com/stan-smith/FossFLOW",
+        "score": "17,881",
+        "desc": "Sponsor Star stan-smith / FossFLOW Make beautiful isometric infrastructure diagrams",
+        "summary": "Sponsor Star stan-smith / FossFLOW Make beautiful isometric infrastructure diagrams"
+      },
+      {
+        "title": "ggml-org/ggml",
+        "link": "https://github.com/ggml-org/ggml",
+        "score": "14,094",
+        "desc": "Star ggml-org / ggml Tensor library for machine learning",
+        "summary": "Star ggml-org / ggml Tensor library for machine learning"
+      },
+      {
+        "title": "Stremio/stremio-web",
+        "link": "https://github.com/Stremio/stremio-web",
+        "score": "9,518",
+        "desc": "Star Stremio / stremio-web Stremio - Freedom to Stream",
+        "summary": "Star Stremio / stremio-web Stremio - Freedom to Stream"
+      },
+      {
+        "title": "HandsOnLLM/Hands-On-Large-Language-Models",
+        "link": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+        "score": "22,692",
+        "desc": "Star HandsOnLLM / Hands-On-Large-Language-Models Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+        "summary": "Star HandsOnLLM / Hands-On-Large-Language-Models Official code repo for the O'Reilly Book - \"Hands-On Large Language Mod"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Superpowers AI",
+        "link": "https://www.producthunt.com/products/superpowers-ai",
+        "desc": "<p> Solve real-world tasks with visual AI on phones & wearables </p> <p> <a href=\"https://www.producthunt.com/products/superpowers-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1075696?app_id=339\">Link</a> </p>",
+        "summary": "Solve real-world tasks with visual AI on phones & wearables "
+      },
+      {
+        "title": "Claude in PowerPoint",
+        "link": "https://www.producthunt.com/products/claude-in-powerpoint",
+        "desc": "<p> Use Claude to build, edit & refine PowerPoint presentations. </p> <p> <a href=\"https://www.producthunt.com/products/claude-in-powerpoint?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082371?app_id=339\">Link</a> </p>",
+        "summary": "Use Claude to build, edit & refine PowerPoint presentations."
+      },
+      {
+        "title": "Wordy",
+        "link": "https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302",
+        "desc": "<p> Learn languages from real movie and TV clips with quizzes </p> <p> <a href=\"https://www.producthunt.com/products/wordy-81fc3d1c-40c1-42d1-9a07-6c2a80ffb302?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083263?app_id=339\">Link</a> </p>",
+        "summary": "Learn languages from real movie and TV clips with quizzes "
+      },
+      {
+        "title": "Tidy",
+        "link": "https://www.producthunt.com/products/tidy-3",
+        "desc": "<p> A personal assistant that can learn to use any app you use </p> <p> <a href=\"https://www.producthunt.com/products/tidy-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082534?app_id=339\">Link</a> </p>",
+        "summary": "A personal assistant that can learn to use any app you use "
+      },
+      {
+        "title": "Straion",
+        "link": "https://www.producthunt.com/products/straion",
+        "desc": "<p> Rules for AI coding agents </p> <p> <a href=\"https://www.producthunt.com/products/straion?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1074001?app_id=339\">Link</a> </p>",
+        "summary": "Rules for AI coding agents "
+      },
+      {
+        "title": "Rork Max",
+        "link": "https://www.producthunt.com/products/rork-app-for-ios",
+        "desc": "<p> Best AI for iOS apps. Website that replaces Xcode </p> <p> <a href=\"https://www.producthunt.com/products/rork-app-for-ios?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083049?app_id=339\">Link</a> </p>",
+        "summary": "Best AI for iOS apps."
+      },
+      {
+        "title": "Woise",
+        "link": "https://www.producthunt.com/products/woise-2",
+        "desc": "<p> AI Voice & Screen Recording Tool for Websites </p> <p> <a href=\"https://www.producthunt.com/products/woise-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1080223?app_id=339\">Link</a> </p>",
+        "summary": "AI Voice & Screen Recording Tool for Websites "
+      },
+      {
+        "title": "Lyria 3 by Google Deepmind",
+        "link": "https://www.producthunt.com/products/lyria-3-by-google-deepmind",
+        "desc": "<p> Turn any photo or thought into a custom song inside Gemini </p> <p> <a href=\"https://www.producthunt.com/products/lyria-3-by-google-deepmind?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082279?app_id=339\">Link</a> </p>",
+        "summary": "Turn any photo or thought into a custom song inside Gemini "
+      },
+      {
+        "title": "WANotifier",
+        "link": "https://www.producthunt.com/products/wanotifier",
+        "desc": "<p> All-in-one WhatsApp marketing & automation tool </p> <p> <a href=\"https://www.producthunt.com/products/wanotifier?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081360?app_id=339\">Link</a> </p>",
+        "summary": "All-in-one WhatsApp marketing & automation tool "
+      },
+      {
+        "title": "PulseKit",
+        "link": "https://www.producthunt.com/products/pulsekit",
+        "desc": "<p> Your key metrics, as widgets across your Apple devices </p> <p> <a href=\"https://www.producthunt.com/products/pulsekit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082716?app_id=339\">Link</a> </p>",
+        "summary": "Your key metrics, as widgets across your Apple devices "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
