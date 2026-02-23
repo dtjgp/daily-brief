@@ -1,0 +1,256 @@
+{
+  "date": "2026-02-23",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Pope tells priests to use their brains, not AI, to write homilies",
+        "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+        "score": 94,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "I built Timeframe, our family e-paper dashboard",
+        "link": "https://hawksley.org/2026/02/17/timeframe.html",
+        "score": 1033,
+        "desc": "",
+        "summary": "这条主要讨论「I built Timeframe, our famil…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Sub-$200 Lidar Could Reshuffle Auto Sensor Economics",
+        "link": "https://spectrum.ieee.org/solid-state-lidar-microvision-adas",
+        "score": 27,
+        "desc": "",
+        "summary": "这条主要讨论「Sub-$200 Lidar Could Reshuff…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "0 A.D. Release 28: Boiorix",
+        "link": "https://play0ad.com/new-release-0-a-d-release-28-boiorix/",
+        "score": 74,
+        "desc": "",
+        "summary": "这条主要讨论「0 A.D. Release 28: Boiorix」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "The JavaScript Oxidation Compiler",
+        "link": "https://oxc.rs/",
+        "score": 142,
+        "desc": "",
+        "summary": "这条主要讨论「The JavaScript Oxidation Com…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
+        "link": "https://cia-factbook-archive.fly.dev/",
+        "score": 304,
+        "desc": "A structured archive of CIA World Factbook data spanning 1990–2025. It currently includes: 36 editions 281 entities ~1.06M parsed fields full-text + boolean search country&#x2F;year comparisons map&#x2F;trend&#x2F;ranking analysis views CSV&#x2F;XLSX&#x2F;PDF export The goal is to preserve long-horizon public-domain government data and make cross-year analysis practical. Live: https:&#x2F;&#x2F;cia-factbook-archive.fly.dev About&#x2F;method details: https:&#x2F;&#x2F;cia-factbook-archive.fly.dev&#x2F;about Data source is the CIA World Factbook (public domain). Not affiliated with the CIA or U.S. Government.",
+        "summary": "A structured archive of CIA World Factbook data spanning 1990–2025."
+      },
+      {
+        "title": "Loops is a federated, open-source TikTok",
+        "link": "https://joinloops.org/",
+        "score": 393,
+        "desc": "",
+        "summary": "这条主要讨论「Loops is a federated, open-s…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "My journey to the microwave alternate timeline",
+        "link": "https://www.lesswrong.com/posts/8m6AM5qtPMjgTkEeD/my-journey-to-the-microwave-alternate-timeline",
+        "score": 206,
+        "desc": "",
+        "summary": "这条主要讨论「My journey to the microwave …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
+        "link": "https://bitmovin.com/careers/8023403002/",
+        "score": 1,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Freemediaheckyeah",
+        "link": "https://fmhy.net/",
+        "score": 185,
+        "desc": "",
+        "summary": "这条主要讨论「Freemediaheckyeah」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "huggingface/skills",
+        "link": "https://github.com/huggingface/skills",
+        "score": "3,132",
+        "desc": "",
+        "summary": "这条主要讨论「huggingface/skills」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "vxcontrol/pentagi",
+        "link": "https://github.com/vxcontrol/pentagi",
+        "score": "7,506",
+        "desc": "Star vxcontrol / pentagi ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "summary": "Star vxcontrol / pentagi ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+      },
+      {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/anthropics/claude-code",
+        "score": "69,166",
+        "desc": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "summary": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codeba"
+      },
+      {
+        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+        "score": "118,417",
+        "desc": "Sponsor Star x1xhlol / system-prompts-and-models-of-ai-tools FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
+        "summary": "Sponsor Star x1xhlol / system-prompts-and-models-of-ai-tools FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, C"
+      },
+      {
+        "title": "Stremio/stremio-web",
+        "link": "https://github.com/Stremio/stremio-web",
+        "score": "9,792",
+        "desc": "Star Stremio / stremio-web Stremio - Freedom to Stream",
+        "summary": "Star Stremio / stremio-web Stremio - Freedom to Stream"
+      },
+      {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/OpenBB-finance/OpenBB",
+        "score": "61,136",
+        "desc": "Sponsor Star OpenBB-finance / OpenBB Financial data platform for analysts, quants and AI agents.",
+        "summary": "Sponsor Star OpenBB-finance / OpenBB Financial data platform for analysts, quants and AI agents."
+      },
+      {
+        "title": "cloudflare/agents",
+        "link": "https://github.com/cloudflare/agents",
+        "score": "3,843",
+        "desc": "Star cloudflare / agents Build and deploy AI Agents on Cloudflare",
+        "summary": "Star cloudflare / agents Build and deploy AI Agents on Cloudflare"
+      },
+      {
+        "title": "abhigyanpatwari/GitNexus",
+        "link": "https://github.com/abhigyanpatwari/GitNexus",
+        "score": "1,646",
+        "desc": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "summary": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+      },
+      {
+        "title": "stan-smith/FossFLOW",
+        "link": "https://github.com/stan-smith/FossFLOW",
+        "score": "18,306",
+        "desc": "Sponsor Star stan-smith / FossFLOW Make beautiful isometric infrastructure diagrams",
+        "summary": "Sponsor Star stan-smith / FossFLOW Make beautiful isometric infrastructure diagrams"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "InboxAgents",
+        "link": "https://www.producthunt.com/products/inboxagents",
+        "desc": "<p> Smart, unified inbox for Linkedin, email & social media. </p> <p> <a href=\"https://www.producthunt.com/products/inboxagents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1066379?app_id=339\">Link</a> </p>",
+        "summary": "Smart, unified inbox for Linkedin, email & social media."
+      },
+      {
+        "title": "Grok 4.2 (Beta)",
+        "link": "https://www.producthunt.com/products/grok-3",
+        "desc": "<p> Four AI agents debate internally to build your answer </p> <p> <a href=\"https://www.producthunt.com/products/grok-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083787?app_id=339\">Link</a> </p>",
+        "summary": "Four AI agents debate internally to build your answer "
+      },
+      {
+        "title": "SkillForge",
+        "link": "https://www.producthunt.com/products/skillforge-2",
+        "desc": "<p> Turn Screen Recordings into Agent-Ready Skills </p> <p> <a href=\"https://www.producthunt.com/products/skillforge-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079954?app_id=339\">Link</a> </p>",
+        "summary": "Turn Screen Recordings into Agent-Ready Skills "
+      },
+      {
+        "title": "Replit Animated Videos",
+        "link": "https://www.producthunt.com/products/replit",
+        "desc": "<p> AI-Powered Motion Graphics </p> <p> <a href=\"https://www.producthunt.com/products/replit?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083165?app_id=339\">Link</a> </p>",
+        "summary": "AI-Powered Motion Graphics "
+      },
+      {
+        "title": "PipedriveSheets",
+        "link": "https://www.producthunt.com/products/pipedrivesheets",
+        "desc": "<p> Two-way sync between Pipedrive CRM and Google Sheets </p> <p> <a href=\"https://www.producthunt.com/products/pipedrivesheets?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083562?app_id=339\">Link</a> </p>",
+        "summary": "Two-way sync between Pipedrive CRM and Google Sheets "
+      },
+      {
+        "title": "OpenHunt",
+        "link": "https://www.producthunt.com/products/openhunt",
+        "desc": "<p> AI-native launch layer for the post-algorithm internet </p> <p> <a href=\"https://www.producthunt.com/products/openhunt?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084017?app_id=339\">Link</a> </p>",
+        "summary": "AI-native launch layer for the post-algorithm internet "
+      },
+      {
+        "title": "Wispr Flow for Android",
+        "link": "https://www.producthunt.com/products/wisprflow",
+        "desc": "<p> AI dictation that turns messy speech into polished text. </p> <p> <a href=\"https://www.producthunt.com/products/wisprflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081179?app_id=339\">Link</a> </p>",
+        "summary": "AI dictation that turns messy speech into polished text."
+      },
+      {
+        "title": "App Cleaner & Uninstaller 9.1",
+        "link": "https://www.producthunt.com/products/app-cleaner-uninstaller",
+        "desc": "<p> Smarter updates, app permissions, trust & AI insights </p> <p> <a href=\"https://www.producthunt.com/products/app-cleaner-uninstaller?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082691?app_id=339\">Link</a> </p>",
+        "summary": "Smarter updates, app permissions, trust & AI insights "
+      },
+      {
+        "title": "Callio",
+        "link": "https://www.producthunt.com/products/callio-3",
+        "desc": "<p> Connect any API with AI Agent in under 5 mins </p> <p> <a href=\"https://www.producthunt.com/products/callio-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083879?app_id=339\">Link</a> </p>",
+        "summary": "Connect any API with AI Agent in under 5 mins "
+      },
+      {
+        "title": "AnnotateAI",
+        "link": "https://www.producthunt.com/products/annotateai",
+        "desc": "<p> Human-guided AI data annotation, fast & scalable </p> <p> <a href=\"https://www.producthunt.com/products/annotateai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083975?app_id=339\">Link</a> </p>",
+        "summary": "Human-guided AI data annotation, fast & scalable "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
