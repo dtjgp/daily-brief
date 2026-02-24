@@ -1,0 +1,202 @@
+{
+  "date": "2026-02-24",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+        "link": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+        "score": 171,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Terence Tao, at 8 years old (1984) [pdf]",
+        "link": "https://gwern.net/doc/iq/high/smpy/1984-clements.pdf",
+        "score": 216,
+        "desc": "",
+        "summary": "这条主要讨论「Terence Tao, at 8 years old …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
+        "link": "https://github.com/GreatScott/enveil",
+        "score": 52,
+        "desc": "",
+        "summary": "这条主要讨论「Show HN: enveil – hide your …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows",
+        "link": "https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html",
+        "score": 217,
+        "desc": "",
+        "summary": "这条主要讨论「Blood test boosts Alzheimer'…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "I Ported Coreboot to the ThinkPad X270",
+        "link": "https://dork.dev/posts/2026-02-20-ported-coreboot/",
+        "score": 166,
+        "desc": "",
+        "summary": "这条主要讨论「I Ported Coreboot to the Thi…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: X86CSS – An x86 CPU emulator written in CSS",
+        "link": "https://lyra.horse/x86css/",
+        "score": 101,
+        "desc": "",
+        "summary": "这条主要讨论「Show HN: X86CSS – An x86 CPU…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "The Age Verification Trap: Verifying age undermines everyone's data protection",
+        "link": "https://spectrum.ieee.org/age-verification",
+        "score": 1413,
+        "desc": "",
+        "summary": "这条主要讨论「The Age Verification Trap: V…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+        "link": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+        "score": 137,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Baby chicks pass the bouba-kiki test, challenging a theory of language evolution",
+        "link": "https://www.scientificamerican.com/article/baby-chicks-pass-the-bouba-kiki-test-challenging-a-theory-of-language/",
+        "score": 58,
+        "desc": "",
+        "summary": "这条主要讨论「Baby chicks pass the bouba-k…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+        "link": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+        "score": 150,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+        "link": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+        "score": "121,985",
+        "desc": "Sponsor Star x1xhlol / system-prompts-and-models-of-ai-tools FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
+        "summary": "Sponsor Star x1xhlol / system-prompts-and-models-of-ai-tools FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, C"
+      },
+      {
+        "title": "huggingface/skills",
+        "link": "https://github.com/huggingface/skills",
+        "score": "4,364",
+        "desc": "",
+        "summary": "这条主要讨论「huggingface/skills」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "OpenBB-finance/OpenBB",
+        "link": "https://github.com/OpenBB-finance/OpenBB",
+        "score": "61,654",
+        "desc": "Sponsor Star OpenBB-finance / OpenBB Financial data platform for analysts, quants and AI agents.",
+        "summary": "Sponsor Star OpenBB-finance / OpenBB Financial data platform for analysts, quants and AI agents."
+      },
+      {
+        "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+        "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+        "score": "9,253",
+        "desc": "Sponsor Star muratcankoylan / Agent-Skills-for-Context-Engineering A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+        "summary": "Sponsor Star muratcankoylan / Agent-Skills-for-Context-Engineering A comprehensive collection of Agent Skills for contex"
+      },
+      {
+        "title": "f/prompts.chat",
+        "link": "https://github.com/f/prompts.chat",
+        "score": "147,288",
+        "desc": "Sponsor Star f / prompts.chat f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+        "summary": "Sponsor Star f / prompts.chat f.k.a."
+      },
+      {
+        "title": "CompVis/stable-diffusion",
+        "link": "https://github.com/CompVis/stable-diffusion",
+        "score": "72,534",
+        "desc": "Star CompVis / stable-diffusion A latent text-to-image diffusion model",
+        "summary": "Star CompVis / stable-diffusion A latent text-to-image diffusion model"
+      },
+      {
+        "title": "abhigyanpatwari/GitNexus",
+        "link": "https://github.com/abhigyanpatwari/GitNexus",
+        "score": "2,145",
+        "desc": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "summary": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+      },
+      {
+        "title": "Stremio/stremio-web",
+        "link": "https://github.com/Stremio/stremio-web",
+        "score": "10,032",
+        "desc": "Star Stremio / stremio-web Stremio - Freedom to Stream",
+        "summary": "Star Stremio / stremio-web Stremio - Freedom to Stream"
+      },
+      {
+        "title": "stan-smith/FossFLOW",
+        "link": "https://github.com/stan-smith/FossFLOW",
+        "score": "18,648",
+        "desc": "Sponsor Star stan-smith / FossFLOW Make beautiful isometric infrastructure diagrams",
+        "summary": "Sponsor Star stan-smith / FossFLOW Make beautiful isometric infrastructure diagrams"
+      },
+      {
+        "title": "VectifyAI/PageIndex",
+        "link": "https://github.com/VectifyAI/PageIndex",
+        "score": "17,006",
+        "desc": "Star VectifyAI / PageIndex 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+        "summary": "Star VectifyAI / PageIndex 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+      }
+    ],
+    "producthunt": [],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
