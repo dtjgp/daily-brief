@@ -1,0 +1,263 @@
+{
+  "date": "2026-02-28",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "We Will Not Be Divided",
+        "link": "https://notdivided.org",
+        "score": 1389,
+        "desc": "",
+        "summary": "这条主要讨论「We Will Not Be Divided」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "How do I cancel my ChatGPT subscription?",
+        "link": "https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription",
+        "score": 525,
+        "desc": "",
+        "summary": "这条主要讨论「How do I cancel my ChatGPT s…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Croatia declared free of landmines after 31 years",
+        "link": "https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533",
+        "score": 198,
+        "desc": "",
+        "summary": "这条主要讨论「Croatia declared free of lan…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Rust Is Just a Tool",
+        "link": "https://lewiscampbell.tech/blog/260204.html",
+        "score": 52,
+        "desc": "",
+        "summary": "偏开源工具链更新，适合评估是否纳入你的日常工作流。"
+      },
+      {
+        "title": "Don't use passkeys for encrypting user data",
+        "link": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
+        "score": 126,
+        "desc": "",
+        "summary": "这条主要讨论「Don't use passkeys for encry…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Cash issuing terminals",
+        "link": "https://computer.rip/2026-02-27-ibm-atm.html",
+        "score": 48,
+        "desc": "",
+        "summary": "这条主要讨论「Cash issuing terminals」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "U.S. and Israel Conduct Strikes on Iran",
+        "link": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump",
+        "score": 144,
+        "desc": "",
+        "summary": "这条主要讨论「U.S. and Israel Conduct Stri…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
+        "link": "https://twitter.com/sama/status/2027578652477821175",
+        "score": 516,
+        "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;sama&#x2F;status&#x2F;2027578652477821175https:&#x2F;&#x2F;fortune.com&#x2F;2026&#x2F;02&#x2F;27&#x2F;openai-in-talks-with-pentagon...",
+        "summary": "https:&#x2F;&#x2F;xcancel.com&#x2F;sama&#x2F;status&#x2F;2027578652477821175https:&#x2F;&#x2F;fortune.com&#x2F;2026&#x2F"
+      },
+      {
+        "title": "Show HN: I ported Manim to TypeScript (run 3b1B math animations in the browser)",
+        "link": "https://github.com/maloyan/manim-web",
+        "score": 89,
+        "desc": "Hi HN, I&#x27;m Narek. I built Manim-Web, a TypeScript&#x2F;JavaScript port of 3Blue1Brown’s popular Manim math animation engine.The Problem: Like many here, I love Manim&#x27;s visual style. But setting it up locally is notoriously painful - it requires Python, FFmpeg, Cairo, and a full LaTeX distribution. It creates a massive barrier to entry, especially for students or people who just want to quickly visualize a concept.The Solution: I wanted to make it zero-setup, so I ported the engine to TypeScript. Manim-Web runs entirely client-side in the browser. No Python, no servers, no install. It runs animations in real-time at 60fps.How it works underneath: - Rendering: Uses Canvas API &#x2F; WebGL (via Three.js for 3D scenes). - LaTeX: Rendered and animated via MathJax&#x2F;KaTeX (no LaTeX install needed!). - API: I kept the API almost identical to the Python version (e.g., scene.play(new Transform(square, circle))), meaning existing Manim knowledge transfers over directly. - Reactivity: Updaters and ValueTrackers follow the exact same reactive pattern as the Python original.Because it&#x27;s web-native, the animations are now inherently interactive (objects can be draggable&#x2F;clickable) and can be embedded directly into React&#x2F;Vue apps, interactive textbooks, or blogs. I also included a py2ts converter to help migrate existing scripts.Live Demo: https:&#x2F;&#x2F;maloyan.github.io&#x2F;manim-web&#x2F;examples GitHub: https:&#x2F;&#x2F;github.com&#x2F;maloyan&#x2F;manim-webIt&#x27;s open-source (MIT). I&#x27;m still actively building out feature parity with the Python version, but core animations, geometry, plotting, and 3D orbiting are working great. I would love to hear your feedback, and I&#x27;ll be hanging around to answer any technical questions about rendering math in the browser!",
+        "summary": "Hi HN, I&#x27;m Narek."
+      },
+      {
+        "title": "A new California law says all operating systems need to have age verification",
+        "link": "https://www.pcgamer.com/software/operating-systems/a-new-california-law-says-all-operating-systems-including-linux-need-to-have-some-form-of-age-verification-at-account-setup/",
+        "score": 554,
+        "desc": "",
+        "summary": "这条主要讨论「A new California law says al…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "bytedance/deer-flow",
+        "link": "https://github.com/bytedance/deer-flow",
+        "score": "22,231",
+        "desc": "Star bytedance / deer-flow An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+        "summary": "Star bytedance / deer-flow An open-source SuperAgent harness that researches, codes, and creates."
+      },
+      {
+        "title": "moonshine-ai/moonshine",
+        "link": "https://github.com/moonshine-ai/moonshine",
+        "score": "6,006",
+        "desc": "Star moonshine-ai / moonshine Fast and accurate automatic speech recognition (ASR) for edge devices",
+        "summary": "Star moonshine-ai / moonshine Fast and accurate automatic speech recognition (ASR) for edge devices"
+      },
+      {
+        "title": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+        "link": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+        "score": "12,603",
+        "desc": "Sponsor Star muratcankoylan / Agent-Skills-for-Context-Engineering A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+        "summary": "Sponsor Star muratcankoylan / Agent-Skills-for-Context-Engineering A comprehensive collection of Agent Skills for contex"
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "65,269",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "ruvnet/ruflo",
+        "link": "https://github.com/ruvnet/ruflo",
+        "score": "15,969",
+        "desc": "Star ruvnet / ruflo 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "summary": "Star ruvnet / ruflo 🌊 The leading agent orchestration platform for Claude."
+      },
+      {
+        "title": "datawhalechina/hello-agents",
+        "link": "https://github.com/datawhalechina/hello-agents",
+        "score": "23,372",
+        "desc": "Star datawhalechina / hello-agents 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+        "summary": "Star datawhalechina / hello-agents 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+      },
+      {
+        "title": "abhigyanpatwari/GitNexus",
+        "link": "https://github.com/abhigyanpatwari/GitNexus",
+        "score": "6,453",
+        "desc": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "summary": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+      },
+      {
+        "title": "moeru-ai/airi",
+        "link": "https://github.com/moeru-ai/airi",
+        "score": "18,709",
+        "desc": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "summary": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t"
+      },
+      {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/anthropics/claude-code",
+        "score": "71,438",
+        "desc": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "summary": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codeba"
+      },
+      {
+        "title": "ruvnet/ruvector",
+        "link": "https://github.com/ruvnet/ruvector",
+        "score": "2,014",
+        "desc": "Star ruvnet / ruvector RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.",
+        "summary": "Star ruvnet / ruvector RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Databa"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Solace",
+        "link": "https://www.producthunt.com/products/solace-8",
+        "desc": "<p> Your Mac's appearance, in tune with the world around you. </p> <p> <a href=\"https://www.producthunt.com/products/solace-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084293?app_id=339\">Link</a> </p>",
+        "summary": "Your Mac's appearance, in tune with the world around you."
+      },
+      {
+        "title": "Producer AI by Google Labs",
+        "link": "https://www.producthunt.com/products/google",
+        "desc": "<p> Turn ideas into tracks with your AI co-producer </p> <p> <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085003?app_id=339\">Link</a> </p>",
+        "summary": "Turn ideas into tracks with your AI co-producer "
+      },
+      {
+        "title": "Study OS",
+        "link": "https://www.producthunt.com/products/study-os",
+        "desc": "<p> A minimalist focus timer with tasks, notes & study music </p> <p> <a href=\"https://www.producthunt.com/products/study-os?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085463?app_id=339\">Link</a> </p>",
+        "summary": "A minimalist focus timer with tasks, notes & study music "
+      },
+      {
+        "title": "The Claw News",
+        "link": "https://www.producthunt.com/products/the-claw-news",
+        "desc": "<p> OpenClaw agents publishing daily news </p> <p> <a href=\"https://www.producthunt.com/products/the-claw-news?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086816?app_id=339\">Link</a> </p>",
+        "summary": "OpenClaw agents publishing daily news "
+      },
+      {
+        "title": "Claude in Excel",
+        "link": "https://www.producthunt.com/products/claude",
+        "desc": "<p> Chat with your spreadsheet. Fix, build, test scenarios. </p> <p> <a href=\"https://www.producthunt.com/products/claude?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084301?app_id=339\">Link</a> </p>",
+        "summary": "Chat with your spreadsheet."
+      },
+      {
+        "title": "PromptURLs",
+        "link": "https://www.producthunt.com/products/prompturls",
+        "desc": "<p> Turn any prompt into a shareable URL for ChatGPT, Claude </p> <p> <a href=\"https://www.producthunt.com/products/prompturls?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087312?app_id=339\">Link</a> </p>",
+        "summary": "Turn any prompt into a shareable URL for ChatGPT, Claude "
+      },
+      {
+        "title": "Pixel",
+        "link": "https://www.producthunt.com/products/pixel-10",
+        "desc": "<p> Scale performance ads without juggling 7 ad platforms </p> <p> <a href=\"https://www.producthunt.com/products/pixel-10?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082403?app_id=339\">Link</a> </p>",
+        "summary": "Scale performance ads without juggling 7 ad platforms "
+      },
+      {
+        "title": "SellShots",
+        "link": "https://www.producthunt.com/products/sellshots-2",
+        "desc": "<p> High-converting AI product photos in seconds </p> <p> <a href=\"https://www.producthunt.com/products/sellshots-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087194?app_id=339\">Link</a> </p>",
+        "summary": "High-converting AI product photos in seconds "
+      },
+      {
+        "title": "theORQL",
+        "link": "https://www.producthunt.com/products/stop-coding-blind-ai-that-sees-the-ui",
+        "desc": "<p> Cursor for frontend. Build and debug in Chrome and VS Code. </p> <p> <a href=\"https://www.producthunt.com/products/stop-coding-blind-ai-that-sees-the-ui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085684?app_id=339\">Link</a> </p>",
+        "summary": "Cursor for frontend."
+      },
+      {
+        "title": "Google AI Edge Gallery",
+        "link": "https://www.producthunt.com/products/google",
+        "desc": "<p> Bring on-device function calling to iPhone </p> <p> <a href=\"https://www.producthunt.com/products/google?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086990?app_id=339\">Link</a> </p>",
+        "summary": "Bring on-device function calling to iPhone "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
