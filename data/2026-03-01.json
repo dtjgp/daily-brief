@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-01",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Microgpt",
+        "link": "http://karpathy.github.io/2026/02/12/microgpt/",
+        "score": 677,
+        "desc": "",
+        "summary": "这条主要讨论「Microgpt」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Switch to Claude Without Starting Over",
+        "link": "https://claude.com/import-memory",
+        "score": 28,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "We do not think Anthropic should be designated as a supply chain risk",
+        "link": "https://twitter.com/OpenAI/status/2027846016423321831",
+        "score": 500,
+        "desc": "",
+        "summary": "这条主要讨论「We do not think Anthropic sh…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "10-202: Introduction to Modern AI (CMU)",
+        "link": "https://modernaicourse.org",
+        "score": 12,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "The Windows 95 user interface: A case study in usability engineering (1996)",
+        "link": "https://dl.acm.org/doi/fullHtml/10.1145/238386.238611",
+        "score": 248,
+        "desc": "",
+        "summary": "这条主要讨论「The Windows 95 user interfac…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "The happiest I've ever been",
+        "link": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+        "score": 461,
+        "desc": "",
+        "summary": "这条主要讨论「The happiest I've ever been」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Obsidian Sync now has a headless client",
+        "link": "https://help.obsidian.md/sync/headless",
+        "score": 466,
+        "desc": "",
+        "summary": "这条主要讨论「Obsidian Sync now has a head…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Sub-second volumetric 3D printing by synthesis of holographic light fields",
+        "link": "https://www.nature.com/articles/s41586-026-10114-5",
+        "score": 53,
+        "desc": "",
+        "summary": "这条主要讨论「Sub-second volumetric 3D pri…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "H-Bomb: A Frank Lloyd Wright Typographic Mystery",
+        "link": "https://www.inconspicuous.info/p/h-bomb-a-frank-lloyd-wright-typographic",
+        "score": 75,
+        "desc": "",
+        "summary": "这条主要讨论「H-Bomb: A Frank Lloyd Wright…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Block the “Upgrade to Tahoe” Alerts",
+        "link": "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/",
+        "score": 211,
+        "desc": "",
+        "summary": "这条主要讨论「Block the “Upgrade to Tahoe”…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "ruvnet/wifi-densepose",
+        "link": "https://github.com/ruvnet/wifi-densepose",
+        "score": "13,816",
+        "desc": "Star ruvnet / wifi-densepose WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "summary": "Star ruvnet / wifi-densepose WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sig"
+      },
+      {
+        "title": "moeru-ai/airi",
+        "link": "https://github.com/moeru-ai/airi",
+        "score": "19,563",
+        "desc": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "summary": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t"
+      },
+      {
+        "title": "anthropics/claude-code",
+        "link": "https://github.com/anthropics/claude-code",
+        "score": "72,025",
+        "desc": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+        "summary": "Star anthropics / claude-code Claude Code is an agentic coding tool that lives in your terminal, understands your codeba"
+      },
+      {
+        "title": "tukaani-project/xz",
+        "link": "https://github.com/tukaani-project/xz",
+        "score": "1,255",
+        "desc": "Star tukaani-project / xz XZ Utils",
+        "summary": "Star tukaani-project / xz XZ Utils"
+      },
+      {
+        "title": "Shubhamsaboo/awesome-llm-apps",
+        "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "score": "98,376",
+        "desc": "Star Shubhamsaboo / awesome-llm-apps Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "summary": "Star Shubhamsaboo / awesome-llm-apps Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemi"
+      },
+      {
+        "title": "ruvnet/ruflo",
+        "link": "https://github.com/ruvnet/ruflo",
+        "score": "16,780",
+        "desc": "Star ruvnet / ruflo 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "summary": "Star ruvnet / ruflo 🌊 The leading agent orchestration platform for Claude."
+      },
+      {
+        "title": "bytedance/deer-flow",
+        "link": "https://github.com/bytedance/deer-flow",
+        "score": "22,724",
+        "desc": "Star bytedance / deer-flow An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+        "summary": "Star bytedance / deer-flow An open-source SuperAgent harness that researches, codes, and creates."
+      },
+      {
+        "title": "Wei-Shaw/claude-relay-service",
+        "link": "https://github.com/Wei-Shaw/claude-relay-service",
+        "score": "8,725",
+        "desc": "Star Wei-Shaw / claude-relay-service CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+        "summary": "Star Wei-Shaw / claude-relay-service CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生"
+      },
+      {
+        "title": "NousResearch/hermes-agent",
+        "link": "https://github.com/NousResearch/hermes-agent",
+        "score": "1,211",
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "superset-sh/superset",
+        "link": "https://github.com/superset-sh/superset",
+        "score": "2,559",
+        "desc": "Star superset-sh / superset IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+        "summary": "Star superset-sh / superset IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Hearica",
+        "link": "https://www.producthunt.com/products/hearica",
+        "desc": "<p> Turn all computer audio into captions for the deaf </p> <p> <a href=\"https://www.producthunt.com/products/hearica?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087430?app_id=339\">Link</a> </p>",
+        "summary": "Turn all computer audio into captions for the deaf "
+      },
+      {
+        "title": "Epismo Skills",
+        "link": "https://www.producthunt.com/products/epismo",
+        "desc": "<p> Everything your agent needs to run reliably </p> <p> <a href=\"https://www.producthunt.com/products/epismo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084134?app_id=339\">Link</a> </p>",
+        "summary": "Everything your agent needs to run reliably "
+      },
+      {
+        "title": "BU",
+        "link": "https://www.producthunt.com/products/browser-use",
+        "desc": "<p> Openclaw in the cloud </p> <p> <a href=\"https://www.producthunt.com/products/browser-use?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087770?app_id=339\">Link</a> </p>",
+        "summary": "Openclaw in the cloud "
+      },
+      {
+        "title": "Simplora 2.0",
+        "link": "https://www.producthunt.com/products/simplora",
+        "desc": "<p> The agentic meeting stack with free prep, notes, and chat </p> <p> <a href=\"https://www.producthunt.com/products/simplora?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081807?app_id=339\">Link</a> </p>",
+        "summary": "The agentic meeting stack with free prep, notes, and chat "
+      },
+      {
+        "title": "Claude Import Memory",
+        "link": "https://www.producthunt.com/products/claude-in-powerpoint",
+        "desc": "<p> Switch from ChatGPT to Claude with import memory feature </p> <p> <a href=\"https://www.producthunt.com/products/claude-in-powerpoint?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087761?app_id=339\">Link</a> </p>",
+        "summary": "Switch from ChatGPT to Claude with import memory feature "
+      },
+      {
+        "title": "Voicr",
+        "link": "https://www.producthunt.com/products/voicr",
+        "desc": "<p> Your voice in, polished text out — in seconds </p> <p> <a href=\"https://www.producthunt.com/products/voicr?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086384?app_id=339\">Link</a> </p>",
+        "summary": "Your voice in, polished text out — in seconds "
+      },
+      {
+        "title": "Notra",
+        "link": "https://www.producthunt.com/products/notra-3",
+        "desc": "<p> Turn your daily work into publish-ready content </p> <p> <a href=\"https://www.producthunt.com/products/notra-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082349?app_id=339\">Link</a> </p>",
+        "summary": "Turn your daily work into publish-ready content "
+      },
+      {
+        "title": "OpenAI WebSocket Mode for Responses API",
+        "link": "https://www.producthunt.com/products/openai-websocket-mode-for-responses-api",
+        "desc": "<p> Persistent AI agents. Up to 40% faster. </p> <p> <a href=\"https://www.producthunt.com/products/openai-websocket-mode-for-responses-api?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085025?app_id=339\">Link</a> </p>",
+        "summary": "Persistent AI agents."
+      },
+      {
+        "title": "OpenFang",
+        "link": "https://www.producthunt.com/products/openfang",
+        "desc": "<p> Open-Source Agent Operating System </p> <p> <a href=\"https://www.producthunt.com/products/openfang?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087719?app_id=339\">Link</a> </p>",
+        "summary": "Open-Source Agent Operating System "
+      },
+      {
+        "title": "Octrafic",
+        "link": "https://www.producthunt.com/products/octrafic",
+        "desc": "<p> Test your APIs in plain English, straight from the terminal </p> <p> <a href=\"https://www.producthunt.com/products/octrafic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081706?app_id=339\">Link</a> </p>",
+        "summary": "Test your APIs in plain English, straight from the terminal "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
