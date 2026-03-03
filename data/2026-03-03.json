@@ -1,0 +1,256 @@
+{
+  "date": "2026-03-03",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Meta’s AI smart glasses and data privacy concerns",
+        "link": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+        "score": 1010,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "British Columbia is permanently adopting daylight time",
+        "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+        "score": 765,
+        "desc": "",
+        "summary": "这条主要讨论「British Columbia is permanen…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+        "link": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+        "score": 236,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Daily Driving GrapheneOS",
+        "link": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+        "score": 84,
+        "desc": "",
+        "summary": "这条主要讨论「Daily Driving GrapheneOS」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Simple screw counter",
+        "link": "https://mitxela.com/projects/screwcounter",
+        "score": 110,
+        "desc": "",
+        "summary": "这条主要讨论「Simple screw counter」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "I built a pint-sized Macintosh",
+        "link": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
+        "score": 19,
+        "desc": "",
+        "summary": "这条主要讨论「I built a pint-sized Macinto…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Arm's Cortex X925: Reaching Desktop Performance",
+        "link": "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop",
+        "score": 9,
+        "desc": "",
+        "summary": "核心在性能优化，建议关注速度、成本与精度三者平衡。"
+      },
+      {
+        "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+        "link": "https://www.ntik.me/posts/voice-agent",
+        "score": 371,
+        "desc": "I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no precomputed responses.What moved the needle:Voice is a turn-taking problem, not a transcription problem. VAD alone fails; you need semantic end-of-turn detection.The system reduces to one loop: speaking vs listening. The two transitions - cancel instantly on barge-in, respond instantly on end-of-turn - define the experience.STT → LLM → TTS must stream. Sequential pipelines are dead on arrival for natural conversation.TTFT dominates everything. In voice, the first token is the critical path. Groq’s ~80ms TTFT was the single biggest win.Geography matters more than prompts. Colocate everything or you lose before you start.GitHub Repo: https:&#x2F;&#x2F;github.com&#x2F;NickTikhonov&#x2F;shuoFollow whatever I next tinker with: https:&#x2F;&#x2F;x.com&#x2F;nick_tikhonov",
+        "summary": "I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable)."
+      },
+      {
+        "title": "DOS Memory Management",
+        "link": "https://www.os2museum.com/wp/dos-memory-management/",
+        "score": 36,
+        "desc": "",
+        "summary": "这条主要讨论「DOS Memory Management」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Buckle Up for Bumpier Skies",
+        "link": "https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies",
+        "score": 23,
+        "desc": "",
+        "summary": "这条主要讨论「Buckle Up for Bumpier Skies」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "ruvnet/RuView",
+        "link": "https://github.com/ruvnet/RuView",
+        "score": "23,570",
+        "desc": "Star ruvnet / RuView π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "summary": "Star ruvnet / RuView π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital s"
+      },
+      {
+        "title": "moeru-ai/airi",
+        "link": "https://github.com/moeru-ai/airi",
+        "score": "21,738",
+        "desc": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "summary": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t"
+      },
+      {
+        "title": "anthropics/prompt-eng-interactive-tutorial",
+        "link": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+        "score": "31,873",
+        "desc": "Star anthropics / prompt-eng-interactive-tutorial Anthropic's Interactive Prompt Engineering Tutorial",
+        "summary": "Star anthropics / prompt-eng-interactive-tutorial Anthropic's Interactive Prompt Engineering Tutorial"
+      },
+      {
+        "title": "ruvnet/ruflo",
+        "link": "https://github.com/ruvnet/ruflo",
+        "score": "18,311",
+        "desc": "Star ruvnet / ruflo 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+        "summary": "Star ruvnet / ruflo 🌊 The leading agent orchestration platform for Claude."
+      },
+      {
+        "title": "alibaba/OpenSandbox",
+        "link": "https://github.com/alibaba/OpenSandbox",
+        "score": "4,767",
+        "desc": "Star alibaba / OpenSandbox OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+        "summary": "Star alibaba / OpenSandbox OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-languag"
+      },
+      {
+        "title": "microsoft/markitdown",
+        "link": "https://github.com/microsoft/markitdown",
+        "score": "89,835",
+        "desc": "Star microsoft / markitdown Python tool for converting files and office documents to Markdown.",
+        "summary": "Star microsoft / markitdown Python tool for converting files and office documents to Markdown."
+      },
+      {
+        "title": "K-Dense-AI/claude-scientific-skills",
+        "link": "https://github.com/K-Dense-AI/claude-scientific-skills",
+        "score": "11,375",
+        "desc": "Star K-Dense-AI / claude-scientific-skills A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+        "summary": "Star K-Dense-AI / claude-scientific-skills A set of ready to use Agent Skills for research, science, engineering, analys"
+      },
+      {
+        "title": "superset-sh/superset",
+        "link": "https://github.com/superset-sh/superset",
+        "score": "3,727",
+        "desc": "Star superset-sh / superset IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+        "summary": "Star superset-sh / superset IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc."
+      },
+      {
+        "title": "servo/servo",
+        "link": "https://github.com/servo/servo",
+        "score": "35,824",
+        "desc": "Sponsor Star servo / servo Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
+        "summary": "Sponsor Star servo / servo Servo aims to empower developers with a lightweight, high-performance alternative for embeddi"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Alexandria",
+        "link": "https://www.producthunt.com/products/alexandria-3",
+        "desc": "<p> Bring your knowledge and docs to life </p> <p> <a href=\"https://www.producthunt.com/products/alexandria-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088865?app_id=339\">Link</a> </p>",
+        "summary": "Bring your knowledge and docs to life "
+      },
+      {
+        "title": "DialogLab",
+        "link": "https://www.producthunt.com/products/dialoglab",
+        "desc": "<p> Authoring, simulating, testing human-AI group conversations </p> <p> <a href=\"https://www.producthunt.com/products/dialoglab?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082651?app_id=339\">Link</a> </p>",
+        "summary": "Authoring, simulating, testing human-AI group conversations "
+      },
+      {
+        "title": "Better Clipboard",
+        "link": "https://www.producthunt.com/products/better-clipboard",
+        "desc": "<p> Smarter copy-paste for macOS. New version! </p> <p> <a href=\"https://www.producthunt.com/products/better-clipboard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088764?app_id=339\">Link</a> </p>",
+        "summary": "Smarter copy-paste for macOS."
+      },
+      {
+        "title": "Deep Personality",
+        "link": "https://www.producthunt.com/products/deep-personality",
+        "desc": "<p> Science-backed personality insights for you and your partner </p> <p> <a href=\"https://www.producthunt.com/products/deep-personality?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088779?app_id=339\">Link</a> </p>",
+        "summary": "Science-backed personality insights for you and your partner "
+      },
+      {
+        "title": "Skyvern MCP & Skills",
+        "link": "https://www.producthunt.com/products/skyvern",
+        "desc": "<p> Let Claude code and Open Claw automate the web </p> <p> <a href=\"https://www.producthunt.com/products/skyvern?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087308?app_id=339\">Link</a> </p>",
+        "summary": "Let Claude code and Open Claw automate the web "
+      },
+      {
+        "title": "MonoDesk",
+        "link": "https://www.producthunt.com/products/monodesk-workspace-for-creative-pros",
+        "desc": "<p> For designers, web/video creators who'd rather be creating </p> <p> <a href=\"https://www.producthunt.com/products/monodesk-workspace-for-creative-pros?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088753?app_id=339\">Link</a> </p>",
+        "summary": "For designers, web/video creators who'd rather be creating "
+      },
+      {
+        "title": "Secret Sauce 3D",
+        "link": "https://www.producthunt.com/products/secret-sauce-3d",
+        "desc": "<p> AI tool suite for professional 3D artists </p> <p> <a href=\"https://www.producthunt.com/products/secret-sauce-3d?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087230?app_id=339\">Link</a> </p>",
+        "summary": "AI tool suite for professional 3D artists "
+      },
+      {
+        "title": "Upsolve AI for CSVs",
+        "link": "https://www.producthunt.com/products/upsolve-ai",
+        "desc": "<p> Turn your CSVs into share-worthy dashboards </p> <p> <a href=\"https://www.producthunt.com/products/upsolve-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086986?app_id=339\">Link</a> </p>",
+        "summary": "Turn your CSVs into share-worthy dashboards "
+      },
+      {
+        "title": "GHOSTYPE",
+        "link": "https://www.producthunt.com/products/ghostype-2",
+        "desc": "<p> The AI voice interface that learns your style. </p> <p> <a href=\"https://www.producthunt.com/products/ghostype-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078245?app_id=339\">Link</a> </p>",
+        "summary": "The AI voice interface that learns your style."
+      },
+      {
+        "title": "Qwen3.5 Small",
+        "link": "https://www.producthunt.com/products/qwen3",
+        "desc": "<p> 0.8B-9B native multimodal w/ more intelligence, less compute </p> <p> <a href=\"https://www.producthunt.com/products/qwen3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088853?app_id=339\">Link</a> </p>",
+        "summary": "0.8B-9B native multimodal w/ more intelligence, less compute "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
