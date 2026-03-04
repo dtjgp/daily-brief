@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-04",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+        "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
+        "score": 539,
+        "desc": "",
+        "summary": "这条主要讨论「Motorola GrapheneOS devices …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "RFC 9849. TLS Encrypted Client Hello",
+        "link": "https://www.rfc-editor.org/rfc/rfc9849.html",
+        "score": 24,
+        "desc": "",
+        "summary": "这条主要讨论「RFC 9849. TLS Encrypted Clie…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Better JIT for Postgres",
+        "link": "https://github.com/vladich/pg_jitter",
+        "score": 32,
+        "desc": "",
+        "summary": "这条主要讨论「Better JIT for Postgres」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Agentic Engineering Patterns",
+        "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+        "score": 80,
+        "desc": "",
+        "summary": "这条主要讨论「Agentic Engineering Patterns」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+        "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o",
+        "score": 194,
+        "desc": "",
+        "summary": "这条主要讨论「TikTok will not introduce en…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "A CPU that runs entirely on GPU",
+        "link": "https://github.com/robertcprice/nCPU",
+        "score": 61,
+        "desc": "",
+        "summary": "这条主要讨论「A CPU that runs entirely on …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "MacBook Pro with M5 Pro and M5 Max",
+        "link": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+        "score": 768,
+        "desc": "",
+        "summary": "这条主要讨论「MacBook Pro with M5 Pro and …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Graphics Programming Resources",
+        "link": "https://develop--gpvm-website.netlify.app/resources/",
+        "score": 77,
+        "desc": "",
+        "summary": "这条主要讨论「Graphics Programming Resourc…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Weave – A language aware merge algorithm based on entities",
+        "link": "https://github.com/Ataraxy-Labs/weave",
+        "score": 111,
+        "desc": "",
+        "summary": "这条主要讨论「Weave – A language aware mer…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "On the Design of Programming Languages (1974) [pdf]",
+        "link": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF",
+        "score": 28,
+        "desc": "",
+        "summary": "这条主要讨论「On the Design of Programming…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "msitarzewski/agency-agents",
+        "link": "https://github.com/msitarzewski/agency-agents",
+        "score": "4,223",
+        "desc": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "summary": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips** - From frontend wizards to Reddit co"
+      },
+      {
+        "title": "ruvnet/RuView",
+        "link": "https://github.com/ruvnet/RuView",
+        "score": "26,121",
+        "desc": "Star ruvnet / RuView π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+        "summary": "Star ruvnet / RuView π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital s"
+      },
+      {
+        "title": "K-Dense-AI/claude-scientific-skills",
+        "link": "https://github.com/K-Dense-AI/claude-scientific-skills",
+        "score": "12,293",
+        "desc": "Star K-Dense-AI / claude-scientific-skills A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+        "summary": "Star K-Dense-AI / claude-scientific-skills A set of ready to use Agent Skills for research, science, engineering, analys"
+      },
+      {
+        "title": "moeru-ai/airi",
+        "link": "https://github.com/moeru-ai/airi",
+        "score": "22,651",
+        "desc": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "summary": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t"
+      },
+      {
+        "title": "CodebuffAI/codebuff",
+        "link": "https://github.com/CodebuffAI/codebuff",
+        "score": "3,395",
+        "desc": "Star CodebuffAI / codebuff Generate code from the terminal!",
+        "summary": "Star CodebuffAI / codebuff Generate code from the terminal!"
+      },
+      {
+        "title": "agentscope-ai/agentscope",
+        "link": "https://github.com/agentscope-ai/agentscope",
+        "score": "17,195",
+        "desc": "Star agentscope-ai / agentscope Build and run agents you can see, understand and trust.",
+        "summary": "Star agentscope-ai / agentscope Build and run agents you can see, understand and trust."
+      },
+      {
+        "title": "agentscope-ai/ReMe",
+        "link": "https://github.com/agentscope-ai/ReMe",
+        "score": "1,432",
+        "desc": "Star agentscope-ai / ReMe ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+        "summary": "Star agentscope-ai / ReMe ReMe: Memory Management Kit for Agents - Remember Me, Refine Me."
+      },
+      {
+        "title": "LMCache/LMCache",
+        "link": "https://github.com/LMCache/LMCache",
+        "score": "7,481",
+        "desc": "Star LMCache / LMCache Supercharge Your LLM with the Fastest KV Cache Layer",
+        "summary": "Star LMCache / LMCache Supercharge Your LLM with the Fastest KV Cache Layer"
+      },
+      {
+        "title": "superset-sh/superset",
+        "link": "https://github.com/superset-sh/superset",
+        "score": "4,488",
+        "desc": "Star superset-sh / superset IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+        "summary": "Star superset-sh / superset IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc."
+      },
+      {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/aquasecurity/trivy",
+        "score": "659",
+        "desc": "Star aquasecurity / trivy Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "summary": "Star aquasecurity / trivy Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code reposit"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Gemini Code Harvester",
+        "link": "https://www.producthunt.com/products/gemini-code-harvester",
+        "desc": "<p> Extract & download all Gemini AI code blocks in one click </p> <p> <a href=\"https://www.producthunt.com/products/gemini-code-harvester?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089406?app_id=339\">Link</a> </p>",
+        "summary": "Extract & download all Gemini AI code blocks in one click "
+      },
+      {
+        "title": "ClawPane",
+        "link": "https://www.producthunt.com/products/clawpane",
+        "desc": "<p> One API. LLM routing for cost, task-fit, latency per request </p> <p> <a href=\"https://www.producthunt.com/products/clawpane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084595?app_id=339\">Link</a> </p>",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Gemini 3.1 Flash-Lite",
+        "link": "https://www.producthunt.com/products/gemini-6",
+        "desc": "<p> Best-in-class intelligence for your high-volume workloads </p> <p> <a href=\"https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089519?app_id=339\">Link</a> </p>",
+        "summary": "Best-in-class intelligence for your high-volume workloads "
+      },
+      {
+        "title": "Fix in Cursor",
+        "link": "https://www.producthunt.com/products/fix-in-cursor",
+        "desc": "<p> GitHub PR comment to Cursor prompt in one click </p> <p> <a href=\"https://www.producthunt.com/products/fix-in-cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089583?app_id=339\">Link</a> </p>",
+        "summary": "GitHub PR comment to Cursor prompt in one click "
+      },
+      {
+        "title": "Projekt",
+        "link": "https://www.producthunt.com/products/projekt-design-engineered",
+        "desc": "<p> All-in-one workspace for building with AI coding agents </p> <p> <a href=\"https://www.producthunt.com/products/projekt-design-engineered?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084428?app_id=339\">Link</a> </p>",
+        "summary": "All-in-one workspace for building with AI coding agents "
+      },
+      {
+        "title": "moltdj",
+        "link": "https://www.producthunt.com/products/moltdj",
+        "desc": "<p> SoundCloud for OpenClaw agents to create, stream, earn </p> <p> <a href=\"https://www.producthunt.com/products/moltdj?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089485?app_id=339\">Link</a> </p>",
+        "summary": "SoundCloud for OpenClaw agents to create, stream, earn "
+      },
+      {
+        "title": "Maxclaw on Mobile",
+        "link": "https://www.producthunt.com/products/maxclaw-on-mobile",
+        "desc": "<p> Build apps, research deeply and automate multi-step tasks </p> <p> <a href=\"https://www.producthunt.com/products/maxclaw-on-mobile?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088461?app_id=339\">Link</a> </p>",
+        "summary": "Build apps, research deeply and automate multi-step tasks "
+      },
+      {
+        "title": "day1tabs",
+        "link": "https://www.producthunt.com/products/day1tabs",
+        "desc": "<p> Your tabs close at midnight.See which ones you actually used </p> <p> <a href=\"https://www.producthunt.com/products/day1tabs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089040?app_id=339\">Link</a> </p>",
+        "summary": "Your tabs close at midnight.See which ones you actually used "
+      },
+      {
+        "title": "Picsart Persona & Storyline",
+        "link": "https://www.producthunt.com/products/picsart",
+        "desc": "<p> Design your AI influencer and create any story with it. </p> <p> <a href=\"https://www.producthunt.com/products/picsart?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089386?app_id=339\">Link</a> </p>",
+        "summary": "Design your AI influencer and create any story with it."
+      },
+      {
+        "title": "ScreenTranslate",
+        "link": "https://www.producthunt.com/products/screentranslate",
+        "desc": "<p> Translate any on-screen text with a simple drag </p> <p> <a href=\"https://www.producthunt.com/products/screentranslate?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089066?app_id=339\">Link</a> </p>",
+        "summary": "Translate any on-screen text with a simple drag "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
