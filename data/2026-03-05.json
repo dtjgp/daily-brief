@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-05",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift",
+        "link": "https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23",
+        "score": 22,
+        "desc": "",
+        "summary": "偏多模态与内容生成方向，适合关注生产效率与质量提升。"
+      },
+      {
+        "title": "Google Workspace CLI",
+        "link": "https://github.com/googleworkspace/cli",
+        "score": 524,
+        "desc": "",
+        "summary": "偏开源工具链更新，适合评估是否纳入你的日常工作流。"
+      },
+      {
+        "title": "You Just Reveived",
+        "link": "https://dylan.gr/1772520728",
+        "score": 125,
+        "desc": "",
+        "summary": "这条主要讨论「You Just Reveived」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "The Self-Help Trap: What 20 Years of \"Optimizing\" Has Taught Me",
+        "link": "https://tim.blog/2026/03/04/the-self-help-trap/",
+        "score": 28,
+        "desc": "",
+        "summary": "这条主要讨论「The Self-Help Trap: What 20 …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "MacBook Neo",
+        "link": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+        "score": 1758,
+        "desc": "https:&#x2F;&#x2F;www.apple.com&#x2F;macbook-neo&#x2F;",
+        "summary": "https:&#x2F;&#x2F;www.apple.com&#x2F;macbook-neo&#x2F;"
+      },
+      {
+        "title": "Smalltalk's Browser: Unbeatable, yet Not Enough",
+        "link": "https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/",
+        "score": 8,
+        "desc": "",
+        "summary": "这条主要讨论「Smalltalk's Browser: Unbeata…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Building a new Flash",
+        "link": "https://bill.newgrounds.com/news/post/1607118",
+        "score": 519,
+        "desc": "",
+        "summary": "这条主要讨论「Building a new Flash」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Relax NG is a schema language for XML",
+        "link": "https://relaxng.org/",
+        "score": 17,
+        "desc": "",
+        "summary": "这条主要讨论「Relax NG is a schema languag…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Poppy – a simple app to stay intentional with relationships",
+        "link": "https://poppy-connection-keeper.netlify.app/",
+        "score": 76,
+        "desc": "I built Poppy as a side project to help people keep in touch more intentionally. Would love feedback on onboarding, reminders, and overall UX. Happy to answer questions.",
+        "summary": "I built Poppy as a side project to help people keep in touch more intentionally."
+      },
+      {
+        "title": "The L in \"LLM\" Stands for Lying",
+        "link": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+        "score": 77,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "KeygraphHQ/shannon",
+        "link": "https://github.com/KeygraphHQ/shannon",
+        "score": "31,110",
+        "desc": "Star KeygraphHQ / shannon Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+        "summary": "Star KeygraphHQ / shannon Shannon Lite is a fully autonomous AI pentester for web apps and APIs."
+      },
+      {
+        "title": "msitarzewski/agency-agents",
+        "link": "https://github.com/msitarzewski/agency-agents",
+        "score": "5,909",
+        "desc": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "summary": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit comm"
+      },
+      {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/aquasecurity/trivy",
+        "score": "952",
+        "desc": "Star aquasecurity / trivy Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "summary": "Star aquasecurity / trivy Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code reposit"
+      },
+      {
+        "title": "K-Dense-AI/claude-scientific-skills",
+        "link": "https://github.com/K-Dense-AI/claude-scientific-skills",
+        "score": "12,999",
+        "desc": "Star K-Dense-AI / claude-scientific-skills A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+        "summary": "Star K-Dense-AI / claude-scientific-skills A set of ready to use Agent Skills for research, science, engineering, analys"
+      },
+      {
+        "title": "CodebuffAI/codebuff",
+        "link": "https://github.com/CodebuffAI/codebuff",
+        "score": "3,669",
+        "desc": "Star CodebuffAI / codebuff Generate code from the terminal!",
+        "summary": "Star CodebuffAI / codebuff Generate code from the terminal!"
+      },
+      {
+        "title": "alibaba/OpenSandbox",
+        "link": "https://github.com/alibaba/OpenSandbox",
+        "score": "6,211",
+        "desc": "Star alibaba / OpenSandbox OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+        "summary": "Star alibaba / OpenSandbox OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-languag"
+      },
+      {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+        "score": "14,398",
+        "desc": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online.",
+        "summary": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online."
+      },
+      {
+        "title": "ItzCrazyKns/Perplexica",
+        "link": "https://github.com/ItzCrazyKns/Perplexica",
+        "score": "31,067",
+        "desc": "Star ItzCrazyKns / Perplexica Perplexica is an AI-powered answering engine.",
+        "summary": "Star ItzCrazyKns / Perplexica Perplexica is an AI-powered answering engine."
+      },
+      {
+        "title": "agentscope-ai/agentscope",
+        "link": "https://github.com/agentscope-ai/agentscope",
+        "score": "17,517",
+        "desc": "Star agentscope-ai / agentscope Build and run agents you can see, understand and trust.",
+        "summary": "Star agentscope-ai / agentscope Build and run agents you can see, understand and trust."
+      },
+      {
+        "title": "moeru-ai/airi",
+        "link": "https://github.com/moeru-ai/airi",
+        "score": "25,888",
+        "desc": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "summary": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Aident AI Beta 2",
+        "link": "https://www.producthunt.com/products/aident-ai",
+        "desc": "<p> Build workflow automations in plain English </p> <p> <a href=\"https://www.producthunt.com/products/aident-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089542?app_id=339\">Link</a> </p>",
+        "summary": "Build workflow automations in plain English "
+      },
+      {
+        "title": "Willow Voice for Teams",
+        "link": "https://www.producthunt.com/products/willow-voice",
+        "desc": "<p> Kill the keyboard for your team with voice AI </p> <p> <a href=\"https://www.producthunt.com/products/willow-voice?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088815?app_id=339\">Link</a> </p>",
+        "summary": "Kill the keyboard for your team with voice AI "
+      },
+      {
+        "title": "Hermit",
+        "link": "https://www.producthunt.com/products/hermit-2",
+        "desc": "<p> Leave ChatGPT while keeping everything it learned about you </p> <p> <a href=\"https://www.producthunt.com/products/hermit-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090216?app_id=339\">Link</a> </p>",
+        "summary": "Leave ChatGPT while keeping everything it learned about you "
+      },
+      {
+        "title": "Parsewise",
+        "link": "https://www.producthunt.com/products/parsewise",
+        "desc": "<p> Cursor for document work </p> <p> <a href=\"https://www.producthunt.com/products/parsewise?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089886?app_id=339\">Link</a> </p>",
+        "summary": "Cursor for document work "
+      },
+      {
+        "title": "Itchy",
+        "link": "https://www.producthunt.com/products/itchy-2",
+        "desc": "<p> Free macOS notch app with 12+ modules & custom SDK </p> <p> <a href=\"https://www.producthunt.com/products/itchy-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090131?app_id=339\">Link</a> </p>",
+        "summary": "Free macOS notch app with 12+ modules & custom SDK "
+      },
+      {
+        "title": "Step 3.5 Flash",
+        "link": "https://www.producthunt.com/products/step-3-5-flash",
+        "desc": "<p> Frontier open-source MoE model built for OpenClaw agents </p> <p> <a href=\"https://www.producthunt.com/products/step-3-5-flash?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090264?app_id=339\">Link</a> </p>",
+        "summary": "Frontier open-source MoE model built for OpenClaw agents "
+      },
+      {
+        "title": "HookLens",
+        "link": "https://www.producthunt.com/products/hooklens",
+        "desc": "<p> Hook. Body. CTA. Know exactly where your ad fails. </p> <p> <a href=\"https://www.producthunt.com/products/hooklens?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089965?app_id=339\">Link</a> </p>",
+        "summary": "这条主要讨论「HookLens」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Vois",
+        "link": "https://www.producthunt.com/products/vois",
+        "desc": "<p> Studio-quality voice AI that runs locally on your desktop. </p> <p> <a href=\"https://www.producthunt.com/products/vois?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088819?app_id=339\">Link</a> </p>",
+        "summary": "Studio-quality voice AI that runs locally on your desktop."
+      },
+      {
+        "title": "Spoke",
+        "link": "https://www.producthunt.com/products/spoke-hold-speak-done",
+        "desc": "<p> Private voice-to-text for macOS. Hold a key, speak, done. </p> <p> <a href=\"https://www.producthunt.com/products/spoke-hold-speak-done?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089320?app_id=339\">Link</a> </p>",
+        "summary": "Private voice-to-text for macOS."
+      },
+      {
+        "title": "Supa Social",
+        "link": "https://www.producthunt.com/products/supa-social-by-once-ui",
+        "desc": "<p> Self-host your community platform </p> <p> <a href=\"https://www.producthunt.com/products/supa-social-by-once-ui?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089172?app_id=339\">Link</a> </p>",
+        "summary": "Self-host your community platform "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
