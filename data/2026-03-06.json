@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-06",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "System76 on Age Verification Laws",
+        "link": "https://blog.system76.com/post/system76-on-age-verification/",
+        "score": 234,
+        "desc": "",
+        "summary": "这条主要讨论「System76 on Age Verification…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "GPT-5.4",
+        "link": "https://openai.com/index/introducing-gpt-5-4/",
+        "score": 801,
+        "desc": "https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F;https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;status&#x2F;2029620619743219811",
+        "summary": "https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;gpt-5-4-thinking-system-card&#x2F;https:&#x2F;&#x2F;x.com&#x2F;OpenAI&#x2F;"
+      },
+      {
+        "title": "10% of Firefox crashes are caused by bitflips",
+        "link": "https://mas.to/@gabrielesvelto/116171750653898304",
+        "score": 555,
+        "desc": "",
+        "summary": "这条主要讨论「10% of Firefox crashes are c…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
+        "link": "https://dev.moment.com/",
+        "score": 47,
+        "desc": "We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly.You write a program in a custom assembly-like (we call it ant-ssembly) instruction set that controls 200 ants. Each ant can sense nearby cells (food, pheromones, home, other ants) but has no global view. The only coordination mechanism is pheromone trails, which ants can emit and sense them, but that&#x27;s it. Your program runs identically on every ant.The goal is to collect the highest percentage of food across a set of maps. Different map layouts (clustered food, scattered, obstacles) reward very different strategies. The leaderboard is live.Grand prize is a trip to Maui for two paid for by Moment. Challenge closes March 12.Curious what strategies people discover. We&#x27;ve seen some surprisingly clever emergent behavior internally.",
+        "summary": "We built an ant colony simulation as an internal hiring challenge at Moment and decided to open it up publicly.You write"
+      },
+      {
+        "title": "A GitHub Issue Title Compromised 4k Developer Machines",
+        "link": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+        "score": 402,
+        "desc": "Original report: https:&#x2F;&#x2F;adnanthekhan.com&#x2F;posts&#x2F;clinejection&#x2F;",
+        "summary": "Original report: https:&#x2F;&#x2F;adnanthekhan.com&#x2F;posts&#x2F;clinejection&#x2F;"
+      },
+      {
+        "title": "The Brand Age",
+        "link": "https://paulgraham.com/brandage.html",
+        "score": 330,
+        "desc": "",
+        "summary": "这条主要讨论「The Brand Age」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Labor market impacts of AI: A new measure and early evidence",
+        "link": "https://www.anthropic.com/research/labor-market-impacts",
+        "score": 174,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Where things stand with the Department of War",
+        "link": "https://www.anthropic.com/news/where-stand-department-war",
+        "score": 413,
+        "desc": "",
+        "summary": "这条主要讨论「Where things stand with the …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Stardex (YC S21) is hiring customer success engineers",
+        "link": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
+        "score": 1,
+        "desc": "",
+        "summary": "这条主要讨论「Stardex (YC S21) is hiring c…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Good software knows when to stop",
+        "link": "https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop",
+        "score": 411,
+        "desc": "",
+        "summary": "这条主要讨论「Good software knows when to …」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "msitarzewski/agency-agents",
+        "link": "https://github.com/msitarzewski/agency-agents",
+        "score": "8,542",
+        "desc": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "summary": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit comm"
+      },
+      {
+        "title": "TheCraigHewitt/seomachine",
+        "link": "https://github.com/TheCraigHewitt/seomachine",
+        "score": "1,847",
+        "desc": "Star TheCraigHewitt / seomachine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+        "summary": "Star TheCraigHewitt / seomachine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content "
+      },
+      {
+        "title": "KeygraphHQ/shannon",
+        "link": "https://github.com/KeygraphHQ/shannon",
+        "score": "32,040",
+        "desc": "Star KeygraphHQ / shannon Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
+        "summary": "Star KeygraphHQ / shannon Shannon Lite is a fully autonomous AI pentester for web apps and APIs."
+      },
+      {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/aquasecurity/trivy",
+        "score": "32,946",
+        "desc": "Star aquasecurity / trivy Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "summary": "Star aquasecurity / trivy Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code reposit"
+      },
+      {
+        "title": "moeru-ai/airi",
+        "link": "https://github.com/moeru-ai/airi",
+        "score": "28,443",
+        "desc": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "summary": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t"
+      },
+      {
+        "title": "inclusionAI/AReaL",
+        "link": "https://github.com/inclusionAI/AReaL",
+        "score": "4,213",
+        "desc": "Star inclusionAI / AReaL Lightning-Fast RL for LLM Reasoning and Agents. Made Simple &amp; Flexible.",
+        "summary": "Star inclusionAI / AReaL Lightning-Fast RL for LLM Reasoning and Agents."
+      },
+      {
+        "title": "CodebuffAI/codebuff",
+        "link": "https://github.com/CodebuffAI/codebuff",
+        "score": "3,948",
+        "desc": "Star CodebuffAI / codebuff Generate code from the terminal!",
+        "summary": "Star CodebuffAI / codebuff Generate code from the terminal!"
+      },
+      {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+        "score": "14,823",
+        "desc": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online.",
+        "summary": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online."
+      },
+      {
+        "title": "agentscope-ai/ReMe",
+        "link": "https://github.com/agentscope-ai/ReMe",
+        "score": "1,923",
+        "desc": "Star agentscope-ai / ReMe ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+        "summary": "Star agentscope-ai / ReMe ReMe: Memory Management Kit for Agents - Remember Me, Refine Me."
+      },
+      {
+        "title": "microsoft/hve-core",
+        "link": "https://github.com/microsoft/hve-core",
+        "score": "389",
+        "desc": "Star microsoft / hve-core A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+        "summary": "Star microsoft / hve-core A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) t"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Context Gateway",
+        "link": "https://www.producthunt.com/products/context-gateway",
+        "desc": "<p> Make Claude Code faster and cheaper without losing context </p> <p> <a href=\"https://www.producthunt.com/products/context-gateway?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089561?app_id=339\">Link</a> </p>",
+        "summary": "Make Claude Code faster and cheaper without losing context "
+      },
+      {
+        "title": "FocusOne- Distraction Free Phone",
+        "link": "https://www.producthunt.com/products/focusone-distraction-free-phone",
+        "desc": "<p> Focus Like a Monk. Perform Like a Beast </p> <p> <a href=\"https://www.producthunt.com/products/focusone-distraction-free-phone?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090798?app_id=339\">Link</a> </p>",
+        "summary": "Focus Like a Monk."
+      },
+      {
+        "title": "CoChat",
+        "link": "https://www.producthunt.com/products/cochat",
+        "desc": "<p> Openclaw for Teams that is secure, collaborative, autonomous </p> <p> <a href=\"https://www.producthunt.com/products/cochat?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089269?app_id=339\">Link</a> </p>",
+        "summary": "Openclaw for Teams that is secure, collaborative, autonomous "
+      },
+      {
+        "title": "Gemlet",
+        "link": "https://www.producthunt.com/products/gemlet",
+        "desc": "<p> Native, keyboard-first Gemini client for macOS </p> <p> <a href=\"https://www.producthunt.com/products/gemlet?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079070?app_id=339\">Link</a> </p>",
+        "summary": "Native, keyboard-first Gemini client for macOS "
+      },
+      {
+        "title": "Vet",
+        "link": "https://www.producthunt.com/products/imbue-7",
+        "desc": "<p> Keep your coding agents honest </p> <p> <a href=\"https://www.producthunt.com/products/imbue-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090876?app_id=339\">Link</a> </p>",
+        "summary": "Keep your coding agents honest "
+      },
+      {
+        "title": "Pitwall F1",
+        "link": "https://www.producthunt.com/products/pitwall-f1-macos-app",
+        "desc": "<p> Live F1 timing & standings in your Mac menu bar </p> <p> <a href=\"https://www.producthunt.com/products/pitwall-f1-macos-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090432?app_id=339\">Link</a> </p>",
+        "summary": "Live F1 timing & standings in your Mac menu bar "
+      },
+      {
+        "title": "Zesty",
+        "link": "https://www.producthunt.com/products/zesty-local-food-discovery-2",
+        "desc": "<p> Your personal restaurant concierge </p> <p> <a href=\"https://www.producthunt.com/products/zesty-local-food-discovery-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089324?app_id=339\">Link</a> </p>",
+        "summary": "Your personal restaurant concierge "
+      },
+      {
+        "title": "ChatGPT for Excel",
+        "link": "https://www.producthunt.com/products/chatgpt-for-excel-3",
+        "desc": "<p> Build and update spreadsheets with ChatGPT in real time </p> <p> <a href=\"https://www.producthunt.com/products/chatgpt-for-excel-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090989?app_id=339\">Link</a> </p>",
+        "summary": "Build and update spreadsheets with ChatGPT in real time "
+      },
+      {
+        "title": "Woz",
+        "link": "https://www.producthunt.com/products/woz",
+        "desc": "<p> Build App That Earn </p> <p> <a href=\"https://www.producthunt.com/products/woz?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091142?app_id=339\">Link</a> </p>",
+        "summary": "Build App That Earn "
+      },
+      {
+        "title": "GPT‑5.4",
+        "link": "https://www.producthunt.com/products/openai",
+        "desc": "<p> OpenAI's most efficient model: less tokens, more clarity </p> <p> <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090795?app_id=339\">Link</a> </p>",
+        "summary": "OpenAI's most efficient model: less tokens, more clarity "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
