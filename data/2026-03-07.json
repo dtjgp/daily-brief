@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-07",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Plasma Bigscreen – 10-foot interface for KDE plasma",
+        "link": "https://plasma-bigscreen.org",
+        "score": 364,
+        "desc": "",
+        "summary": "这条主要讨论「Plasma Bigscreen – 10-foot i…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "UUID package coming to Go standard library",
+        "link": "https://github.com/golang/go/issues/62026",
+        "score": 148,
+        "desc": "",
+        "summary": "偏开源工具链更新，适合评估是否纳入你的日常工作流。"
+      },
+      {
+        "title": "this css proves me human",
+        "link": "https://will-keleher.com/posts/this-css-makes-me-human/",
+        "score": 241,
+        "desc": "",
+        "summary": "这条主要讨论「this css proves me human」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "LLMs work best when the user defines their acceptance criteria first",
+        "link": "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code",
+        "score": 181,
+        "desc": "",
+        "summary": "这条主要讨论「LLMs work best when the user…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Galileo's handwritten notes found in ancient astronomy text",
+        "link": "https://www.science.org/content/article/galileo-s-handwritten-notes-found-ancient-astronomy-text",
+        "score": 104,
+        "desc": "",
+        "summary": "这条主要讨论「Galileo's handwritten notes …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Helix: A post-modern text editor",
+        "link": "https://helix-editor.com/",
+        "score": 96,
+        "desc": "",
+        "summary": "这条主要讨论「Helix: A post-modern text ed…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "The Longing (1999)",
+        "link": "https://www.cluetrain.com/book/longing.html",
+        "score": 12,
+        "desc": "",
+        "summary": "这条主要讨论「The Longing (1999)」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+        "link": "https://github.com/moongate-community/moongatev2",
+        "score": 247,
+        "desc": "I&#x27;ve been building a modern Ultima Online server emulator from scratch. It&#x27;s not feature-complete (no combat, no skills yet), but the foundation is solid and I wanted to share it early.What it does today: - Full packet layer for the classic UO client (login, movement, items, mobiles) - Lua scripting for item behaviors (double-click a potion, open a door — all defined in Lua, no C# recompile) - Spatial world partitioned into sectors with delta sync (only sends packets for new sectors when crossing boundaries) - Snapshot-based persistence with MessagePack - Source generators for automatic DI wiring, packet handler registration, and Lua module exposure - NativeAOT support — the server compiles to a single native binary - Embedded HTTP admin API + React management UI - Auto-generated doors from map statics (same algorithm as ModernUO&#x2F;RunUO)Tech stack: .NET 10, NativeAOT, NLua, MessagePack, DryIoc, KestrelWhat&#x27;s missing: Combat, skills, weather integration, NPC AI. This is still early — the focus so far has been on getting the architecture right so adding those systems doesn&#x27;t require rewiring everything.Why not just use ModernUO&#x2F;RunUO? Those are mature and battle-tested. I started this because I wanted to rethink the architecture from scratch: strict network&#x2F;domain separation, event-driven game loop, no inheritance-heavy item hierarchies, and Lua for rapid iteration on game logic without recompiling.GitHub: https:&#x2F;&#x2F;github.com&#x2F;moongate-community&#x2F;moongatev2",
+        "summary": "I&#x27;ve been building a modern Ultima Online server emulator from scratch."
+      },
+      {
+        "title": "Maybe there's a pattern here?",
+        "link": "https://dynomight.net/pattern/",
+        "score": 96,
+        "desc": "",
+        "summary": "这条主要讨论「Maybe there's a pattern here…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Querying 3B Vectors",
+        "link": "https://vickiboykis.com/2026/02/21/querying-3-billion-vectors/",
+        "score": 32,
+        "desc": "",
+        "summary": "这条主要讨论「Querying 3B Vectors」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "moeru-ai/airi",
+        "link": "https://github.com/moeru-ai/airi",
+        "score": "29,928",
+        "desc": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+        "summary": "Star moeru-ai / airi 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring t"
+      },
+      {
+        "title": "QwenLM/Qwen-Agent",
+        "link": "https://github.com/QwenLM/Qwen-Agent",
+        "score": "14,783",
+        "desc": "Star QwenLM / Qwen-Agent Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+        "summary": "Star QwenLM / Qwen-Agent Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code"
+      },
+      {
+        "title": "microsoft/hve-core",
+        "link": "https://github.com/microsoft/hve-core",
+        "score": "609",
+        "desc": "Star microsoft / hve-core A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+        "summary": "Star microsoft / hve-core A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, a"
+      },
+      {
+        "title": "Ed1s0nZ/CyberStrikeAI",
+        "link": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+        "score": "1,745",
+        "desc": "Star Ed1s0nZ / CyberStrikeAI CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+        "summary": "Star Ed1s0nZ / CyberStrikeAI CyberStrikeAI is an AI-native security testing platform built in Go."
+      },
+      {
+        "title": "inclusionAI/AReaL",
+        "link": "https://github.com/inclusionAI/AReaL",
+        "score": "4,468",
+        "desc": "Star inclusionAI / AReaL Lightning-Fast RL for LLM Reasoning and Agents. Made Simple &amp; Flexible.",
+        "summary": "Star inclusionAI / AReaL Lightning-Fast RL for LLM Reasoning and Agents."
+      },
+      {
+        "title": "lingfengQAQ/webnovel-writer",
+        "link": "https://github.com/lingfengQAQ/webnovel-writer",
+        "score": "883",
+        "desc": "Star lingfengQAQ / webnovel-writer 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+        "summary": "Star lingfengQAQ / webnovel-writer 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。"
+      },
+      {
+        "title": "openai/skills",
+        "link": "https://github.com/openai/skills",
+        "score": "12,247",
+        "desc": "Star openai / skills Skills Catalog for Codex",
+        "summary": "Star openai / skills Skills Catalog for Codex"
+      },
+      {
+        "title": "TheCraigHewitt/seomachine",
+        "link": "https://github.com/TheCraigHewitt/seomachine",
+        "score": "2,256",
+        "desc": "Star TheCraigHewitt / seomachine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+        "summary": "Star TheCraigHewitt / seomachine A specialized Claude Code workspace for creating long-form, SEO-optimized blog content "
+      },
+      {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/virattt/ai-hedge-fund",
+        "score": "46,413",
+        "desc": "Star virattt / ai-hedge-fund An AI Hedge Fund Team",
+        "summary": "Star virattt / ai-hedge-fund An AI Hedge Fund Team"
+      },
+      {
+        "title": "aidenybai/react-grab",
+        "link": "https://github.com/aidenybai/react-grab",
+        "score": "6,114",
+        "desc": "Sponsor Star aidenybai / react-grab Select context for coding agents directly from your website",
+        "summary": "Sponsor Star aidenybai / react-grab Select context for coding agents directly from your website"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "TestSprite 2.1",
+        "link": "https://www.producthunt.com/products/testsprite",
+        "desc": "<p> Agentic testing for the AI-native team. </p> <p> <a href=\"https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079493?app_id=339\">Link</a> </p>",
+        "summary": "Agentic testing for the AI-native team."
+      },
+      {
+        "title": "Copperlane",
+        "link": "https://www.producthunt.com/products/copperlane",
+        "desc": "<p> Turn hours of loan processing into seconds </p> <p> <a href=\"https://www.producthunt.com/products/copperlane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089903?app_id=339\">Link</a> </p>",
+        "summary": "Turn hours of loan processing into seconds "
+      },
+      {
+        "title": "Variant",
+        "link": "https://www.producthunt.com/products/variant-2",
+        "desc": "<p> Endless designs for your ideas, just scroll. </p> <p> <a href=\"https://www.producthunt.com/products/variant-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082680?app_id=339\">Link</a> </p>",
+        "summary": "Endless designs for your ideas, just scroll."
+      },
+      {
+        "title": "21st Agents SDK",
+        "link": "https://www.producthunt.com/products/21st-dev-the-npm-for-design-engineers",
+        "desc": "<p> SDK to add an Claude Code AI agent to your app </p> <p> <a href=\"https://www.producthunt.com/products/21st-dev-the-npm-for-design-engineers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091585?app_id=339\">Link</a> </p>",
+        "summary": "SDK to add an Claude Code AI agent to your app "
+      },
+      {
+        "title": "Codex Security",
+        "link": "https://www.producthunt.com/products/openai",
+        "desc": "<p> Our application security agent </p> <p> <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091578?app_id=339\">Link</a> </p>",
+        "summary": "Our application security agent "
+      },
+      {
+        "title": "NotchPad",
+        "link": "https://www.producthunt.com/products/notchpad",
+        "desc": "<p> The secure notepad and clipboard manager for your Mac. </p> <p> <a href=\"https://www.producthunt.com/products/notchpad?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086531?app_id=339\">Link</a> </p>",
+        "summary": "The secure notepad and clipboard manager for your Mac."
+      },
+      {
+        "title": "GetBeel",
+        "link": "https://www.producthunt.com/products/getbeel",
+        "desc": "<p> Let AI collect invoices and do reconciliation in automatic </p> <p> <a href=\"https://www.producthunt.com/products/getbeel?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089757?app_id=339\">Link</a> </p>",
+        "summary": "Let AI collect invoices and do reconciliation in automatic "
+      },
+      {
+        "title": "LTX Desktop",
+        "link": "https://www.producthunt.com/products/ltx-desktop",
+        "desc": "<p> Local open-source LTX video editor optimized for GPUs </p> <p> <a href=\"https://www.producthunt.com/products/ltx-desktop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091591?app_id=339\">Link</a> </p>",
+        "summary": "Local open-source LTX video editor optimized for GPUs "
+      },
+      {
+        "title": "FasterGH",
+        "link": "https://www.producthunt.com/products/fastergh",
+        "desc": "<p> Fast GitHub browsing experience </p> <p> <a href=\"https://www.producthunt.com/products/fastergh?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085037?app_id=339\">Link</a> </p>",
+        "summary": "Fast GitHub browsing experience "
+      },
+      {
+        "title": "Tailwind Form Builder",
+        "link": "https://www.producthunt.com/products/sheet-monkey",
+        "desc": "<p> Create responsive HTML forms in minutes. No login required. </p> <p> <a href=\"https://www.producthunt.com/products/sheet-monkey?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089217?app_id=339\">Link</a> </p>",
+        "summary": "Create responsive HTML forms in minutes."
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
