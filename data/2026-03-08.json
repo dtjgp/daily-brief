@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-08",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+        "link": "https://arxiv.org/abs/2603.03823",
+        "score": 4,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Cloud VM benchmarks 2026",
+        "link": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
+        "score": 194,
+        "desc": "",
+        "summary": "这条主要讨论「Cloud VM benchmarks 2026」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Warn about PyPy being unmaintained\"",
+        "link": "https://github.com/astral-sh/uv/pull/17643",
+        "score": 140,
+        "desc": "",
+        "summary": "这条主要讨论「\"Warn about PyPy being unmai…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "From RGB to L*a*b* color space (2024)",
+        "link": "https://kaizoudou.com/from-rgb-to-lab-color-space/",
+        "score": 14,
+        "desc": "",
+        "summary": "这条主要讨论「From RGB to L*a*b* color spa…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "CasNum",
+        "link": "https://github.com/0x0mer/CasNum",
+        "score": 271,
+        "desc": "",
+        "summary": "这条主要讨论「CasNum」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "MonoGame: A .NET framework for making cross-platform games",
+        "link": "https://github.com/MonoGame/MonoGame",
+        "score": 61,
+        "desc": "",
+        "summary": "偏开源工具链更新，适合评估是否纳入你的日常工作流。"
+      },
+      {
+        "title": "How to run Qwen 3.5 locally",
+        "link": "https://unsloth.ai/docs/models/qwen3.5",
+        "score": 98,
+        "desc": "",
+        "summary": "这条主要讨论「How to run Qwen 3.5 locally」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "A decade of Docker containers",
+        "link": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+        "score": 288,
+        "desc": "",
+        "summary": "这条主要讨论「A decade of Docker container…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Dumping Lego NXT firmware off of an existing brick (2025)",
+        "link": "https://arcanenibble.github.io/dumping-lego-nxt-firmware-off-of-an-existing-brick.html",
+        "score": 195,
+        "desc": "",
+        "summary": "这条主要讨论「Dumping Lego NXT firmware of…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Emacs internals: Deconstructing Lisp_Object in C (Part 2)",
+        "link": "https://thecloudlet.github.io/blog/project/emacs-02/",
+        "score": 60,
+        "desc": "",
+        "summary": "这条主要讨论「Emacs internals: Deconstruct…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "666ghj/MiroFish",
+        "link": "https://github.com/666ghj/MiroFish",
+        "score": "6,044",
+        "desc": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "summary": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything."
+      },
+      {
+        "title": "openai/skills",
+        "link": "https://github.com/openai/skills",
+        "score": "12,884",
+        "desc": "Star openai / skills Skills Catalog for Codex",
+        "summary": "Star openai / skills Skills Catalog for Codex"
+      },
+      {
+        "title": "msitarzewski/agency-agents",
+        "link": "https://github.com/msitarzewski/agency-agents",
+        "score": "11,026",
+        "desc": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "summary": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit comm"
+      },
+      {
+        "title": "GoogleCloudPlatform/generative-ai",
+        "link": "https://github.com/GoogleCloudPlatform/generative-ai",
+        "score": "13,673",
+        "desc": "Star GoogleCloudPlatform / generative-ai Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+        "summary": "Star GoogleCloudPlatform / generative-ai Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Ver"
+      },
+      {
+        "title": "agentjido/jido",
+        "link": "https://github.com/agentjido/jido",
+        "score": "1,469",
+        "desc": "Star agentjido / jido 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+        "summary": "Star agentjido / jido 🤖 Autonomous agent framework for Elixir."
+      },
+      {
+        "title": "QwenLM/Qwen-Agent",
+        "link": "https://github.com/QwenLM/Qwen-Agent",
+        "score": "15,126",
+        "desc": "Star QwenLM / Qwen-Agent Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+        "summary": "Star QwenLM / Qwen-Agent Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code"
+      },
+      {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/virattt/ai-hedge-fund",
+        "score": "46,664",
+        "desc": "Star virattt / ai-hedge-fund An AI Hedge Fund Team",
+        "summary": "Star virattt / ai-hedge-fund An AI Hedge Fund Team"
+      },
+      {
+        "title": "microsoft/hve-core",
+        "link": "https://github.com/microsoft/hve-core",
+        "score": "806",
+        "desc": "Star microsoft / hve-core A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+        "summary": "Star microsoft / hve-core A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, a"
+      },
+      {
+        "title": "toeverything/AFFiNE",
+        "link": "https://github.com/toeverything/AFFiNE",
+        "score": "64,835",
+        "desc": "Sponsor Star toeverything / AFFiNE There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+        "summary": "Sponsor Star toeverything / AFFiNE There can be more than Notion and Miro."
+      },
+      {
+        "title": "shadcn-ui/ui",
+        "link": "https://github.com/shadcn-ui/ui",
+        "score": "108,319",
+        "desc": "Star shadcn-ui / ui A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+        "summary": "Star shadcn-ui / ui A set of beautifully-designed, accessible components and a code distribution platform."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Claude Marketplace",
+        "link": "https://www.producthunt.com/products/claude-marketplace",
+        "desc": "<p> Helping companies easily get the AI tools they need </p> <p> <a href=\"https://www.producthunt.com/products/claude-marketplace?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092091?app_id=339\">Link</a> </p>",
+        "summary": "Helping companies easily get the AI tools they need "
+      },
+      {
+        "title": "VoiceOS",
+        "link": "https://www.producthunt.com/products/voiceos",
+        "desc": "<p> Siri for productivity. Let your voice do the work </p> <p> <a href=\"https://www.producthunt.com/products/voiceos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083555?app_id=339\">Link</a> </p>",
+        "summary": "Siri for productivity."
+      },
+      {
+        "title": "Pulldog",
+        "link": "https://www.producthunt.com/products/pulldog",
+        "desc": "<p> A Mac application to keep your code reviews organized! </p> <p> <a href=\"https://www.producthunt.com/products/pulldog?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092014?app_id=339\">Link</a> </p>",
+        "summary": "A Mac application to keep your code reviews organized!"
+      },
+      {
+        "title": "Vibe Marketplace by Greta",
+        "link": "https://www.producthunt.com/products/gretabyquestera",
+        "desc": "<p> Sell what you ship, instantly </p> <p> <a href=\"https://www.producthunt.com/products/gretabyquestera?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1078230?app_id=339\">Link</a> </p>",
+        "summary": "Sell what you ship, instantly "
+      },
+      {
+        "title": "GetMimic",
+        "link": "https://www.producthunt.com/products/getmimic",
+        "desc": "<p> Generate viral social & chat mockups in seconds with AI. </p> <p> <a href=\"https://www.producthunt.com/products/getmimic?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083800?app_id=339\">Link</a> </p>",
+        "summary": "Generate viral social & chat mockups in seconds with AI."
+      },
+      {
+        "title": "Song Sweeper",
+        "link": "https://www.producthunt.com/products/song-sweeper",
+        "desc": "<p> Clean up your music library </p> <p> <a href=\"https://www.producthunt.com/products/song-sweeper?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091010?app_id=339\">Link</a> </p>",
+        "summary": "Clean up your music library "
+      },
+      {
+        "title": "21st Agents SDK",
+        "link": "https://www.producthunt.com/products/21st-dev-the-npm-for-design-engineers",
+        "desc": "<p> SDK to add an Claude Code AI agent to your app </p> <p> <a href=\"https://www.producthunt.com/products/21st-dev-the-npm-for-design-engineers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091585?app_id=339\">Link</a> </p>",
+        "summary": "SDK to add an Claude Code AI agent to your app "
+      },
+      {
+        "title": "Copperlane",
+        "link": "https://www.producthunt.com/products/copperlane",
+        "desc": "<p> Turn hours of loan processing into seconds </p> <p> <a href=\"https://www.producthunt.com/products/copperlane?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089903?app_id=339\">Link</a> </p>",
+        "summary": "Turn hours of loan processing into seconds "
+      },
+      {
+        "title": "LTX Desktop",
+        "link": "https://www.producthunt.com/products/ltx-desktop",
+        "desc": "<p> Local open-source LTX video editor optimized for GPUs </p> <p> <a href=\"https://www.producthunt.com/products/ltx-desktop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091591?app_id=339\">Link</a> </p>",
+        "summary": "Local open-source LTX video editor optimized for GPUs "
+      },
+      {
+        "title": "TestSprite 2.1",
+        "link": "https://www.producthunt.com/products/testsprite",
+        "desc": "<p> Agentic testing for the AI-native team. </p> <p> <a href=\"https://www.producthunt.com/products/testsprite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1079493?app_id=339\">Link</a> </p>",
+        "summary": "Agentic testing for the AI-native team."
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
