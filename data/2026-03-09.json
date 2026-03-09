@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-09",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+        "link": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+        "score": 114,
+        "desc": "",
+        "summary": "这条主要讨论「US Court of Appeals: TOS may…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Agent Safehouse – macOS-native sandboxing for local agents",
+        "link": "https://agent-safehouse.dev/",
+        "score": 551,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
+        "link": "https://github.com/knowsuchagency/mcp2cli",
+        "score": 42,
+        "desc": "Every MCP server injects its full tool schemas into context on every turn — 30 tools costs ~3,600 tokens&#x2F;turn whether the model uses them or not. Over 25 turns with 120 tools, that&#x27;s 362,000 tokens just for schemas.mcp2cli turns any MCP server or OpenAPI spec into a CLI at runtime. The LLM discovers tools on demand: mcp2cli --mcp https:&#x2F;&#x2F;mcp.example.com&#x2F;sse --list # ~16 tokens&#x2F;tool mcp2cli --mcp https:&#x2F;&#x2F;mcp.example.com&#x2F;sse create-task --help # ~120 tokens, once mcp2cli --mcp https:&#x2F;&#x2F;mcp.example.com&#x2F;sse create-task --title &quot;Fix bug&quot; No codegen, no rebuild when the server changes. Works with any LLM — it&#x27;s just a CLI the model shells out to. Also handles OpenAPI specs (JSON&#x2F;YAML, local or remote) with the same interface.Token savings are real, measured with cl100k_base: 96% for 30 tools over 15 turns, 99% for 120 tools over 25 turns.It also ships as an installable skill for AI coding agents (Claude Code, Cursor, Codex): `npx skills add knowsuchagency&#x2F;mcp2cli --skill mcp2cli`Inspired by Kagan Yilmaz&#x27;s CLI vs MCP analysis and CLIHub.https:&#x2F;&#x2F;github.com&#x2F;knowsuchagency&#x2F;mcp2cli",
+        "summary": "Every MCP server injects its full tool schemas into context on every turn — 30 tools costs ~3,600 tokens&#x2F;turn wheth"
+      },
+      {
+        "title": "Microscopes can see video on a laserdisc",
+        "link": "https://www.youtube.com/watch?v=qZuR-772cks",
+        "score": 405,
+        "desc": "",
+        "summary": "偏多模态与内容生成方向，适合关注生产效率与质量提升。"
+      },
+      {
+        "title": "PCB devboard the size of a USB-C plug",
+        "link": "https://github.com/Dieu-de-l-elec/AngstromIO-devboard",
+        "score": 154,
+        "desc": "",
+        "summary": "这条主要讨论「PCB devboard the size of a U…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Ask HN: What Are You Working On? (March 2026)",
+        "link": "https://news.ycombinator.com/item?id=47303111",
+        "score": 134,
+        "desc": "What are you working on? Any new ideas that you&#x27;re thinking about?",
+        "summary": "What are you working on?"
+      },
+      {
+        "title": "Grammarly is using our identities without permission",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+        "score": 9,
+        "desc": "",
+        "summary": "这条主要讨论「Grammarly is using our ident…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Every single board computer I tested in 2025",
+        "link": "https://bret.dk/every-single-board-computer-i-tested-in-2025/",
+        "score": 157,
+        "desc": "",
+        "summary": "这条主要讨论「Every single board computer …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "FrameBook",
+        "link": "https://fb.edoo.gg",
+        "score": 417,
+        "desc": "",
+        "summary": "这条主要讨论「FrameBook」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "We should revisit literate programming in the agent era",
+        "link": "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/",
+        "score": 223,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "GoogleCloudPlatform/generative-ai",
+        "link": "https://github.com/GoogleCloudPlatform/generative-ai",
+        "score": "14,854",
+        "desc": "Star GoogleCloudPlatform / generative-ai Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+        "summary": "Star GoogleCloudPlatform / generative-ai Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Ver"
+      },
+      {
+        "title": "666ghj/MiroFish",
+        "link": "https://github.com/666ghj/MiroFish",
+        "score": "8,116",
+        "desc": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "summary": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything."
+      },
+      {
+        "title": "shadcn-ui/ui",
+        "link": "https://github.com/shadcn-ui/ui",
+        "score": "108,912",
+        "desc": "Star shadcn-ui / ui A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+        "summary": "Star shadcn-ui / ui A set of beautifully-designed, accessible components and a code distribution platform."
+      },
+      {
+        "title": "openclaw/openclaw",
+        "link": "https://github.com/openclaw/openclaw",
+        "score": "285,502",
+        "desc": "Sponsor Star openclaw / openclaw Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "summary": "Sponsor Star openclaw / openclaw Your own personal AI assistant."
+      },
+      {
+        "title": "toeverything/AFFiNE",
+        "link": "https://github.com/toeverything/AFFiNE",
+        "score": "65,437",
+        "desc": "Sponsor Star toeverything / AFFiNE There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+        "summary": "Sponsor Star toeverything / AFFiNE There can be more than Notion and Miro."
+      },
+      {
+        "title": "Ed1s0nZ/CyberStrikeAI",
+        "link": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+        "score": "2,461",
+        "desc": "Star Ed1s0nZ / CyberStrikeAI CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+        "summary": "Star Ed1s0nZ / CyberStrikeAI CyberStrikeAI is an AI-native security testing platform built in Go."
+      },
+      {
+        "title": "shareAI-lab/learn-claude-code",
+        "link": "https://github.com/shareAI-lab/learn-claude-code",
+        "score": "24,250",
+        "desc": "Star shareAI-lab / learn-claude-code Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+        "summary": "Star shareAI-lab / learn-claude-code Bash is all you need - A nano Claude Code–like agent, built from 0 to 1"
+      },
+      {
+        "title": "openai/skills",
+        "link": "https://github.com/openai/skills",
+        "score": "13,468",
+        "desc": "Star openai / skills Skills Catalog for Codex",
+        "summary": "Star openai / skills Skills Catalog for Codex"
+      },
+      {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/virattt/ai-hedge-fund",
+        "score": "46,950",
+        "desc": "Star virattt / ai-hedge-fund An AI Hedge Fund Team",
+        "summary": "Star virattt / ai-hedge-fund An AI Hedge Fund Team"
+      },
+      {
+        "title": "is-a-dev/register",
+        "link": "https://github.com/is-a-dev/register",
+        "score": "9,897",
+        "desc": "Star is-a-dev / register Grab your own sweet-looking '.is-a.dev' subdomain.",
+        "summary": "Star is-a-dev / register Grab your own sweet-looking '.is-a.dev' subdomain."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "BrandingStudio.ai",
+        "link": "https://www.producthunt.com/products/brandingstudio-ai",
+        "desc": "<p> Agency-quality branding in 60 minutes, not 6 months </p> <p> <a href=\"https://www.producthunt.com/products/brandingstudio-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089935?app_id=339\">Link</a> </p>",
+        "summary": "Agency-quality branding in 60 minutes, not 6 months "
+      },
+      {
+        "title": "Phi-4-reasoning-vision",
+        "link": "https://www.producthunt.com/products/phi-4-reasoning",
+        "desc": "<p> Open-weight 15B multimodal model for thinking and GUI agents </p> <p> <a href=\"https://www.producthunt.com/products/phi-4-reasoning?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093143?app_id=339\">Link</a> </p>",
+        "summary": "Open-weight 15B multimodal model for thinking and GUI agents "
+      },
+      {
+        "title": "Hannah & Co",
+        "link": "https://www.producthunt.com/products/hannah-co-your-ai-marketing-coworkers",
+        "desc": "<p> AI coworkers for marketing. </p> <p> <a href=\"https://www.producthunt.com/products/hannah-co-your-ai-marketing-coworkers?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093024?app_id=339\">Link</a> </p>",
+        "summary": "AI coworkers for marketing."
+      },
+      {
+        "title": "OpenClix: Smarter Mobile Engagement",
+        "link": "https://www.producthunt.com/products/openclix-smarter-mobile-engagement",
+        "desc": "<p> Design and optimize interaction that improve retention. </p> <p> <a href=\"https://www.producthunt.com/products/openclix-smarter-mobile-engagement?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089601?app_id=339\">Link</a> </p>",
+        "summary": "Design and optimize interaction that improve retention."
+      },
+      {
+        "title": "Roundtable - Fund as a Service",
+        "link": "https://www.producthunt.com/products/joinroundtable",
+        "desc": "<p> Launch your investment fund in days, not months </p> <p> <a href=\"https://www.producthunt.com/products/joinroundtable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1084407?app_id=339\">Link</a> </p>",
+        "summary": "Launch your investment fund in days, not months "
+      },
+      {
+        "title": "Unite Pro for macOS",
+        "link": "https://www.producthunt.com/products/unite-for-macos",
+        "desc": "<p> Turn websites into Mac apps </p> <p> <a href=\"https://www.producthunt.com/products/unite-for-macos?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090861?app_id=339\">Link</a> </p>",
+        "summary": "Turn websites into Mac apps "
+      },
+      {
+        "title": "Timelaps",
+        "link": "https://www.producthunt.com/products/timelaps",
+        "desc": "<p> Know if your marketing is working with real-time insights </p> <p> <a href=\"https://www.producthunt.com/products/timelaps?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083354?app_id=339\">Link</a> </p>",
+        "summary": "Know if your marketing is working with real-time insights "
+      },
+      {
+        "title": "Dex",
+        "link": "https://www.producthunt.com/products/dex-6",
+        "desc": "<p> Ask your data. Get answers and next steps. </p> <p> <a href=\"https://www.producthunt.com/products/dex-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089927?app_id=339\">Link</a> </p>",
+        "summary": "这条主要讨论「Dex」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "simply",
+        "link": "https://www.producthunt.com/products/simply-4",
+        "desc": "<p> ai nutrition app </p> <p> <a href=\"https://www.producthunt.com/products/simply-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090170?app_id=339\">Link</a> </p>",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "cutefolio",
+        "link": "https://www.producthunt.com/products/cutefolio",
+        "desc": "<p> build portfolios that actually look cute. </p> <p> <a href=\"https://www.producthunt.com/products/cutefolio?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092201?app_id=339\">Link</a> </p>",
+        "summary": "build portfolios that actually look cute."
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
