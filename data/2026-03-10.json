@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-10",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Two Years of Emacs Solo",
+        "link": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
+        "score": 219,
+        "desc": "",
+        "summary": "这条主要讨论「Two Years of Emacs Solo」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Lotus 1-2-3 on the PC with DOS",
+        "link": "https://stonetools.ghost.io/lotus123-dos/",
+        "score": 55,
+        "desc": "",
+        "summary": "这条主要讨论「Lotus 1-2-3 on the PC with D…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+        "link": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+        "score": 159,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Optimizing Top K in Postgres",
+        "link": "https://www.paradedb.com/blog/optimizing-top-k",
+        "score": 54,
+        "desc": "",
+        "summary": "这条主要讨论「Optimizing Top K in Postgres」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Building a Procedural Hex Map with Wave Function Collapse",
+        "link": "https://felixturner.github.io/hex-map-wfc/article/",
+        "score": 472,
+        "desc": "",
+        "summary": "这条主要讨论「Building a Procedural Hex Ma…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "macOS Tahoe windows have different corner radiuses",
+        "link": "https://lapcatsoftware.com/articles/2026/3/1.html",
+        "score": 77,
+        "desc": "",
+        "summary": "这条主要讨论「macOS Tahoe windows have dif…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Remotely use my guitar tuner",
+        "link": "https://realtuner.online/",
+        "score": 178,
+        "desc": "",
+        "summary": "这条主要讨论「Show HN: Remotely use my gui…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Learnings from paying artists royalties for AI-generated art",
+        "link": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+        "score": 122,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "A useless infinite scroll experiment",
+        "link": "https://futile.ch/en/",
+        "score": 37,
+        "desc": "",
+        "summary": "这条主要讨论「A useless infinite scroll ex…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "JSLinux Now Supports x86_64",
+        "link": "https://bellard.org/jslinux/",
+        "score": 306,
+        "desc": "",
+        "summary": "这条主要讨论「JSLinux Now Supports x86_64」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "GoogleCloudPlatform/generative-ai",
+        "link": "https://github.com/GoogleCloudPlatform/generative-ai",
+        "score": "15,463",
+        "desc": "Star GoogleCloudPlatform / generative-ai Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+        "summary": "Star GoogleCloudPlatform / generative-ai Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Ver"
+      },
+      {
+        "title": "openclaw/openclaw",
+        "link": "https://github.com/openclaw/openclaw",
+        "score": "294,429",
+        "desc": "Sponsor Star openclaw / openclaw Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞",
+        "summary": "Sponsor Star openclaw / openclaw Your own personal AI assistant."
+      },
+      {
+        "title": "666ghj/MiroFish",
+        "link": "https://github.com/666ghj/MiroFish",
+        "score": "12,494",
+        "desc": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "summary": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything."
+      },
+      {
+        "title": "karpathy/nanochat",
+        "link": "https://github.com/karpathy/nanochat",
+        "score": "45,794",
+        "desc": "Star karpathy / nanochat The best ChatGPT that $100 can buy.",
+        "summary": "Star karpathy / nanochat The best ChatGPT that $100 can buy."
+      },
+      {
+        "title": "666ghj/BettaFish",
+        "link": "https://github.com/666ghj/BettaFish",
+        "score": "37,687",
+        "desc": "Star 666ghj / BettaFish 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+        "summary": "Star 666ghj / BettaFish 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。"
+      },
+      {
+        "title": "NousResearch/hermes-agent",
+        "link": "https://github.com/NousResearch/hermes-agent",
+        "score": "3,221",
+        "desc": "Star NousResearch / hermes-agent The agent that grows with you",
+        "summary": "Star NousResearch / hermes-agent The agent that grows with you"
+      },
+      {
+        "title": "pbakaus/impeccable",
+        "link": "https://github.com/pbakaus/impeccable",
+        "score": "3,282",
+        "desc": "Star pbakaus / impeccable The design language that makes your AI harness better at design.",
+        "summary": "Star pbakaus / impeccable The design language that makes your AI harness better at design."
+      },
+      {
+        "title": "msitarzewski/agency-agents",
+        "link": "https://github.com/msitarzewski/agency-agents",
+        "score": "21,076",
+        "desc": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "summary": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit comm"
+      },
+      {
+        "title": "alibaba/page-agent",
+        "link": "https://github.com/alibaba/page-agent",
+        "score": "2,894",
+        "desc": "Star alibaba / page-agent JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "summary": "Star alibaba / page-agent JavaScript in-page GUI agent."
+      },
+      {
+        "title": "alirezarezvani/claude-skills",
+        "link": "https://github.com/alirezarezvani/claude-skills",
+        "score": "3,699",
+        "desc": "Star alirezarezvani / claude-skills 169 production-ready skills &amp; plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+        "summary": "Star alirezarezvani / claude-skills 169 production-ready skills &amp; plugins for Claude Code, OpenAI Codex, and OpenCla"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Brutal Reader",
+        "link": "https://www.producthunt.com/products/brutal-reader",
+        "desc": "<p> Strips any webpage down to just the article </p> <p> <a href=\"https://www.producthunt.com/products/brutal-reader?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093046?app_id=339\">Link</a> </p>",
+        "summary": "Strips any webpage down to just the article "
+      },
+      {
+        "title": "Spine Swarm",
+        "link": "https://www.producthunt.com/products/spine-2",
+        "desc": "<p> Manage a team of AI agents that do real work </p> <p> <a href=\"https://www.producthunt.com/products/spine-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093658?app_id=339\">Link</a> </p>",
+        "summary": "Manage a team of AI agents that do real work "
+      },
+      {
+        "title": "Microsoft Copilot Cowork",
+        "link": "https://www.producthunt.com/products/copilot-cowork",
+        "desc": "<p> Microsoft & Anthropic bring Claude Cowork to Microsoft 365 </p> <p> <a href=\"https://www.producthunt.com/products/copilot-cowork?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093530?app_id=339\">Link</a> </p>",
+        "summary": "Microsoft & Anthropic bring Claude Cowork to Microsoft 365 "
+      },
+      {
+        "title": "NFCPlayer",
+        "link": "https://www.producthunt.com/products/nfcplayer-play-apple-music-with-nfc",
+        "desc": "<p> Play Apple Music instantly by tapping NFC tags </p> <p> <a href=\"https://www.producthunt.com/products/nfcplayer-play-apple-music-with-nfc?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092290?app_id=339\">Link</a> </p>",
+        "summary": "Play Apple Music instantly by tapping NFC tags "
+      },
+      {
+        "title": "Chronicle 2.0",
+        "link": "https://www.producthunt.com/products/chronicle-6",
+        "desc": "<p> AI presentations without the AI slop </p> <p> <a href=\"https://www.producthunt.com/products/chronicle-6?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089427?app_id=339\">Link</a> </p>",
+        "summary": "AI presentations without the AI slop "
+      },
+      {
+        "title": "Zappic.co",
+        "link": "https://www.producthunt.com/products/zappic-co",
+        "desc": "<p> Review & approval platform for creative and post-production </p> <p> <a href=\"https://www.producthunt.com/products/zappic-co?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092924?app_id=339\">Link</a> </p>",
+        "summary": "Review & approval platform for creative and post-production "
+      },
+      {
+        "title": "Decoy",
+        "link": "https://www.producthunt.com/products/decoy",
+        "desc": "<p> Local server mocks in macOS, all in a lightweight native app </p> <p> <a href=\"https://www.producthunt.com/products/decoy?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093008?app_id=339\">Link</a> </p>",
+        "summary": "Local server mocks in macOS, all in a lightweight native app "
+      },
+      {
+        "title": "humans fix ai",
+        "link": "https://www.producthunt.com/products/humans-fix-ai",
+        "desc": "<p> Real developers help vibecoders with AI-built apps </p> <p> <a href=\"https://www.producthunt.com/products/humans-fix-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088466?app_id=339\">Link</a> </p>",
+        "summary": "Real developers help vibecoders with AI-built apps "
+      },
+      {
+        "title": "Contentdrips Design Agent",
+        "link": "https://www.producthunt.com/products/contentdrips",
+        "desc": "<p> Type a prompt to generate any editable social media graphic </p> <p> <a href=\"https://www.producthunt.com/products/contentdrips?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093293?app_id=339\">Link</a> </p>",
+        "summary": "Type a prompt to generate any editable social media graphic "
+      },
+      {
+        "title": "Agent Skills",
+        "link": "https://www.producthunt.com/products/agent-skills-3",
+        "desc": "<p> Find skills for Claude Code, Cursor, Copilot & more </p> <p> <a href=\"https://www.producthunt.com/products/agent-skills-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090982?app_id=339\">Link</a> </p>",
+        "summary": "Find skills for Claude Code, Cursor, Copilot & more "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
