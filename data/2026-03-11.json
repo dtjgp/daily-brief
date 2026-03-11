@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-11",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Create value for others and don’t worry about the returns",
+        "link": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
+        "score": 246,
+        "desc": "",
+        "summary": "这条主要讨论「Create value for others and …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Zig – Type Resolution Redesign and Language Changes",
+        "link": "https://ziglang.org/devlog/2026/#2026-03-10",
+        "score": 177,
+        "desc": "",
+        "summary": "这条主要讨论「Zig – Type Resolution Redesi…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "I'm going to build my own OpenClaw, with blackjack and bun",
+        "link": "https://github.com/rcarmo/piclaw",
+        "score": 21,
+        "desc": "",
+        "summary": "这条主要讨论「I'm going to build my own Op…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Why does AI tell you to use Terminal so much?",
+        "link": "https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/",
+        "score": 4,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "U+237C ⍼ Is Azimuth",
+        "link": "https://ionathan.ch/2026/02/16/angzarr.html",
+        "score": 271,
+        "desc": "",
+        "summary": "这条主要讨论「U+237C ⍼ Is Azimuth」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Cloudflare crawl endpoint",
+        "link": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
+        "score": 275,
+        "desc": "",
+        "summary": "这条主要讨论「Cloudflare crawl endpoint」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "TADA: Fast, Reliable Speech Generation Through Text-Acoustic Synchronization",
+        "link": "https://www.hume.ai/blog/opensource-tada",
+        "score": 20,
+        "desc": "",
+        "summary": "偏多模态与内容生成方向，适合关注生产效率与质量提升。"
+      },
+      {
+        "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+        "link": "https://github.com/gcv/julia-snail",
+        "score": 55,
+        "desc": "",
+        "summary": "这条主要讨论「Julia Snail – An Emacs Devel…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "AutoKernel: Autoresearch for GPU Kernels",
+        "link": "https://github.com/RightNow-AI/autokernel",
+        "score": 11,
+        "desc": "",
+        "summary": "这条主要讨论「AutoKernel: Autoresearch for…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Tony Hoare has died",
+        "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
+        "score": 1742,
+        "desc": "",
+        "summary": "这条主要讨论「Tony Hoare has died」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "msitarzewski/agency-agents",
+        "link": "https://github.com/msitarzewski/agency-agents",
+        "score": "27,213",
+        "desc": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "summary": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit comm"
+      },
+      {
+        "title": "666ghj/MiroFish",
+        "link": "https://github.com/666ghj/MiroFish",
+        "score": "15,497",
+        "desc": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "summary": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything."
+      },
+      {
+        "title": "NousResearch/hermes-agent",
+        "link": "https://github.com/NousResearch/hermes-agent",
+        "score": "4,323",
+        "desc": "Star NousResearch / hermes-agent The agent that grows with you",
+        "summary": "Star NousResearch / hermes-agent The agent that grows with you"
+      },
+      {
+        "title": "promptfoo/promptfoo",
+        "link": "https://github.com/promptfoo/promptfoo",
+        "score": "12,202",
+        "desc": "Star promptfoo / promptfoo Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+        "summary": "Star promptfoo / promptfoo Test your prompts, agents, and RAGs."
+      },
+      {
+        "title": "GoogleCloudPlatform/generative-ai",
+        "link": "https://github.com/GoogleCloudPlatform/generative-ai",
+        "score": "15,893",
+        "desc": "Star GoogleCloudPlatform / generative-ai Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+        "summary": "Star GoogleCloudPlatform / generative-ai Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Ver"
+      },
+      {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/virattt/ai-hedge-fund",
+        "score": "47,818",
+        "desc": "Star virattt / ai-hedge-fund An AI Hedge Fund Team",
+        "summary": "Star virattt / ai-hedge-fund An AI Hedge Fund Team"
+      },
+      {
+        "title": "karpathy/nanochat",
+        "link": "https://github.com/karpathy/nanochat",
+        "score": "46,438",
+        "desc": "Star karpathy / nanochat The best ChatGPT that $100 can buy.",
+        "summary": "Star karpathy / nanochat The best ChatGPT that $100 can buy."
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "77,161",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "alibaba/page-agent",
+        "link": "https://github.com/alibaba/page-agent",
+        "score": "4,065",
+        "desc": "Star alibaba / page-agent JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "summary": "Star alibaba / page-agent JavaScript in-page GUI agent."
+      },
+      {
+        "title": "sepinf-inc/IPED",
+        "link": "https://github.com/sepinf-inc/IPED",
+        "score": "2,294",
+        "desc": "Star sepinf-inc / IPED IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
+        "summary": "Star sepinf-inc / IPED IPED Digital Forensic Tool."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "HypeScribe",
+        "link": "https://www.producthunt.com/products/hypescribe",
+        "desc": "<p> Google Drive for Your Speech w/ 99% AI transcription </p> <p> <a href=\"https://www.producthunt.com/products/hypescribe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088825?app_id=339\">Link</a> </p>",
+        "summary": "Google Drive for Your Speech w/ 99% AI transcription "
+      },
+      {
+        "title": "Mindspase",
+        "link": "https://www.producthunt.com/products/mindspase",
+        "desc": "<p> A visual AI knowledge base that organizes what you save </p> <p> <a href=\"https://www.producthunt.com/products/mindspase?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093980?app_id=339\">Link</a> </p>",
+        "summary": "A visual AI knowledge base that organizes what you save "
+      },
+      {
+        "title": "TADA",
+        "link": "https://www.producthunt.com/products/hume-2",
+        "desc": "<p> 1:1 text-acoustic alignment for 5x faster speech generation </p> <p> <a href=\"https://www.producthunt.com/products/hume-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094909?app_id=339\">Link</a> </p>",
+        "summary": "1:1 text-acoustic alignment for 5x faster speech generation "
+      },
+      {
+        "title": "Citable",
+        "link": "https://www.producthunt.com/products/citable",
+        "desc": "<p> Be in AI answers before your competitors. We do it for you. </p> <p> <a href=\"https://www.producthunt.com/products/citable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091735?app_id=339\">Link</a> </p>",
+        "summary": "Be in AI answers before your competitors."
+      },
+      {
+        "title": "ChatGPT Interactive Learning",
+        "link": "https://www.producthunt.com/products/chatgpt-interactive-learning",
+        "desc": "<p> Learn math and science with interactive visual explanations </p> <p> <a href=\"https://www.producthunt.com/products/chatgpt-interactive-learning?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094943?app_id=339\">Link</a> </p>",
+        "summary": "Learn math and science with interactive visual explanations "
+      },
+      {
+        "title": "IonRouter",
+        "link": "https://www.producthunt.com/products/ionrouter-by-cumulus-labs",
+        "desc": "<p> Serve Any AI Model, Faster & Cheaper </p> <p> <a href=\"https://www.producthunt.com/products/ionrouter-by-cumulus-labs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090258?app_id=339\">Link</a> </p>",
+        "summary": "Serve Any AI Model, Faster & Cheaper "
+      },
+      {
+        "title": "ScreenGeany AI",
+        "link": "https://www.producthunt.com/products/screengeany-ai",
+        "desc": "<p> Ask AI about anything on your screen with a single hotkey </p> <p> <a href=\"https://www.producthunt.com/products/screengeany-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094446?app_id=339\">Link</a> </p>",
+        "summary": "Ask AI about anything on your screen with a single hotkey "
+      },
+      {
+        "title": "CodeYam CLI & Memory",
+        "link": "https://www.producthunt.com/products/codeyam-cli-memory",
+        "desc": "<p> Comprehensive memory management for Claude Code </p> <p> <a href=\"https://www.producthunt.com/products/codeyam-cli-memory?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094725?app_id=339\">Link</a> </p>",
+        "summary": "Comprehensive memory management for Claude Code "
+      },
+      {
+        "title": "Product Workbench for Claude Code",
+        "link": "https://www.producthunt.com/products/chordio-workbench",
+        "desc": "<p> Turn feature ideas into stakeholder-ready code prototypes </p> <p> <a href=\"https://www.producthunt.com/products/chordio-workbench?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094015?app_id=339\">Link</a> </p>",
+        "summary": "Turn feature ideas into stakeholder-ready code prototypes "
+      },
+      {
+        "title": "Knowlify",
+        "link": "https://www.producthunt.com/products/knowlify",
+        "desc": "<p> Convert text & PDFs into premium explainer videos </p> <p> <a href=\"https://www.producthunt.com/products/knowlify?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086473?app_id=339\">Link</a> </p>",
+        "summary": "Convert text & PDFs into premium explainer videos "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
