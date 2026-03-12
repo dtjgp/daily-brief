@@ -1,0 +1,256 @@
+{
+  "date": "2026-03-12",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Show HN: s@: decentralized social networking over static sites",
+        "link": "http://satproto.org/",
+        "score": 243,
+        "desc": "",
+        "summary": "这条主要讨论「Show HN: s@: decentralized s…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]",
+        "link": "https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf",
+        "score": 15,
+        "desc": "",
+        "summary": "这条主要讨论「SBCL: A Sanely-Bootstrappabl…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Datahäxan",
+        "link": "https://0dd.company/galleries/witches/7.html",
+        "score": 50,
+        "desc": "",
+        "summary": "这条主要讨论「Datahäxan」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Temporal: The 9-year journey to fix time in JavaScript",
+        "link": "https://bloomberg.github.io/js-blog/post/temporal/",
+        "score": 656,
+        "desc": "",
+        "summary": "这条主要讨论「Temporal: The 9-year journey…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Making WebAssembly a first-class language on the Web",
+        "link": "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/",
+        "score": 534,
+        "desc": "",
+        "summary": "这条主要讨论「Making WebAssembly a first-c…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Tested: How Many Times Can a DVD±RW Be Rewritten? Methodology and Results",
+        "link": "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%C2%B1rw-be-rewritten-part-2-methodology-results/",
+        "score": 135,
+        "desc": "",
+        "summary": "这条主要讨论「Tested: How Many Times Can a…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "WebPKI and You",
+        "link": "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html",
+        "score": 37,
+        "desc": "",
+        "summary": "这条主要讨论「WebPKI and You」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Many SWE-bench-Passing PRs would not be merged",
+        "link": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/",
+        "score": 224,
+        "desc": "",
+        "summary": "这条主要讨论「Many SWE-bench-Passing PRs w…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "I was interviewed by an AI bot for a job",
+        "link": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+        "score": 279,
+        "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;DEwy7",
+        "summary": "https:&#x2F;&#x2F;archive.ph&#x2F;DEwy7"
+      },
+      {
+        "title": "Returning to Rails in 2026",
+        "link": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
+        "score": 68,
+        "desc": "",
+        "summary": "这条主要讨论「Returning to Rails in 2026」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "msitarzewski/agency-agents",
+        "link": "https://github.com/msitarzewski/agency-agents",
+        "score": "31,400",
+        "desc": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "summary": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit comm"
+      },
+      {
+        "title": "666ghj/MiroFish",
+        "link": "https://github.com/666ghj/MiroFish",
+        "score": "17,504",
+        "desc": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "summary": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything."
+      },
+      {
+        "title": "promptfoo/promptfoo",
+        "link": "https://github.com/promptfoo/promptfoo",
+        "score": "12,766",
+        "desc": "Star promptfoo / promptfoo Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+        "summary": "Star promptfoo / promptfoo Test your prompts, agents, and RAGs."
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "78,729",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "fishaudio/fish-speech",
+        "link": "https://github.com/fishaudio/fish-speech",
+        "score": "26,042",
+        "desc": "Star fishaudio / fish-speech SOTA Open Source TTS",
+        "summary": "Star fishaudio / fish-speech SOTA Open Source TTS"
+      },
+      {
+        "title": "virattt/ai-hedge-fund",
+        "link": "https://github.com/virattt/ai-hedge-fund",
+        "score": "48,348",
+        "desc": "Star virattt / ai-hedge-fund An AI Hedge Fund Team",
+        "summary": "Star virattt / ai-hedge-fund An AI Hedge Fund Team"
+      },
+      {
+        "title": "alibaba/page-agent",
+        "link": "https://github.com/alibaba/page-agent",
+        "score": "5,264",
+        "desc": "Star alibaba / page-agent JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "summary": "Star alibaba / page-agent JavaScript in-page GUI agent."
+      },
+      {
+        "title": "NousResearch/hermes-agent",
+        "link": "https://github.com/NousResearch/hermes-agent",
+        "score": "5,647",
+        "desc": "Star NousResearch / hermes-agent The agent that grows with you",
+        "summary": "Star NousResearch / hermes-agent The agent that grows with you"
+      },
+      {
+        "title": "AstrBotDevs/AstrBot",
+        "link": "https://github.com/AstrBotDevs/AstrBot",
+        "score": "22,026",
+        "desc": "Star AstrBotDevs / AstrBot Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+        "summary": "Star AstrBotDevs / AstrBot Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI "
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Agent Browser",
+        "link": "https://www.producthunt.com/products/agent-browser-2",
+        "desc": "<p> Browser Agents that communicate using ASCII wireframes </p> <p> <a href=\"https://www.producthunt.com/products/agent-browser-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096009?app_id=339\">Link</a> </p>",
+        "summary": "Browser Agents that communicate using ASCII wireframes "
+      },
+      {
+        "title": "Codex Chat",
+        "link": "https://www.producthunt.com/products/codex-chat-oss",
+        "desc": "<p> An open-source macOS client for Codex </p> <p> <a href=\"https://www.producthunt.com/products/codex-chat-oss?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095976?app_id=339\">Link</a> </p>",
+        "summary": "An open-source macOS client for Codex "
+      },
+      {
+        "title": "Casero",
+        "link": "https://www.producthunt.com/products/casero",
+        "desc": "<p> A better legal memory for your law firm </p> <p> <a href=\"https://www.producthunt.com/products/casero?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095849?app_id=339\">Link</a> </p>",
+        "summary": "A better legal memory for your law firm "
+      },
+      {
+        "title": "UseDesktop",
+        "link": "https://www.producthunt.com/products/usedesktop-computer-use-agent",
+        "desc": "<p> An infrastructure layer for training deskop agents </p> <p> <a href=\"https://www.producthunt.com/products/usedesktop-computer-use-agent?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/981835?app_id=339\">Link</a> </p>",
+        "summary": "An infrastructure layer for training deskop agents "
+      },
+      {
+        "title": "Automated",
+        "link": "https://www.producthunt.com/products/automated",
+        "desc": "<p> Automate any workflow by recording a demo </p> <p> <a href=\"https://www.producthunt.com/products/automated?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096182?app_id=339\">Link</a> </p>",
+        "summary": "Automate any workflow by recording a demo "
+      },
+      {
+        "title": "A Bit Differently",
+        "link": "https://www.producthunt.com/products/a-bit-differently",
+        "desc": "<p> This is Ava, a different kind of ChatGPT. </p> <p> <a href=\"https://www.producthunt.com/products/a-bit-differently?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096193?app_id=339\">Link</a> </p>",
+        "summary": "This is Ava, a different kind of ChatGPT."
+      },
+      {
+        "title": "Clawcard",
+        "link": "https://www.producthunt.com/products/clawcard",
+        "desc": "<p> Give your agent a card, email and phone - in one command. </p> <p> <a href=\"https://www.producthunt.com/products/clawcard?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096154?app_id=339\">Link</a> </p>",
+        "summary": "Give your agent a card, email and phone - in one command."
+      },
+      {
+        "title": "Clawther",
+        "link": "https://www.producthunt.com/products/clawther",
+        "desc": "<p> Give your OpenClaw agent a real task board </p> <p> <a href=\"https://www.producthunt.com/products/clawther?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093655?app_id=339\">Link</a> </p>",
+        "summary": "Give your OpenClaw agent a real task board "
+      },
+      {
+        "title": "muno",
+        "link": "https://www.producthunt.com/products/muno-2",
+        "desc": "<p> AI agents for PMs to automate check-ins and tasks </p> <p> <a href=\"https://www.producthunt.com/products/muno-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095903?app_id=339\">Link</a> </p>",
+        "summary": "AI agents for PMs to automate check-ins and tasks "
+      },
+      {
+        "title": "Coresignal Data Search",
+        "link": "https://www.producthunt.com/products/coresignal",
+        "desc": "<p> Build custom B2B lead lists in seconds with natural language </p> <p> <a href=\"https://www.producthunt.com/products/coresignal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089877?app_id=339\">Link</a> </p>",
+        "summary": "Build custom B2B lead lists in seconds with natural language "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
