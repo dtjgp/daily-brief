@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-13",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Willingness to look stupid",
+        "link": "https://sharif.io/looking-stupid",
+        "score": 258,
+        "desc": "",
+        "summary": "这条主要讨论「Willingness to look stupid」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Executing programs inside transformers with exponentially faster inference",
+        "link": "https://www.percepta.ai/blog/can-llms-be-computers",
+        "score": 45,
+        "desc": "",
+        "summary": "这条主要讨论「Executing programs inside tr…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Malus – Clean Room as a Service",
+        "link": "https://malus.sh",
+        "score": 1229,
+        "desc": "https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_...https:&#x2F;&#x2F;malus.sh&#x2F;blog.html",
+        "summary": "https:&#x2F;&#x2F;fosdem.org&#x2F;2026&#x2F;schedule&#x2F;event&#x2F;SUVS7G-lets_end_open_...https:&#x2F;&#x2F;malus.sh&"
+      },
+      {
+        "title": "Vite 8.0 Is Out",
+        "link": "https://vite.dev/blog/announcing-vite8",
+        "score": 219,
+        "desc": "",
+        "summary": "这条主要讨论「Vite 8.0 Is Out」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "“This is not the computer for you”",
+        "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+        "score": 366,
+        "desc": "",
+        "summary": "这条主要讨论「“This is not the computer fo…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Prefix sums at gigabytes per second with ARM NEON",
+        "link": "https://lemire.me/blog/2026/03/08/prefix-sums-at-tens-of-gigabytes-per-second-with-arm-neon/",
+        "score": 26,
+        "desc": "",
+        "summary": "这条主要讨论「Prefix sums at gigabytes per…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Hyperlinks in Terminal Emulators",
+        "link": "https://gist.github.com/egmontkob/eb114294efbcd5adb1944c9f3cb5feda",
+        "score": 43,
+        "desc": "",
+        "summary": "这条主要讨论「Hyperlinks in Terminal Emula…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Bubble Sorted Amen Break",
+        "link": "https://parametricavocado.itch.io/amen-sorting",
+        "score": 321,
+        "desc": "",
+        "summary": "这条主要讨论「Bubble Sorted Amen Break」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Shall I implement it? No",
+        "link": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
+        "score": 1216,
+        "desc": "",
+        "summary": "这条主要讨论「Shall I implement it? No」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "ATMs didn’t kill bank teller jobs, but the iPhone did",
+        "link": "https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller",
+        "score": 400,
+        "desc": "",
+        "summary": "这条主要讨论「ATMs didn’t kill bank teller…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/microsoft/BitNet",
+        "score": "32,981",
+        "desc": "Star microsoft / BitNet Official inference framework for 1-bit LLMs",
+        "summary": "Star microsoft / BitNet Official inference framework for 1-bit LLMs"
+      },
+      {
+        "title": "fishaudio/fish-speech",
+        "link": "https://github.com/fishaudio/fish-speech",
+        "score": "26,599",
+        "desc": "Star fishaudio / fish-speech SOTA Open Source TTS",
+        "summary": "Star fishaudio / fish-speech SOTA Open Source TTS"
+      },
+      {
+        "title": "langflow-ai/openrag",
+        "link": "https://github.com/langflow-ai/openrag",
+        "score": "1,833",
+        "desc": "Star langflow-ai / openrag OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+        "summary": "Star langflow-ai / openrag OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on L"
+      },
+      {
+        "title": "InsForge/InsForge",
+        "link": "https://github.com/InsForge/InsForge",
+        "score": "3,312",
+        "desc": "Sponsor Star InsForge / InsForge Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+        "summary": "Sponsor Star InsForge / InsForge Give agents everything they need to ship fullstack apps."
+      },
+      {
+        "title": "vectorize-io/hindsight",
+        "link": "https://github.com/vectorize-io/hindsight",
+        "score": "3,292",
+        "desc": "Star vectorize-io / hindsight Hindsight: Agent Memory That Learns",
+        "summary": "Star vectorize-io / hindsight Hindsight: Agent Memory That Learns"
+      },
+      {
+        "title": "alibaba/page-agent",
+        "link": "https://github.com/alibaba/page-agent",
+        "score": "6,713",
+        "desc": "Star alibaba / page-agent JavaScript in-page GUI agent. Control web interfaces with natural language.",
+        "summary": "Star alibaba / page-agent JavaScript in-page GUI agent."
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "80,769",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "NousResearch/hermes-agent",
+        "link": "https://github.com/NousResearch/hermes-agent",
+        "score": "6,437",
+        "desc": "Star NousResearch / hermes-agent The agent that grows with you",
+        "summary": "Star NousResearch / hermes-agent The agent that grows with you"
+      },
+      {
+        "title": "666ghj/MiroFish",
+        "link": "https://github.com/666ghj/MiroFish",
+        "score": "20,139",
+        "desc": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "summary": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything."
+      },
+      {
+        "title": "google-ai-edge/LiteRT",
+        "link": "https://github.com/google-ai-edge/LiteRT",
+        "score": "1,739",
+        "desc": "Star google-ai-edge / LiteRT LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML &amp; GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+        "summary": "Star google-ai-edge / LiteRT LiteRT, successor to TensorFlow Lite."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Mockphine",
+        "link": "https://www.producthunt.com/products/mockphine",
+        "desc": "<p> Mock blocked APIs, passthrough ready routes, see live source </p> <p> <a href=\"https://www.producthunt.com/products/mockphine?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085402?app_id=339\">Link</a> </p>",
+        "summary": "Mock blocked APIs, passthrough ready routes, see live source "
+      },
+      {
+        "title": "Mozzie",
+        "link": "https://www.producthunt.com/products/mozzie",
+        "desc": "<p> Codex Claude Gemini CLI parallel agents orchestration </p> <p> <a href=\"https://www.producthunt.com/products/mozzie?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096996?app_id=339\">Link</a> </p>",
+        "summary": "Codex Claude Gemini CLI parallel agents orchestration "
+      },
+      {
+        "title": "GhostDesk",
+        "link": "https://www.producthunt.com/products/ghostdesk",
+        "desc": "<p> Real-time AI overlay for meetings & invisible to screenshare </p> <p> <a href=\"https://www.producthunt.com/products/ghostdesk?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096569?app_id=339\">Link</a> </p>",
+        "summary": "Real-time AI overlay for meetings & invisible to screenshare "
+      },
+      {
+        "title": "Brutal Verdict",
+        "link": "https://www.producthunt.com/products/brutal-verdict",
+        "desc": "<p> 100% local AI Driven insights of chat messages </p> <p> <a href=\"https://www.producthunt.com/products/brutal-verdict?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096457?app_id=339\">Link</a> </p>",
+        "summary": "100% local AI Driven insights of chat messages "
+      },
+      {
+        "title": "Fowel by Hackmamba",
+        "link": "https://www.producthunt.com/products/hackmamba",
+        "desc": "<p> Reduce documentation review time by 80% instantly </p> <p> <a href=\"https://www.producthunt.com/products/hackmamba?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094829?app_id=339\">Link</a> </p>",
+        "summary": "Reduce documentation review time by 80% instantly "
+      },
+      {
+        "title": "Pinnacle",
+        "link": "https://www.producthunt.com/products/pinnacle",
+        "desc": "<p> Turn your phone into a brain performance coach </p> <p> <a href=\"https://www.producthunt.com/products/pinnacle?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085799?app_id=339\">Link</a> </p>",
+        "summary": "Turn your phone into a brain performance coach "
+      },
+      {
+        "title": "Perplexity Computer Skills",
+        "link": "https://www.producthunt.com/products/perplexity-computer-skills",
+        "desc": "<p> Extend Computer’s capabilities with repeatable instructions </p> <p> <a href=\"https://www.producthunt.com/products/perplexity-computer-skills?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089910?app_id=339\">Link</a> </p>",
+        "summary": "Extend Computer’s capabilities with repeatable instructions "
+      },
+      {
+        "title": "ClawMote",
+        "link": "https://www.producthunt.com/products/clawmote-one-hand-openclaw-wispr-flow",
+        "desc": "<p> One-hand OpenClaw control via voice </p> <p> <a href=\"https://www.producthunt.com/products/clawmote-one-hand-openclaw-wispr-flow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096857?app_id=339\">Link</a> </p>",
+        "summary": "One-hand OpenClaw control via voice "
+      },
+      {
+        "title": "doXmind",
+        "link": "https://www.producthunt.com/products/doxmind",
+        "desc": "<p> The AI editor Notion should have built </p> <p> <a href=\"https://www.producthunt.com/products/doxmind?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095945?app_id=339\">Link</a> </p>",
+        "summary": "The AI editor Notion should have built "
+      },
+      {
+        "title": "MascotVibe",
+        "link": "https://www.producthunt.com/products/mascotvibe",
+        "desc": "<p> Generate & animate brand mascots in minutes </p> <p> <a href=\"https://www.producthunt.com/products/mascotvibe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096489?app_id=339\">Link</a> </p>",
+        "summary": "Generate & animate brand mascots in minutes "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
