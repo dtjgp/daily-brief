@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-14",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+        "link": "https://claude.com/blog/1m-context-ga",
+        "score": 621,
+        "desc": "",
+        "summary": "这条主要讨论「1M context is now generally …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "A Survival Guide to a PhD (2016)",
+        "link": "http://karpathy.github.io/2016/09/07/phd/",
+        "score": 60,
+        "desc": "",
+        "summary": "这条主要讨论「A Survival Guide to a PhD (2…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Emacs and Vim in the Age of AI",
+        "link": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
+        "score": 107,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+        "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+        "score": 537,
+        "desc": "",
+        "summary": "这条主要讨论「Qatar helium shutdown puts c…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "You gotta think outside the hypercube",
+        "link": "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube",
+        "score": 31,
+        "desc": "",
+        "summary": "这条主要讨论「You gotta think outside the …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+        "link": "https://channelsurfer.tv",
+        "score": 486,
+        "desc": "I know, it&#x27;s a very first-world problem. But in my house, we have a hard time deciding what to watch. Too many options!So I made this to recreate Cable TV for YouTube. I made it so it runs in the browser. Quickly import your subscriptions in the browser via a bookmarklet. No accounts, no sign-ins. Just quickly import your data locally.",
+        "summary": "I know, it&#x27;s a very first-world problem."
+      },
+      {
+        "title": "I found 39 Algolia admin keys exposed across open source documentation sites",
+        "link": "https://benzimmermann.dev/blog/algolia-docsearch-admin-keys",
+        "score": 120,
+        "desc": "",
+        "summary": "偏开源工具链更新，适合评估是否纳入你的日常工作流。"
+      },
+      {
+        "title": "Mouser: An open source alternative to Logi-Plus mouse software",
+        "link": "https://github.com/TomBadash/MouseControl",
+        "score": 288,
+        "desc": "I discovered this project because all-of-a-sudden Logi Options Plus software updater started taking 40-60% of my Intel Macbook Pro until I killed the process (of course it restarts). In my searches I ended up at a reddit discussion where I found other people with same issues.I&#x27;m a minor contributor to this project but it aims to reduce&#x2F;eliminate the need to use Logitech proprietary software and telemetry. We could use help if other people are interested.Please check out the github link for more detailed motivations (eliminating telemetry) as a part of this project. Here is link: https:&#x2F;&#x2F;github.com&#x2F;TomBadash&#x2F;MouseControl",
+        "summary": "I discovered this project because all-of-a-sudden Logi Options Plus software updater started taking 40-60% of my Intel M"
+      },
+      {
+        "title": "Hammerspoon",
+        "link": "https://github.com/Hammerspoon/hammerspoon",
+        "score": 275,
+        "desc": "",
+        "summary": "这条主要讨论「Hammerspoon」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Atari 2600 BASIC Programming (2015)",
+        "link": "https://huguesjohnson.com/programming/atari-2600-basic/",
+        "score": 20,
+        "desc": "",
+        "summary": "这条主要讨论「Atari 2600 BASIC Programming…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "microsoft/BitNet",
+        "link": "https://github.com/microsoft/BitNet",
+        "score": "34,339",
+        "desc": "Star microsoft / BitNet Official inference framework for 1-bit LLMs",
+        "summary": "Star microsoft / BitNet Official inference framework for 1-bit LLMs"
+      },
+      {
+        "title": "langflow-ai/openrag",
+        "link": "https://github.com/langflow-ai/openrag",
+        "score": "2,415",
+        "desc": "Star langflow-ai / openrag OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+        "summary": "Star langflow-ai / openrag OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on L"
+      },
+      {
+        "title": "lightpanda-io/browser",
+        "link": "https://github.com/lightpanda-io/browser",
+        "score": "16,051",
+        "desc": "Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automation",
+        "summary": "Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automation"
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "82,300",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "public-apis/public-apis",
+        "link": "https://github.com/public-apis/public-apis",
+        "score": "409,826",
+        "desc": "Star public-apis / public-apis A collective list of free APIs",
+        "summary": "Star public-apis / public-apis A collective list of free APIs"
+      },
+      {
+        "title": "promptfoo/promptfoo",
+        "link": "https://github.com/promptfoo/promptfoo",
+        "score": "15,518",
+        "desc": "Star promptfoo / promptfoo Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+        "summary": "Star promptfoo / promptfoo Test your prompts, agents, and RAGs."
+      },
+      {
+        "title": "msitarzewski/agency-agents",
+        "link": "https://github.com/msitarzewski/agency-agents",
+        "score": "41,350",
+        "desc": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "summary": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit comm"
+      },
+      {
+        "title": "dolthub/dolt",
+        "link": "https://github.com/dolthub/dolt",
+        "score": "21,204",
+        "desc": "Sponsor Star dolthub / dolt Dolt – Git for Data",
+        "summary": "Sponsor Star dolthub / dolt Dolt – Git for Data"
+      },
+      {
+        "title": "google/A2UI",
+        "link": "https://github.com/google/A2UI",
+        "score": "13,139",
+        "desc": "",
+        "summary": "这条主要讨论「google/A2UI」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "fishaudio/fish-speech",
+        "link": "https://github.com/fishaudio/fish-speech",
+        "score": "26,974",
+        "desc": "Star fishaudio / fish-speech SOTA Open Source TTS",
+        "summary": "Star fishaudio / fish-speech SOTA Open Source TTS"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Docket",
+        "link": "https://www.producthunt.com/products/docket-4",
+        "desc": "<p> Like Jira but for indie devs and AI agents </p> <p> <a href=\"https://www.producthunt.com/products/docket-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097887?app_id=339\">Link</a> </p>",
+        "summary": "Like Jira but for indie devs and AI agents "
+      },
+      {
+        "title": "Struct",
+        "link": "https://www.producthunt.com/products/struct-2",
+        "desc": "<p> AI agent that root-causes engineering alerts </p> <p> <a href=\"https://www.producthunt.com/products/struct-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090110?app_id=339\">Link</a> </p>",
+        "summary": "AI agent that root-causes engineering alerts "
+      },
+      {
+        "title": "Tellus",
+        "link": "https://www.producthunt.com/products/tellus-3",
+        "desc": "<p> Grandpa’s stories, preserved for his grandkids </p> <p> <a href=\"https://www.producthunt.com/products/tellus-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097978?app_id=339\">Link</a> </p>",
+        "summary": "Grandpa’s stories, preserved for his grandkids "
+      },
+      {
+        "title": "MyNextBrowser",
+        "link": "https://www.producthunt.com/products/mynextbrowser",
+        "desc": "<p> Make any browser agentic and automate workflows </p> <p> <a href=\"https://www.producthunt.com/products/mynextbrowser?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1081827?app_id=339\">Link</a> </p>",
+        "summary": "Make any browser agentic and automate workflows "
+      },
+      {
+        "title": "Socra",
+        "link": "https://www.producthunt.com/products/socra-socratic-ai-tutor-partner",
+        "desc": "<p> From Curiosity to Mastery: Socrates-Powered Learning </p> <p> <a href=\"https://www.producthunt.com/products/socra-socratic-ai-tutor-partner?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087299?app_id=339\">Link</a> </p>",
+        "summary": "From Curiosity to Mastery: Socrates-Powered Learning "
+      },
+      {
+        "title": "Lemon",
+        "link": "https://www.producthunt.com/products/lemon-3",
+        "desc": "<p> Voice-Powered AI Agent That Turns Speech Into Done Tasks </p> <p> <a href=\"https://www.producthunt.com/products/lemon-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082821?app_id=339\">Link</a> </p>",
+        "summary": "Voice-Powered AI Agent That Turns Speech Into Done Tasks "
+      },
+      {
+        "title": "Agent 37",
+        "link": "https://www.producthunt.com/products/agent-37",
+        "desc": "<p> Your own OpenClaw instance for $3.99/mo </p> <p> <a href=\"https://www.producthunt.com/products/agent-37?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1089061?app_id=339\">Link</a> </p>",
+        "summary": "Your own OpenClaw instance for $3.99/mo "
+      },
+      {
+        "title": "Rainfrog",
+        "link": "https://www.producthunt.com/products/rainfrog-2",
+        "desc": "<p> Mix, match, and create stunning consistent campaign visuals </p> <p> <a href=\"https://www.producthunt.com/products/rainfrog-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091613?app_id=339\">Link</a> </p>",
+        "summary": "Mix, match, and create stunning consistent campaign visuals "
+      },
+      {
+        "title": "Lingofable",
+        "link": "https://www.producthunt.com/products/lingofable",
+        "desc": "<p> Language learning, one story at a time </p> <p> <a href=\"https://www.producthunt.com/products/lingofable?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097799?app_id=339\">Link</a> </p>",
+        "summary": "Language learning, one story at a time "
+      },
+      {
+        "title": "Startup Archive",
+        "link": "https://www.producthunt.com/products/startup-archive-2",
+        "desc": "<p> Stop burning money keeping your startup online </p> <p> <a href=\"https://www.producthunt.com/products/startup-archive-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097064?app_id=339\">Link</a> </p>",
+        "summary": "Stop burning money keeping your startup online "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
