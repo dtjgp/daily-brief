@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-15",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Rack-mount hydroponics",
+        "link": "https://sa.lj.am/rack-mount-hydroponics/",
+        "score": 119,
+        "desc": "",
+        "summary": "这条主要讨论「Rack-mount hydroponics」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Why Mathematica does not simplify sinh(arccosh(x))",
+        "link": "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/",
+        "score": 38,
+        "desc": "",
+        "summary": "这条主要讨论「Why Mathematica does not sim…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+        "link": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+        "score": 74,
+        "desc": "",
+        "summary": "这条主要讨论「Treasure hunter freed from j…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "A most elegant TCP hole punching algorithm",
+        "link": "https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html",
+        "score": 64,
+        "desc": "",
+        "summary": "这条主要讨论「A most elegant TCP hole punc…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "How kernel anti-cheats work",
+        "link": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
+        "score": 146,
+        "desc": "",
+        "summary": "这条主要讨论「How kernel anti-cheats work」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Han – A Korean programming language written in Rust",
+        "link": "https://github.com/xodn348/han",
+        "score": 164,
+        "desc": "A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks.That inspired me — if AI can rewrite a whole language stack that fast, I wanted to try building a programming language from scratch with AI assistance.I&#x27;ve also been noticing growing global interest in Korean language and culture, and I wondered: what would a programming language look like if every keyword was in Hangul (the Korean writing system)?Han is the result. It&#x27;s a statically-typed language written in Rust with a full compiler pipeline (lexer → parser → AST → interpreter + LLVM IR codegen).It supports arrays, structs with impl blocks, closures, pattern matching, try&#x2F;catch, file I&#x2F;O, module imports, a REPL, and a basic LSP server.This is a side project, not a &quot;you should use this instead of Python&quot; pitch. Feedback on language design, compiler architecture, or the Korean keyword choices is very welcome.https:&#x2F;&#x2F;github.com&#x2F;xodn348&#x2F;han",
+        "summary": "A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks.That in"
+      },
+      {
+        "title": "Ageless Linux – Software for humans of indeterminate age",
+        "link": "https://agelesslinux.org/",
+        "score": 577,
+        "desc": "",
+        "summary": "这条主要讨论「Ageless Linux – Software for…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Allow me to get to know you, mistakes and all",
+        "link": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
+        "score": 119,
+        "desc": "",
+        "summary": "这条主要讨论「Allow me to get to know you,…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Mathematics Distillation Challenge – Equational Theories",
+        "link": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
+        "score": 65,
+        "desc": "",
+        "summary": "这条主要讨论「Mathematics Distillation Cha…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Tree Search Distillation for Language Models Using PPO",
+        "link": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+        "score": 54,
+        "desc": "",
+        "summary": "这条主要讨论「Tree Search Distillation for…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "volcengine/OpenViking",
+        "link": "https://github.com/volcengine/OpenViking",
+        "score": "11,161",
+        "desc": "Star volcengine / OpenViking OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+        "summary": "Star volcengine / OpenViking OpenViking is an open-source context database designed specifically for AI Agents(such as o"
+      },
+      {
+        "title": "anthropics/claude-plugins-official",
+        "link": "https://github.com/anthropics/claude-plugins-official",
+        "score": "11,506",
+        "desc": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "summary": "Star anthropics / claude-plugins-official Official, Anthropic-managed directory of high quality Claude Code Plugins."
+      },
+      {
+        "title": "dimensionalOS/dimos",
+        "link": "https://github.com/dimensionalOS/dimos",
+        "score": "970",
+        "desc": "Star dimensionalOS / dimos Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
+        "summary": "Star dimensionalOS / dimos Dimensional is the agentic operating system for physical space."
+      },
+      {
+        "title": "p-e-w/heretic",
+        "link": "https://github.com/p-e-w/heretic",
+        "score": "14,096",
+        "desc": "Star p-e-w / heretic Fully automatic censorship removal for language models",
+        "summary": "Star p-e-w / heretic Fully automatic censorship removal for language models"
+      },
+      {
+        "title": "langflow-ai/openrag",
+        "link": "https://github.com/langflow-ai/openrag",
+        "score": "2,842",
+        "desc": "Star langflow-ai / openrag OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+        "summary": "Star langflow-ai / openrag OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on L"
+      },
+      {
+        "title": "lightpanda-io/browser",
+        "link": "https://github.com/lightpanda-io/browser",
+        "score": "17,478",
+        "desc": "Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automation",
+        "summary": "Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automation"
+      },
+      {
+        "title": "msitarzewski/agency-agents",
+        "link": "https://github.com/msitarzewski/agency-agents",
+        "score": "44,690",
+        "desc": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+        "summary": "Sponsor Star msitarzewski / agency-agents A complete AI agency at your fingertips - From frontend wizards to Reddit comm"
+      },
+      {
+        "title": "fishaudio/fish-speech",
+        "link": "https://github.com/fishaudio/fish-speech",
+        "score": "27,348",
+        "desc": "Star fishaudio / fish-speech SOTA Open Source TTS",
+        "summary": "Star fishaudio / fish-speech SOTA Open Source TTS"
+      },
+      {
+        "title": "InsForge/InsForge",
+        "link": "https://github.com/InsForge/InsForge",
+        "score": "4,318",
+        "desc": "Sponsor Star InsForge / InsForge Give agents everything they need to ship fullstack apps. The backend built for agentic development.",
+        "summary": "Sponsor Star InsForge / InsForge Give agents everything they need to ship fullstack apps."
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "84,028",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Morgen",
+        "link": "https://www.producthunt.com/products/morgen-2",
+        "desc": "<p> Your entire morning in one tab. </p> <p> <a href=\"https://www.producthunt.com/products/morgen-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098491?app_id=339\">Link</a> </p>",
+        "summary": "Your entire morning in one tab."
+      },
+      {
+        "title": "LaterAI",
+        "link": "https://www.producthunt.com/products/laterai-save-read-listen",
+        "desc": "<p> AI-powered reading, 100% on your device </p> <p> <a href=\"https://www.producthunt.com/products/laterai-save-read-listen?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098132?app_id=339\">Link</a> </p>",
+        "summary": "AI-powered reading, 100% on your device "
+      },
+      {
+        "title": "DynamicLake",
+        "link": "https://www.producthunt.com/products/dynamiclake",
+        "desc": "<p> Dynamic Island experience for Mac with apps & notifications </p> <p> <a href=\"https://www.producthunt.com/products/dynamiclake?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097368?app_id=339\">Link</a> </p>",
+        "summary": "Dynamic Island experience for Mac with apps & notifications "
+      },
+      {
+        "title": "ClawSecure",
+        "link": "https://www.producthunt.com/products/clawsecure",
+        "desc": "<p> The only complete security platform for OpenClaw AI agents </p> <p> <a href=\"https://www.producthunt.com/products/clawsecure?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096512?app_id=339\">Link</a> </p>",
+        "summary": "The only complete security platform for OpenClaw AI agents "
+      },
+      {
+        "title": "The Banana App",
+        "link": "https://www.producthunt.com/products/the-banana-app",
+        "desc": "<p> Speak human - Where every word finds its way home </p> <p> <a href=\"https://www.producthunt.com/products/the-banana-app?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1085687?app_id=339\">Link</a> </p>",
+        "summary": "Speak human - Where every word finds its way home "
+      },
+      {
+        "title": "ByteRover Memory System for OpenClaw",
+        "link": "https://www.producthunt.com/products/byterover",
+        "desc": "<p> File-based memory for OpenClaw with >92% retrieval accuracy </p> <p> <a href=\"https://www.producthunt.com/products/byterover?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098238?app_id=339\">Link</a> </p>",
+        "summary": "File-based memory for OpenClaw with >92% retrieval accuracy "
+      },
+      {
+        "title": "Aura Water: Private Hydration",
+        "link": "https://www.producthunt.com/products/aura-water",
+        "desc": "<p> Offline water tracker with a private AI hydration coach </p> <p> <a href=\"https://www.producthunt.com/products/aura-water?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090769?app_id=339\">Link</a> </p>",
+        "summary": "Offline water tracker with a private AI hydration coach "
+      },
+      {
+        "title": "Cal.com Agents",
+        "link": "https://www.producthunt.com/products/cal",
+        "desc": "<p> AI Agents coming to the best scheduling tool </p> <p> <a href=\"https://www.producthunt.com/products/cal?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1097778?app_id=339\">Link</a> </p>",
+        "summary": "AI Agents coming to the best scheduling tool "
+      },
+      {
+        "title": "Motion Software",
+        "link": "https://www.producthunt.com/products/motion-software",
+        "desc": "<p> Modern screen recordings for Windows, made simple. </p> <p> <a href=\"https://www.producthunt.com/products/motion-software?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094732?app_id=339\">Link</a> </p>",
+        "summary": "Modern screen recordings for Windows, made simple."
+      },
+      {
+        "title": "ElevenCreative by ElevenLabs",
+        "link": "https://www.producthunt.com/products/elevencreative-by-elevenlabs",
+        "desc": "<p> The AI creative platform to bring your content to life </p> <p> <a href=\"https://www.producthunt.com/products/elevencreative-by-elevenlabs?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1094999?app_id=339\">Link</a> </p>",
+        "summary": "The AI creative platform to bring your content to life "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
