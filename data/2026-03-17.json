@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-17",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
+        "link": "https://mistral.ai/news/leanstral",
+        "score": 494,
+        "desc": "Lean 4 paper (2021): https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37",
+        "summary": "Lean 4 paper (2021): https:&#x2F;&#x2F;dl.acm.org&#x2F;doi&#x2F;10.1007&#x2F;978-3-030-79876-5_37"
+      },
+      {
+        "title": "The unlikely story of Teardown Multiplayer",
+        "link": "https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html",
+        "score": 43,
+        "desc": "",
+        "summary": "这条主要讨论「The unlikely story of Teardo…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Meta’s renewed commitment to jemalloc",
+        "link": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
+        "score": 429,
+        "desc": "https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc",
+        "summary": "https:&#x2F;&#x2F;github.com&#x2F;jemalloc&#x2F;jemalloc"
+      },
+      {
+        "title": "The “small web” is bigger than you might think",
+        "link": "https://kevinboone.me/small_web_is_big.html",
+        "score": 409,
+        "desc": "",
+        "summary": "这条主要讨论「The “small web” is bigger th…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "The American Healthcare Conundrum",
+        "link": "https://github.com/rexrodeo/american-healthcare-conundrum",
+        "score": 331,
+        "desc": "",
+        "summary": "这条主要讨论「The American Healthcare Conu…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Every layer of review makes you 10x slower",
+        "link": "https://apenwarr.ca/log/20260316",
+        "score": 199,
+        "desc": "",
+        "summary": "这条主要讨论「Every layer of review makes …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Gitana 18: the new flying Ultim trimaran",
+        "link": "https://www.boatnews.com/story/50717/gitana-18-radical-technical-choices-for-the-new-flying-ultim-trimaran",
+        "score": 25,
+        "desc": "",
+        "summary": "这条主要讨论「Gitana 18: the new flying Ul…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "US SEC preparing to scrap quarterly reporting requirement",
+        "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+        "score": 565,
+        "desc": "",
+        "summary": "这条主要讨论「US SEC preparing to scrap qu…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Sci-Fi Short Film “There Is No Antimemetics Division” [video]",
+        "link": "https://www.youtube.com/watch?v=3v8AsTHfAG0",
+        "score": 72,
+        "desc": "",
+        "summary": "偏多模态与内容生成方向，适合关注生产效率与质量提升。"
+      },
+      {
+        "title": "Pyodide: a Python distribution based on WebAssembly",
+        "link": "https://github.com/pyodide/pyodide",
+        "score": 64,
+        "desc": "",
+        "summary": "这条主要讨论「Pyodide: a Python distributi…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "666ghj/MiroFish",
+        "link": "https://github.com/666ghj/MiroFish",
+        "score": "31,186",
+        "desc": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+        "summary": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything."
+      },
+      {
+        "title": "thedotmack/claude-mem",
+        "link": "https://github.com/thedotmack/claude-mem",
+        "score": "37,238",
+        "desc": "Sponsor Star thedotmack / claude-mem A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+        "summary": "Sponsor Star thedotmack / claude-mem A Claude Code plugin that automatically captures everything Claude does during your"
+      },
+      {
+        "title": "Crosstalk-Solutions/project-nomad",
+        "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+        "score": "2,038",
+        "desc": "Star Crosstalk-Solutions / project-nomad Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "summary": "Star Crosstalk-Solutions / project-nomad Project N.O.M.A.D, is a self-contained, offline survival computer packed with c"
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "89,912",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "abhigyanpatwari/GitNexus",
+        "link": "https://github.com/abhigyanpatwari/GitNexus",
+        "score": "15,972",
+        "desc": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "summary": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+      },
+      {
+        "title": "lightpanda-io/browser",
+        "link": "https://github.com/lightpanda-io/browser",
+        "score": "20,591",
+        "desc": "Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automation",
+        "summary": "Star lightpanda-io / browser Lightpanda: the headless browser designed for AI and automation"
+      },
+      {
+        "title": "volcengine/OpenViking",
+        "link": "https://github.com/volcengine/OpenViking",
+        "score": "14,628",
+        "desc": "Star volcengine / OpenViking OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+        "summary": "Star volcengine / OpenViking OpenViking is an open-source context database designed specifically for AI Agents(such as o"
+      },
+      {
+        "title": "shareAI-lab/learn-claude-code",
+        "link": "https://github.com/shareAI-lab/learn-claude-code",
+        "score": "29,805",
+        "desc": "Star shareAI-lab / learn-claude-code Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+        "summary": "Star shareAI-lab / learn-claude-code Bash is all you need - A nano Claude Code–like agent, built from 0 to 1"
+      },
+      {
+        "title": "p-e-w/heretic",
+        "link": "https://github.com/p-e-w/heretic",
+        "score": "15,455",
+        "desc": "Star p-e-w / heretic Fully automatic censorship removal for language models",
+        "summary": "Star p-e-w / heretic Fully automatic censorship removal for language models"
+      },
+      {
+        "title": "langchain-ai/deepagents",
+        "link": "https://github.com/langchain-ai/deepagents",
+        "score": "13,377",
+        "desc": "Star langchain-ai / deepagents Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+        "summary": "Star langchain-ai / deepagents Agent harness built with LangChain and LangGraph."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Easy App Reports",
+        "link": "https://www.producthunt.com/products/easy-app-reports",
+        "desc": "<p> Bring your app's data to Looker Studio, BigQuery, or AI </p> <p> <a href=\"https://www.producthunt.com/products/easy-app-reports?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096626?app_id=339\">Link</a> </p>",
+        "summary": "Bring your app's data to Looker Studio, BigQuery, or AI "
+      },
+      {
+        "title": "My Computer by Manus AI",
+        "link": "https://www.producthunt.com/products/manus",
+        "desc": "<p> Automate files, apps, and workflows with Manus Desktop </p> <p> <a href=\"https://www.producthunt.com/products/manus?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1099924?app_id=339\">Link</a> </p>",
+        "summary": "Automate files, apps, and workflows with Manus Desktop "
+      },
+      {
+        "title": "Parallax",
+        "link": "https://www.producthunt.com/products/parallax-3",
+        "desc": "<p> Local-first AI orchestrator for software development tasks. </p> <p> <a href=\"https://www.producthunt.com/products/parallax-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1099675?app_id=339\">Link</a> </p>",
+        "summary": "Local-first AI orchestrator for software development tasks."
+      },
+      {
+        "title": "ClickSay",
+        "link": "https://www.producthunt.com/products/clicksay",
+        "desc": "<p> Click any element and ClickSay instantly captures it </p> <p> <a href=\"https://www.producthunt.com/products/clicksay?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098356?app_id=339\">Link</a> </p>",
+        "summary": "Click any element and ClickSay instantly captures it "
+      },
+      {
+        "title": "Xeder",
+        "link": "https://www.producthunt.com/products/xeder",
+        "desc": "<p> Your X.com feed as a podcast </p> <p> <a href=\"https://www.producthunt.com/products/xeder?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098388?app_id=339\">Link</a> </p>",
+        "summary": "Your X.com feed as a podcast "
+      },
+      {
+        "title": "OpenFlags",
+        "link": "https://www.producthunt.com/products/openflags",
+        "desc": "<p> Fast, self-hosted, edge-ready feature flags for modern teams </p> <p> <a href=\"https://www.producthunt.com/products/openflags?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098362?app_id=339\">Link</a> </p>",
+        "summary": "Fast, self-hosted, edge-ready feature flags for modern teams "
+      },
+      {
+        "title": "Kipps.AI Campaign",
+        "link": "https://www.producthunt.com/products/kipps-ai",
+        "desc": "<p> Lead Qualification, Bulk Outreach and Anniversary’s Reminder </p> <p> <a href=\"https://www.producthunt.com/products/kipps-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088878?app_id=339\">Link</a> </p>",
+        "summary": "Lead Qualification, Bulk Outreach and Anniversary’s Reminder "
+      },
+      {
+        "title": "Usercall Triggers",
+        "link": "https://www.producthunt.com/products/usercall",
+        "desc": "<p> Talk to users the moment behavior changes </p> <p> <a href=\"https://www.producthunt.com/products/usercall?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100526?app_id=339\">Link</a> </p>",
+        "summary": "Talk to users the moment behavior changes "
+      },
+      {
+        "title": "openviktor.com",
+        "link": "https://www.producthunt.com/products/openviktor-com",
+        "desc": "<p> Hire your AI employee for any role </p> <p> <a href=\"https://www.producthunt.com/products/openviktor-com?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100280?app_id=339\">Link</a> </p>",
+        "summary": "Hire your AI employee for any role "
+      },
+      {
+        "title": "Folderly",
+        "link": "https://www.producthunt.com/products/folderly",
+        "desc": "<p> Get revenue from every email campaign with 99.9% inbox rate </p> <p> <a href=\"https://www.producthunt.com/products/folderly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100061?app_id=339\">Link</a> </p>",
+        "summary": "Get revenue from every email campaign with 99.9% inbox rate "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
