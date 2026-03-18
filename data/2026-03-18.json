@@ -1,0 +1,235 @@
+{
+  "date": "2026-03-18",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "JPEG Compression",
+        "link": "https://www.sophielwang.com/blog/jpeg",
+        "score": 121,
+        "desc": "",
+        "summary": "这条主要讨论「JPEG Compression」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Write up of my homebrew CPU build",
+        "link": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+        "score": 32,
+        "desc": "",
+        "summary": "这条主要讨论「Write up of my homebrew CPU …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Mistral AI Releases Forge",
+        "link": "https://mistral.ai/news/forge",
+        "score": 398,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "A Decade of Slug",
+        "link": "https://terathon.com/blog/decade-slug.html",
+        "score": 582,
+        "desc": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260317185928&#x2F;https:&#x2F;&#x2F;terathon....",
+        "summary": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260317185928&#x2F;https:&#x2F;&#x2F;terathon...."
+      },
+      {
+        "title": "Celebrating Tony Hoare's mark on computer science",
+        "link": "https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/",
+        "score": 10,
+        "desc": "",
+        "summary": "这条主要讨论「Celebrating Tony Hoare's mar…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'",
+        "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
+        "score": 659,
+        "desc": "",
+        "summary": "这条主要讨论「Microsoft's 'unhackable' Xbo…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Python 3.15's JIT is now back on track",
+        "link": "https://fidget-spinner.github.io/posts/jit-on-track.html",
+        "score": 364,
+        "desc": "",
+        "summary": "这条主要讨论「Python 3.15's JIT is now bac…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "More than 135 open hardware devices flashable with your own firmware",
+        "link": "https://openhardware.directory",
+        "score": 203,
+        "desc": "",
+        "summary": "这条主要讨论「More than 135 open hardware …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
+        "link": "https://ndea.com/jobs/search-guidance",
+        "score": 1,
+        "desc": "",
+        "summary": "这条主要讨论「Ndea (YC W26) is hiring a sy…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: Pgit – A Git-like CLI backed by PostgreSQL",
+        "link": "https://oseifert.ch/blog/building-pgit",
+        "score": 20,
+        "desc": "",
+        "summary": "偏开源工具链更新，适合评估是否纳入你的日常工作流。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "93,904",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "codecrafters-io/build-your-own-x",
+        "link": "https://github.com/codecrafters-io/build-your-own-x",
+        "score": "480,415",
+        "desc": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch.",
+        "summary": "Star codecrafters-io / build-your-own-x Master programming by recreating your favorite technologies from scratch."
+      },
+      {
+        "title": "abhigyanpatwari/GitNexus",
+        "link": "https://github.com/abhigyanpatwari/GitNexus",
+        "score": "17,119",
+        "desc": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+        "summary": "Sponsor Star abhigyanpatwari / GitNexus GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+      },
+      {
+        "title": "langchain-ai/deepagents",
+        "link": "https://github.com/langchain-ai/deepagents",
+        "score": "14,589",
+        "desc": "Star langchain-ai / deepagents Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+        "summary": "Star langchain-ai / deepagents Agent harness built with LangChain and LangGraph."
+      },
+      {
+        "title": "jarrodwatts/claude-hud",
+        "link": "https://github.com/jarrodwatts/claude-hud",
+        "score": "6,057",
+        "desc": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "summary": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running ag"
+      },
+      {
+        "title": "cloudflare/workerd",
+        "link": "https://github.com/cloudflare/workerd",
+        "score": "7,924",
+        "desc": "Star cloudflare / workerd The JavaScript / Wasm runtime that powers Cloudflare Workers",
+        "summary": "Star cloudflare / workerd The JavaScript / Wasm runtime that powers Cloudflare Workers"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "GPT‑5.4 mini and nano",
+        "link": "https://www.producthunt.com/products/openai",
+        "desc": "<p> Fast and efficient models optimized for coding and subagents </p> <p> <a href=\"https://www.producthunt.com/products/openai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100961?app_id=339\">Link</a> </p>",
+        "summary": "Fast and efficient models optimized for coding and subagents "
+      },
+      {
+        "title": "Soul 2.0",
+        "link": "https://www.producthunt.com/products/soul-2-0",
+        "desc": "<p> Fashion-Grade AI Photos Without the Camera Crew </p> <p> <a href=\"https://www.producthunt.com/products/soul-2-0?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083355?app_id=339\">Link</a> </p>",
+        "summary": "Fashion-Grade AI Photos Without the Camera Crew "
+      },
+      {
+        "title": "Lightfield",
+        "link": "https://www.producthunt.com/products/lightfield",
+        "desc": "<p> AI-native CRM that builds itself and does work for you </p> <p> <a href=\"https://www.producthunt.com/products/lightfield?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1090041?app_id=339\">Link</a> </p>",
+        "summary": "AI-native CRM that builds itself and does work for you "
+      },
+      {
+        "title": "Permit.io MCP Gateway",
+        "link": "https://www.producthunt.com/products/permit-io",
+        "desc": "<p> Drop-in MCP Security Developers Love and CISOs Trust </p> <p> <a href=\"https://www.producthunt.com/products/permit-io?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100086?app_id=339\">Link</a> </p>",
+        "summary": "Drop-in MCP Security Developers Love and CISOs Trust "
+      },
+      {
+        "title": "Genie by Databox",
+        "link": "https://www.producthunt.com/products/databox",
+        "desc": "<p> Your AI analyst for business performance </p> <p> <a href=\"https://www.producthunt.com/products/databox?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093683?app_id=339\">Link</a> </p>",
+        "summary": "Your AI analyst for business performance "
+      },
+      {
+        "title": "Banyan AI Lite",
+        "link": "https://www.producthunt.com/products/banyan-ai-lite",
+        "desc": "<p> AI detecting & preventing SaaS churn </p> <p> <a href=\"https://www.producthunt.com/products/banyan-ai-lite?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1095408?app_id=339\">Link</a> </p>",
+        "summary": "AI detecting & preventing SaaS churn "
+      },
+      {
+        "title": "UseAgents",
+        "link": "https://www.producthunt.com/products/useagents",
+        "desc": "<p> Define tools once for agents use them everywhere </p> <p> <a href=\"https://www.producthunt.com/products/useagents?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1099950?app_id=339\">Link</a> </p>",
+        "summary": "Define tools once for agents use them everywhere "
+      },
+      {
+        "title": "Forvibe for macOS",
+        "link": "https://www.producthunt.com/products/forvibe",
+        "desc": "<p> Everything between your build and the App Store </p> <p> <a href=\"https://www.producthunt.com/products/forvibe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083866?app_id=339\">Link</a> </p>",
+        "summary": "Everything between your build and the App Store "
+      },
+      {
+        "title": "MS AUTO CAPTIONS",
+        "link": "https://www.producthunt.com/products/ms-auto-captions",
+        "desc": "<p> Generate trending subtitles for videos automatically with AI </p> <p> <a href=\"https://www.producthunt.com/products/ms-auto-captions?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100224?app_id=339\">Link</a> </p>",
+        "summary": "Generate trending subtitles for videos automatically with AI "
+      },
+      {
+        "title": "MetricMap",
+        "link": "https://www.producthunt.com/products/metricmap-analytics-for-saas-e-com",
+        "desc": "<p> Track revenue, ads, web vitals, & user insights in one hub </p> <p> <a href=\"https://www.producthunt.com/products/metricmap-analytics-for-saas-e-com?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1099602?app_id=339\">Link</a> </p>",
+        "summary": "Track revenue, ads, web vitals, & user insights in one hub "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
