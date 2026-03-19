@@ -1,0 +1,235 @@
+{
+  "date": "2026-03-19",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "Cook: A simple CLI for orchestrating Claude Code",
+        "link": "https://rjcorwin.github.io/cook/",
+        "score": 162,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Conway's Game of Life, in real life",
+        "link": "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life",
+        "score": 71,
+        "desc": "",
+        "summary": "这条主要讨论「Conway's Game of Life, in re…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe",
+        "link": "https://gitlab.com/IsolatedOctopi/nvidia_greenboost",
+        "score": 293,
+        "desc": "",
+        "summary": "这条主要讨论「Nvidia greenboost: transpare…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Warranty Void If Regenerated",
+        "link": "https://nearzero.software/p/warranty-void-if-regenerated",
+        "score": 307,
+        "desc": "As an experiment I started asking Claude to explain things to me with a fiction story and it ended up being really good, so I started seeing how far I could take it and what it would take to polish it enough to share publicly.Over the last couple months, I&#x27;ve been building world bibles, writing and visual style guides, and other documents for this project… think the fiction equivalent of all the markdown files we use for agentic development now. After that, this was about two weeks of additional polish work to cut out a lot of fluff and a lot of the LLM-isms. Happy to answer any questions about the process too if that would be interesting to anybody.",
+        "summary": "As an experiment I started asking Claude to explain things to me with a fiction story and it ended up being really good,"
+      },
+      {
+        "title": "OpenRocket",
+        "link": "https://openrocket.info/",
+        "score": 526,
+        "desc": "",
+        "summary": "这条主要讨论「OpenRocket」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "A sufficiently detailed spec is code",
+        "link": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+        "score": 308,
+        "desc": "",
+        "summary": "这条主要讨论「A sufficiently detailed spec…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Autoresearch for SAT Solvers",
+        "link": "https://github.com/iliazintchenko/agent-sat",
+        "score": 113,
+        "desc": "",
+        "summary": "这条主要讨论「Autoresearch for SAT Solvers」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "We Have Learned Nothing",
+        "link": "https://colossus.com/article/we-have-learned-nothing-startup-pundits/",
+        "score": 48,
+        "desc": "",
+        "summary": "这条主要讨论「We Have Learned Nothing」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "LotusNotes",
+        "link": "https://computer.rip/2026-03-14-lotusnotes.html",
+        "score": 63,
+        "desc": "",
+        "summary": "这条主要讨论「LotusNotes」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Austin’s surge of new housing construction drove down rents",
+        "link": "https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents",
+        "score": 502,
+        "desc": "",
+        "summary": "这条主要讨论「Austin’s surge of new housin…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "jarrodwatts/claude-hud",
+        "link": "https://github.com/jarrodwatts/claude-hud",
+        "score": "7,774",
+        "desc": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "summary": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running ag"
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "97,361",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "unslothai/unsloth",
+        "link": "https://github.com/unslothai/unsloth",
+        "score": "56,195",
+        "desc": "Sponsor Star unslothai / unsloth Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+        "summary": "Sponsor Star unslothai / unsloth Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Ge"
+      },
+      {
+        "title": "newton-physics/newton",
+        "link": "https://github.com/newton-physics/newton",
+        "score": "3,041",
+        "desc": "Star newton-physics / newton An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+        "summary": "Star newton-physics / newton An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifica"
+      },
+      {
+        "title": "shadps4-emu/shadPS4",
+        "link": "https://github.com/shadps4-emu/shadPS4",
+        "score": "30,048",
+        "desc": "Star shadps4-emu / shadPS4 PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+        "summary": "Star shadps4-emu / shadPS4 PlayStation 4 emulator for Windows, Linux and macOS written in C++"
+      },
+      {
+        "title": "langchain-ai/open-swe",
+        "link": "https://github.com/langchain-ai/open-swe",
+        "score": "6,651",
+        "desc": "Star langchain-ai / open-swe An Open-Source Asynchronous Coding Agent",
+        "summary": "Star langchain-ai / open-swe An Open-Source Asynchronous Coding Agent"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Pluto Door",
+        "link": "https://www.producthunt.com/products/pluto-door",
+        "desc": "<p> Secure MacOS SSH with AI editor, file browser, drag-drop </p> <p> <a href=\"https://www.producthunt.com/products/pluto-door?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093800?app_id=339\">Link</a> </p>",
+        "summary": "Secure MacOS SSH with AI editor, file browser, drag-drop "
+      },
+      {
+        "title": "Machine Payments Protocol",
+        "link": "https://www.producthunt.com/products/stripe",
+        "desc": "<p> The internet-native payment standard for AI agents </p> <p> <a href=\"https://www.producthunt.com/products/stripe?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101790?app_id=339\">Link</a> </p>",
+        "summary": "The internet-native payment standard for AI agents "
+      },
+      {
+        "title": "Budibase AI Agents",
+        "link": "https://www.producthunt.com/products/budibase",
+        "desc": "<p> AI agents that run your operations (Open source) </p> <p> <a href=\"https://www.producthunt.com/products/budibase?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101735?app_id=339\">Link</a> </p>",
+        "summary": "AI agents that run your operations (Open source) "
+      },
+      {
+        "title": "Lucent",
+        "link": "https://www.producthunt.com/products/lucent-3",
+        "desc": "<p> AI that watches your session replays and detects issues </p> <p> <a href=\"https://www.producthunt.com/products/lucent-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093458?app_id=339\">Link</a> </p>",
+        "summary": "AI that watches your session replays and detects issues "
+      },
+      {
+        "title": "Comet for iOS",
+        "link": "https://www.producthunt.com/products/perplexity-ai",
+        "desc": "<p> Agentic AI browser and assistant for mobile by Perplexity </p> <p> <a href=\"https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1082352?app_id=339\">Link</a> </p>",
+        "summary": "Agentic AI browser and assistant for mobile by Perplexity "
+      },
+      {
+        "title": "Offload",
+        "link": "https://www.producthunt.com/products/imbue-7",
+        "desc": "<p> Parallelize tests across 200+ cloud sandboxes in one command </p> <p> <a href=\"https://www.producthunt.com/products/imbue-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102202?app_id=339\">Link</a> </p>",
+        "summary": "Parallelize tests across 200+ cloud sandboxes in one command "
+      },
+      {
+        "title": "Tracium.ai",
+        "link": "https://www.producthunt.com/products/tracium-ai",
+        "desc": "<p> Track AI Agents with a single line of code </p> <p> <a href=\"https://www.producthunt.com/products/tracium-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101516?app_id=339\">Link</a> </p>",
+        "summary": "Track AI Agents with a single line of code "
+      },
+      {
+        "title": "Comet for iOS",
+        "link": "https://www.producthunt.com/products/comet-5",
+        "desc": "<p> Perplexity's AI browser & assistant </p> <p> <a href=\"https://www.producthunt.com/products/comet-5?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101837?app_id=339\">Link</a> </p>",
+        "summary": "Perplexity's AI browser & assistant "
+      },
+      {
+        "title": "Scheduled",
+        "link": "https://www.producthunt.com/products/scheduled-2",
+        "desc": "<p> Open source AI calendar scheduler that lives in Gmail </p> <p> <a href=\"https://www.producthunt.com/products/scheduled-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102101?app_id=339\">Link</a> </p>",
+        "summary": "Open source AI calendar scheduler that lives in Gmail "
+      },
+      {
+        "title": "Link AI",
+        "link": "https://www.producthunt.com/products/link-ai",
+        "desc": "<p> The Agentic Business Suite that replaces your entire stack </p> <p> <a href=\"https://www.producthunt.com/products/link-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102058?app_id=339\">Link</a> </p>",
+        "summary": "The Agentic Business Suite that replaces your entire stack "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
