@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-20",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "ArXiv Declares Independence from Cornell",
+        "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+        "score": 211,
+        "desc": "",
+        "summary": "这条主要讨论「ArXiv Declares Independence …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Google details new 24-hour process to sideload unverified Android apps",
+        "link": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+        "score": 759,
+        "desc": "https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2026&#x2F;03&#x2F;android-de...",
+        "summary": "https:&#x2F;&#x2F;android-developers.googleblog.com&#x2F;2026&#x2F;03&#x2F;android-de..."
+      },
+      {
+        "title": "FSF Threatens Anthropic over Infringed Copyright: Share Your LLMs Freel",
+        "link": "https://www.fsf.org/blogs/licensing/2026-anthropic-settlement",
+        "score": 69,
+        "desc": "",
+        "summary": "这条主要讨论「FSF Threatens Anthropic over…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Push events into a running session with channels",
+        "link": "https://code.claude.com/docs/en/channels",
+        "score": 319,
+        "desc": "",
+        "summary": "这条主要讨论「Push events into a running s…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Full Disclosure: A Third (and Fourth) Azure Sign-In Log Bypass Found",
+        "link": "https://trustedsec.com/blog/full-disclosure-a-third-and-fourth-azure-sign-in-log-bypass-found",
+        "score": 128,
+        "desc": "",
+        "summary": "这条主要讨论「Full Disclosure: A Third (an…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Building a Reader for the Smallest Hard Drive",
+        "link": "https://www.willwhang.dev/Reading-MK4001MTD/",
+        "score": 22,
+        "desc": "",
+        "summary": "这条主要讨论「Building a Reader for the Sm…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Drugwars for the TI-82/83/83 Calculators (2011)",
+        "link": "https://gist.github.com/mattmanning/1002653/b7a1e88479a10eaae3bd5298b8b2c86e16fb4404",
+        "score": 131,
+        "desc": "",
+        "summary": "这条主要讨论「Drugwars for the TI-82/83/83…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Cockpit is a web-based graphical interface for servers",
+        "link": "https://github.com/cockpit-project/cockpit",
+        "score": 248,
+        "desc": "",
+        "summary": "这条主要讨论「Cockpit is a web-based graph…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game",
+        "link": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+        "score": 346,
+        "desc": "",
+        "summary": "这条主要讨论「Return of the Obra Dinn: sph…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "How the Turner twins are mythbusting modern technical apparel",
+        "link": "https://www.carryology.com/insights/how-the-turner-twins-are-mythbusting-modern-gear/",
+        "score": 207,
+        "desc": "",
+        "summary": "这条主要讨论「How the Turner twins are myt…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "opendataloader-project/opendataloader-pdf",
+        "link": "https://github.com/opendataloader-project/opendataloader-pdf",
+        "score": "6,345",
+        "desc": "Star opendataloader-project / opendataloader-pdf PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+        "summary": "Star opendataloader-project / opendataloader-pdf PDF Parser for AI-ready data."
+      },
+      {
+        "title": "langchain-ai/open-swe",
+        "link": "https://github.com/langchain-ai/open-swe",
+        "score": "7,288",
+        "desc": "Star langchain-ai / open-swe An Open-Source Asynchronous Coding Agent",
+        "summary": "Star langchain-ai / open-swe An Open-Source Asynchronous Coding Agent"
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "100,255",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "jarrodwatts/claude-hud",
+        "link": "https://github.com/jarrodwatts/claude-hud",
+        "score": "8,911",
+        "desc": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "summary": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running ag"
+      },
+      {
+        "title": "unslothai/unsloth",
+        "link": "https://github.com/unslothai/unsloth",
+        "score": "56,928",
+        "desc": "Sponsor Star unslothai / unsloth Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+        "summary": "Sponsor Star unslothai / unsloth Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Ge"
+      },
+      {
+        "title": "mobile-dev-inc/Maestro",
+        "link": "https://github.com/mobile-dev-inc/Maestro",
+        "score": "12,658",
+        "desc": "Star mobile-dev-inc / Maestro Painless E2E Automation for Mobile and Web",
+        "summary": "Star mobile-dev-inc / Maestro Painless E2E Automation for Mobile and Web"
+      },
+      {
+        "title": "tw93/Mole",
+        "link": "https://github.com/tw93/Mole",
+        "score": "42,370",
+        "desc": "Sponsor Star tw93 / Mole 🐹 Deep clean and optimize your Mac.",
+        "summary": "Sponsor Star tw93 / Mole 🐹 Deep clean and optimize your Mac."
+      },
+      {
+        "title": "newton-physics/newton",
+        "link": "https://github.com/newton-physics/newton",
+        "score": "3,307",
+        "desc": "Star newton-physics / newton An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+        "summary": "Star newton-physics / newton An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifica"
+      },
+      {
+        "title": "louis-e/arnis",
+        "link": "https://github.com/louis-e/arnis",
+        "score": "11,065",
+        "desc": "Star louis-e / arnis Generate any location from the real world in Minecraft with a high level of detail.",
+        "summary": "Star louis-e / arnis Generate any location from the real world in Minecraft with a high level of detail."
+      },
+      {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+        "score": "16,344",
+        "desc": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online.",
+        "summary": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Cacheless - AI-powered Mac disk cleanup.",
+        "link": "https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup",
+        "desc": "<p> AI-Powered Mac System Data Cleaner </p> <p> <a href=\"https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102176?app_id=339\">Link</a> </p>",
+        "summary": "AI-Powered Mac System Data Cleaner "
+      },
+      {
+        "title": "Room Service",
+        "link": "https://www.producthunt.com/products/room-service-2",
+        "desc": "<p> The Mac cleaner built for developers </p> <p> <a href=\"https://www.producthunt.com/products/room-service-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102760?app_id=339\">Link</a> </p>",
+        "summary": "The Mac cleaner built for developers "
+      },
+      {
+        "title": "Visdiff",
+        "link": "https://www.producthunt.com/products/visdiff",
+        "desc": "<p> Stop bridging the design-to-code gap, close it </p> <p> <a href=\"https://www.producthunt.com/products/visdiff?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102150?app_id=339\">Link</a> </p>",
+        "summary": "Stop bridging the design-to-code gap, close it "
+      },
+      {
+        "title": "Google AI Studio 2.0",
+        "link": "https://www.producthunt.com/products/google-ai-studio-8",
+        "desc": "<p> Full-stack vibe coding powered by Antigravity + Firebase </p> <p> <a href=\"https://www.producthunt.com/products/google-ai-studio-8?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102579?app_id=339\">Link</a> </p>",
+        "summary": "Full-stack vibe coding powered by Antigravity + Firebase "
+      },
+      {
+        "title": "Composer 2 by Cursor",
+        "link": "https://www.producthunt.com/products/cursor",
+        "desc": "<p> Fast, token-efficient frontier-level coding model </p> <p> <a href=\"https://www.producthunt.com/products/cursor?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102589?app_id=339\">Link</a> </p>",
+        "summary": "Fast, token-efficient frontier-level coding model "
+      },
+      {
+        "title": "Looq",
+        "link": "https://www.producthunt.com/products/looq-3",
+        "desc": "<p> Preview Markdown, code, and data files from Quick Look </p> <p> <a href=\"https://www.producthunt.com/products/looq-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102735?app_id=339\">Link</a> </p>",
+        "summary": "Preview Markdown, code, and data files from Quick Look "
+      },
+      {
+        "title": "Context Overflow",
+        "link": "https://www.producthunt.com/products/context-overflow",
+        "desc": "<p> Knowledge Sharing for AI Agents </p> <p> <a href=\"https://www.producthunt.com/products/context-overflow?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102852?app_id=339\">Link</a> </p>",
+        "summary": "Knowledge Sharing for AI Agents "
+      },
+      {
+        "title": "Assembly 2.0",
+        "link": "https://www.producthunt.com/products/assembly-7",
+        "desc": "<p> Build modern client portals for service businesses </p> <p> <a href=\"https://www.producthunt.com/products/assembly-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087184?app_id=339\">Link</a> </p>",
+        "summary": "Build modern client portals for service businesses "
+      },
+      {
+        "title": "MusicLib",
+        "link": "https://www.producthunt.com/products/musiclib",
+        "desc": "<p> The Ultimate Sheet Music Library Solution </p> <p> <a href=\"https://www.producthunt.com/products/musiclib?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102714?app_id=339\">Link</a> </p>",
+        "summary": "The Ultimate Sheet Music Library Solution "
+      },
+      {
+        "title": "AdsTurbo",
+        "link": "https://www.producthunt.com/products/adsturbo-2",
+        "desc": "<p> Create ads with AI actors that look truly human </p> <p> <a href=\"https://www.producthunt.com/products/adsturbo-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100548?app_id=339\">Link</a> </p>",
+        "summary": "Create ads with AI actors that look truly human "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
