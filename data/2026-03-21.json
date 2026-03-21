@@ -1,0 +1,256 @@
+{
+  "date": "2026-03-21",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "OpenCode – Open source AI coding agent",
+        "link": "https://opencode.ai/",
+        "score": 719,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Mamba-3",
+        "link": "https://www.together.ai/blog/mamba-3",
+        "score": 89,
+        "desc": "",
+        "summary": "这条主要讨论「Mamba-3」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Molly Guard",
+        "link": "https://bookofjoe2.blogspot.com/2026/02/molly-guard.html",
+        "score": 87,
+        "desc": "https:&#x2F;&#x2F;en.wiktionary.org&#x2F;wiki&#x2F;molly-guard",
+        "summary": "https:&#x2F;&#x2F;en.wiktionary.org&#x2F;wiki&#x2F;molly-guard"
+      },
+      {
+        "title": "FFmpeg 101 (2024)",
+        "link": "https://blogs.igalia.com/llepage/ffmpeg-101/",
+        "score": 53,
+        "desc": "",
+        "summary": "这条主要讨论「FFmpeg 101 (2024)」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "We rewrote our Rust WASM parser in TypeScript and it got faster",
+        "link": "https://www.openui.com/blog/rust-wasm-parser",
+        "score": 192,
+        "desc": "",
+        "summary": "这条主要讨论「We rewrote our Rust WASM par…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Fujifilm X RAW STUDIO webapp clone",
+        "link": "https://github.com/eggricesoy/filmkit",
+        "score": 25,
+        "desc": "",
+        "summary": "这条主要讨论「Fujifilm X RAW STUDIO webapp…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "A Japanese glossary of chopsticks faux pas",
+        "link": "https://www.nippon.com/en/japan-data/h01362/",
+        "score": 238,
+        "desc": "",
+        "summary": "这条主要讨论「A Japanese glossary of chops…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Ghostling",
+        "link": "https://github.com/ghostty-org/ghostling",
+        "score": 189,
+        "desc": "",
+        "summary": "这条主要讨论「Ghostling」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Linux Applications Programming by Example: The Fundamental APIs (2nd Edition)",
+        "link": "https://github.com/arnoldrobbins/LinuxByExample-2e",
+        "score": 82,
+        "desc": "",
+        "summary": "这条主要讨论「Linux Applications Programmi…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "A look at content scrambling in DVDs",
+        "link": "https://mathweb.ucsd.edu/~crypto/Projects/MarkBarry/",
+        "score": 39,
+        "desc": "",
+        "summary": "这条主要讨论「A look at content scrambling…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "jarrodwatts/claude-hud",
+        "link": "https://github.com/jarrodwatts/claude-hud",
+        "score": "9,862",
+        "desc": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "summary": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running ag"
+      },
+      {
+        "title": "langchain-ai/open-swe",
+        "link": "https://github.com/langchain-ai/open-swe",
+        "score": "7,778",
+        "desc": "Star langchain-ai / open-swe An Open-Source Asynchronous Coding Agent",
+        "summary": "Star langchain-ai / open-swe An Open-Source Asynchronous Coding Agent"
+      },
+      {
+        "title": "obra/superpowers",
+        "link": "https://github.com/obra/superpowers",
+        "score": "102,125",
+        "desc": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works.",
+        "summary": "Sponsor Star obra / superpowers An agentic skills framework &amp; software development methodology that works."
+      },
+      {
+        "title": "opendataloader-project/opendataloader-pdf",
+        "link": "https://github.com/opendataloader-project/opendataloader-pdf",
+        "score": "7,337",
+        "desc": "Star opendataloader-project / opendataloader-pdf PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+        "summary": "Star opendataloader-project / opendataloader-pdf PDF Parser for AI-ready data."
+      },
+      {
+        "title": "louis-e/arnis",
+        "link": "https://github.com/louis-e/arnis",
+        "score": "11,762",
+        "desc": "Star louis-e / arnis Generate any location from the real world in Minecraft with a high level of detail.",
+        "summary": "Star louis-e / arnis Generate any location from the real world in Minecraft with a high level of detail."
+      },
+      {
+        "title": "newton-physics/newton",
+        "link": "https://github.com/newton-physics/newton",
+        "score": "3,543",
+        "desc": "Star newton-physics / newton An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+        "summary": "Star newton-physics / newton An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifica"
+      },
+      {
+        "title": "vas3k/TaxHacker",
+        "link": "https://github.com/vas3k/TaxHacker",
+        "score": "2,089",
+        "desc": "Sponsor Star vas3k / TaxHacker Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+        "summary": "Sponsor Star vas3k / TaxHacker Self-hosted AI accounting app."
+      },
+      {
+        "title": "TauricResearch/TradingAgents",
+        "link": "https://github.com/TauricResearch/TradingAgents",
+        "score": "34,536",
+        "desc": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "summary": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      },
+      {
+        "title": "openrocket/openrocket",
+        "link": "https://github.com/openrocket/openrocket",
+        "score": "2,287",
+        "desc": "Star openrocket / openrocket Model-rocketry aerodynamics and trajectory simulation software",
+        "summary": "Star openrocket / openrocket Model-rocketry aerodynamics and trajectory simulation software"
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "murmur",
+        "link": "https://www.producthunt.com/products/murmur-7",
+        "desc": "<p> practice tough phone calls with AI before you make them </p> <p> <a href=\"https://www.producthunt.com/products/murmur-7?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100470?app_id=339\">Link</a> </p>",
+        "summary": "practice tough phone calls with AI before you make them "
+      },
+      {
+        "title": "Mindspend",
+        "link": "https://www.producthunt.com/products/mindspend",
+        "desc": "<p> Track how you feel about spending, not just the numbers </p> <p> <a href=\"https://www.producthunt.com/products/mindspend?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1092181?app_id=339\">Link</a> </p>",
+        "summary": "Track how you feel about spending, not just the numbers "
+      },
+      {
+        "title": "optimo",
+        "link": "https://www.producthunt.com/products/optimo",
+        "desc": "<p> effortless media optimizer for the web </p> <p> <a href=\"https://www.producthunt.com/products/optimo?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103006?app_id=339\">Link</a> </p>",
+        "summary": "effortless media optimizer for the web "
+      },
+      {
+        "title": "Replit Agent 4",
+        "link": "https://www.producthunt.com/products/replit-agent-4",
+        "desc": "<p> Build design, and ship anything AI fast in one flow </p> <p> <a href=\"https://www.producthunt.com/products/replit-agent-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102616?app_id=339\">Link</a> </p>",
+        "summary": "Build design, and ship anything AI fast in one flow "
+      },
+      {
+        "title": "Cursor Glass",
+        "link": "https://www.producthunt.com/products/glass-4",
+        "desc": "<p> Unified agent workspace with seamless cloud handoff power </p> <p> <a href=\"https://www.producthunt.com/products/glass-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103207?app_id=339\">Link</a> </p>",
+        "summary": "Unified agent workspace with seamless cloud handoff power "
+      },
+      {
+        "title": "Fractal",
+        "link": "https://www.producthunt.com/products/fractal-2",
+        "desc": "<p> The fastest way to ship exceptional ChatGPT apps </p> <p> <a href=\"https://www.producthunt.com/products/fractal-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086678?app_id=339\">Link</a> </p>",
+        "summary": "The fastest way to ship exceptional ChatGPT apps "
+      },
+      {
+        "title": "Contral",
+        "link": "https://www.producthunt.com/products/contral",
+        "desc": "<p> The agentic IDE which teaches while you build. </p> <p> <a href=\"https://www.producthunt.com/products/contral?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103401?app_id=339\">Link</a> </p>",
+        "summary": "The agentic IDE which teaches while you build."
+      },
+      {
+        "title": "Claude Cowork Projects",
+        "link": "https://www.producthunt.com/products/claude-cowork-projects",
+        "desc": "<p> Tasks, context, and files organized in one workspace </p> <p> <a href=\"https://www.producthunt.com/products/claude-cowork-projects?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103282?app_id=339\">Link</a> </p>",
+        "summary": "Tasks, context, and files organized in one workspace "
+      },
+      {
+        "title": "Design Agent by Lokuma",
+        "link": "https://www.producthunt.com/products/lokuma-ai",
+        "desc": "<p> The designer for your AI agents (Openclaw, CC, Codex) </p> <p> <a href=\"https://www.producthunt.com/products/lokuma-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1093404?app_id=339\">Link</a> </p>",
+        "summary": "The designer for your AI agents (Openclaw, CC, Codex) "
+      },
+      {
+        "title": "Vite+",
+        "link": "https://www.producthunt.com/products/vite-alpha",
+        "desc": "<p> The Unified Toolchain for the Web </p> <p> <a href=\"https://www.producthunt.com/products/vite-alpha?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100858?app_id=339\">Link</a> </p>",
+        "summary": "The Unified Toolchain for the Web "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
