@@ -1,0 +1,256 @@
+{
+  "date": "2026-03-22",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "The three pillars of JavaScript bloat",
+        "link": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+        "score": 198,
+        "desc": "",
+        "summary": "这条主要讨论「The three pillars of JavaScr…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+        "link": "https://zenodo.org/records/18976656",
+        "score": 9,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Tinybox – A powerful computer for deep learning",
+        "link": "https://tinygrad.org/#tinybox",
+        "score": 466,
+        "desc": "",
+        "summary": "这条主要讨论「Tinybox – A powerful compute…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "My first patch to the Linux kernel",
+        "link": "https://pooladkhay.com/posts/first-kernel-patch/",
+        "score": 25,
+        "desc": "",
+        "summary": "这条主要讨论「My first patch to the Linux …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Some things just take time",
+        "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+        "score": 650,
+        "desc": "",
+        "summary": "这条主要讨论「Some things just take time」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Chest Fridge (2009)",
+        "link": "https://mtbest.net/chest-fridge/",
+        "score": 88,
+        "desc": "",
+        "summary": "这条主要讨论「Chest Fridge (2009)」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Professional video editing, right in the browser with WebGPU and WASM",
+        "link": "https://tooscut.app/",
+        "score": 241,
+        "desc": "",
+        "summary": "偏多模态与内容生成方向，适合关注生产效率与质量提升。"
+      },
+      {
+        "title": "Floci – A free, open-source local AWS emulator",
+        "link": "https://github.com/hectorvent/floci",
+        "score": 163,
+        "desc": "",
+        "summary": "这条主要讨论「Floci – A free, open-source …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Cloudflare flags archive.today as \"C&C/Botnet\"; no longer resolves via 1.1.1.2",
+        "link": "https://radar.cloudflare.com/domains/domain/archive.today",
+        "score": 122,
+        "desc": "",
+        "summary": "这条主要讨论「Cloudflare flags archive.tod…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Linking Smaller Haskell Binaries",
+        "link": "https://brandon.si/code/linking-smaller-haskell-binaries/",
+        "score": 5,
+        "desc": "",
+        "summary": "这条主要讨论「Linking Smaller Haskell Bina…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+        "score": "18,243",
+        "desc": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online.",
+        "summary": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online."
+      },
+      {
+        "title": "systemd/systemd",
+        "link": "https://github.com/systemd/systemd",
+        "score": "15,814",
+        "desc": "Star systemd / systemd The systemd System and Service Manager",
+        "summary": "Star systemd / systemd The systemd System and Service Manager"
+      },
+      {
+        "title": "aquasecurity/trivy",
+        "link": "https://github.com/aquasecurity/trivy",
+        "score": "33,454",
+        "desc": "Star aquasecurity / trivy Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+        "summary": "Star aquasecurity / trivy Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code reposit"
+      },
+      {
+        "title": "Crosstalk-Solutions/project-nomad",
+        "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+        "score": "7,384",
+        "desc": "Star Crosstalk-Solutions / project-nomad Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "summary": "Star Crosstalk-Solutions / project-nomad Project N.O.M.A.D, is a self-contained, offline survival computer packed with c"
+      },
+      {
+        "title": "opendataloader-project/opendataloader-pdf",
+        "link": "https://github.com/opendataloader-project/opendataloader-pdf",
+        "score": "8,062",
+        "desc": "Star opendataloader-project / opendataloader-pdf PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+        "summary": "Star opendataloader-project / opendataloader-pdf PDF Parser for AI-ready data."
+      },
+      {
+        "title": "jarrodwatts/claude-hud",
+        "link": "https://github.com/jarrodwatts/claude-hud",
+        "score": "10,724",
+        "desc": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "summary": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running ag"
+      },
+      {
+        "title": "protocolbuffers/protobuf",
+        "link": "https://github.com/protocolbuffers/protobuf",
+        "score": "70,965",
+        "desc": "Star protocolbuffers / protobuf Protocol Buffers - Google's data interchange format",
+        "summary": "Star protocolbuffers / protobuf Protocol Buffers - Google's data interchange format"
+      },
+      {
+        "title": "vllm-project/vllm-omni",
+        "link": "https://github.com/vllm-project/vllm-omni",
+        "score": "3,575",
+        "desc": "Sponsor Star vllm-project / vllm-omni A framework for efficient model inference with omni-modality models",
+        "summary": "Sponsor Star vllm-project / vllm-omni A framework for efficient model inference with omni-modality models"
+      },
+      {
+        "title": "louis-e/arnis",
+        "link": "https://github.com/louis-e/arnis",
+        "score": "12,371",
+        "desc": "Star louis-e / arnis Generate any location from the real world in Minecraft with a high level of detail.",
+        "summary": "Star louis-e / arnis Generate any location from the real world in Minecraft with a high level of detail."
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Edgee Claude Code Compression",
+        "link": "https://www.producthunt.com/products/edgee",
+        "desc": "<p> Extend Claude Pro's limit by 26.2% </p> <p> <a href=\"https://www.producthunt.com/products/edgee?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102427?app_id=339\">Link</a> </p>",
+        "summary": "Extend Claude Pro's limit by 26.2% "
+      },
+      {
+        "title": "Context.dev",
+        "link": "https://www.producthunt.com/products/context-dev",
+        "desc": "<p> One API to scrape, enrich, and understand the web. </p> <p> <a href=\"https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104004?app_id=339\">Link</a> </p>",
+        "summary": "One API to scrape, enrich, and understand the web."
+      },
+      {
+        "title": "Bench for Claude Code",
+        "link": "https://www.producthunt.com/products/bench-for-claude-code",
+        "desc": "<p> Store, review, and share your Claude Code sessions </p> <p> <a href=\"https://www.producthunt.com/products/bench-for-claude-code?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1098287?app_id=339\">Link</a> </p>",
+        "summary": "Store, review, and share your Claude Code sessions "
+      },
+      {
+        "title": "Claude Code Scheduled Tasks",
+        "link": "https://www.producthunt.com/products/claude-code-scheduled-tasks",
+        "desc": "<p> Schedule recurring tasks locally and in the cloud easily </p> <p> <a href=\"https://www.producthunt.com/products/claude-code-scheduled-tasks?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1091779?app_id=339\">Link</a> </p>",
+        "summary": "Schedule recurring tasks locally and in the cloud easily "
+      },
+      {
+        "title": "Embedful",
+        "link": "https://www.producthunt.com/products/embedful",
+        "desc": "<p> Easy data visualizations. Embed and share anywhere. </p> <p> <a href=\"https://www.producthunt.com/products/embedful?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1083614?app_id=339\">Link</a> </p>",
+        "summary": "Easy data visualizations."
+      },
+      {
+        "title": "Silicon Friendly",
+        "link": "https://www.producthunt.com/products/silicon-friendly",
+        "desc": "<p> How Silicon Friendly is your website? (from L0 to L5) </p> <p> <a href=\"https://www.producthunt.com/products/silicon-friendly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087909?app_id=339\">Link</a> </p>",
+        "summary": "How Silicon Friendly is your website?"
+      },
+      {
+        "title": "Replit Agent 4",
+        "link": "https://www.producthunt.com/products/replit-agent-4",
+        "desc": "<p> Build design, and ship anything AI fast in one flow </p> <p> <a href=\"https://www.producthunt.com/products/replit-agent-4?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1102616?app_id=339\">Link</a> </p>",
+        "summary": "Build design, and ship anything AI fast in one flow "
+      },
+      {
+        "title": "Sanota",
+        "link": "https://www.producthunt.com/products/sanota",
+        "desc": "<p> Stories, beautifully crafted </p> <p> <a href=\"https://www.producthunt.com/products/sanota?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1101671?app_id=339\">Link</a> </p>",
+        "summary": "Stories, beautifully crafted "
+      },
+      {
+        "title": "Novi Notes",
+        "link": "https://www.producthunt.com/products/novi-notes",
+        "desc": "<p> Local-first AI note app for Mac zero config via MCP </p> <p> <a href=\"https://www.producthunt.com/products/novi-notes?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1087121?app_id=339\">Link</a> </p>",
+        "summary": "Local-first AI note app for Mac zero config via MCP "
+      },
+      {
+        "title": "Fractal",
+        "link": "https://www.producthunt.com/products/fractal-2",
+        "desc": "<p> The fastest way to ship exceptional ChatGPT apps </p> <p> <a href=\"https://www.producthunt.com/products/fractal-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1086678?app_id=339\">Link</a> </p>",
+        "summary": "The fastest way to ship exceptional ChatGPT apps "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
