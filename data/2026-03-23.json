@@ -1,0 +1,263 @@
+{
+  "date": "2026-03-23",
+  "sources": {
+    "hackernews": [
+      {
+        "title": "POSSE – Publish on your Own Site, Syndicate Elsewhere",
+        "link": "https://indieweb.org/POSSE",
+        "score": 16,
+        "desc": "",
+        "summary": "这条主要讨论「POSSE – Publish on your Own …」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "PC Gamer recommends RSS readers in a 37mb article that just keeps downloading",
+        "link": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+        "score": 590,
+        "desc": "",
+        "summary": "这条主要讨论「PC Gamer recommends RSS read…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Can you get root with only a cigarette lighter? (2024)",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html",
+        "score": 59,
+        "desc": "",
+        "summary": "这条主要讨论「Can you get root with only a…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Tin Can, a 'landline' for kids",
+        "link": "https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9",
+        "score": 124,
+        "desc": "",
+        "summary": "这条主要讨论「Tin Can, a 'landline' for ki…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "Show HN: The King Wen Permutation: [52, 10, 2]",
+        "link": "https://gzw1987-bit.github.io/iching-math/",
+        "score": 4,
+        "desc": "I analyzed two orderings of the 64 I Ching hexagrams and found the permutation cycle decomposition between them is [52, 10, 2] with zero fixed points. Nobody has done this kind of analysis before and this cycle type has not been reported in the literature. You can verify it yourself.",
+        "summary": "I analyzed two orderings of the 64 I Ching hexagrams and found the permutation cycle decomposition between them is [52, "
+      },
+      {
+        "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+        "link": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
+        "score": 363,
+        "desc": "",
+        "summary": "核心在性能优化，建议关注速度、成本与精度三者平衡。"
+      },
+      {
+        "title": "The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y",
+        "link": "https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies",
+        "score": 50,
+        "desc": "",
+        "summary": "偏安全/攻防方向，重点关注风险面与可操作防护建议。"
+      },
+      {
+        "title": "The future of version control",
+        "link": "https://bramcohen.com/p/manyana",
+        "score": 516,
+        "desc": "",
+        "summary": "这条主要讨论「The future of version contro…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support",
+        "link": "https://www.bohrium.com/competitions/9813928053?tab=introduce",
+        "score": 8,
+        "desc": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "Reports of code's death are greatly exaggerated",
+        "link": "https://stevekrouse.com/precision",
+        "score": 393,
+        "desc": "",
+        "summary": "这条主要讨论「Reports of code's death are …」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ],
+    "githubTrending": [
+      {
+        "title": "FujiwaraChoki/MoneyPrinterV2",
+        "link": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+        "score": "20,873",
+        "desc": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online.",
+        "summary": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online."
+      },
+      {
+        "title": "TauricResearch/TradingAgents",
+        "link": "https://github.com/TauricResearch/TradingAgents",
+        "score": "38,169",
+        "desc": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework",
+        "summary": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework"
+      },
+      {
+        "title": "vxcontrol/pentagi",
+        "link": "https://github.com/vxcontrol/pentagi",
+        "score": "12,466",
+        "desc": "Star vxcontrol / pentagi Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+        "summary": "Star vxcontrol / pentagi Fully autonomous AI Agents system capable of performing complex penetration testing tasks"
+      },
+      {
+        "title": "jamwithai/production-agentic-rag-course",
+        "link": "https://github.com/jamwithai/production-agentic-rag-course",
+        "score": "4,965",
+        "desc": "",
+        "summary": "这条主要讨论「jamwithai/production-agentic…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "affaan-m/everything-claude-code",
+        "link": "https://github.com/affaan-m/everything-claude-code",
+        "score": "99,678",
+        "desc": "Sponsor Star affaan-m / everything-claude-code The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+        "summary": "Sponsor Star affaan-m / everything-claude-code The agent harness performance optimization system."
+      },
+      {
+        "title": "jarrodwatts/claude-hud",
+        "link": "https://github.com/jarrodwatts/claude-hud",
+        "score": "11,577",
+        "desc": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+        "summary": "Star jarrodwatts / claude-hud A Claude Code plugin that shows what's happening - context usage, active tools, running ag"
+      },
+      {
+        "title": "Crosstalk-Solutions/project-nomad",
+        "link": "https://github.com/Crosstalk-Solutions/project-nomad",
+        "score": "11,270",
+        "desc": "Star Crosstalk-Solutions / project-nomad Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+        "summary": "Star Crosstalk-Solutions / project-nomad Project N.O.M.A.D, is a self-contained, offline survival computer packed with c"
+      },
+      {
+        "title": "systemd/systemd",
+        "link": "https://github.com/systemd/systemd",
+        "score": "16,075",
+        "desc": "Star systemd / systemd The systemd System and Service Manager",
+        "summary": "Star systemd / systemd The systemd System and Service Manager"
+      },
+      {
+        "title": "browser-use/browser-use",
+        "link": "https://github.com/browser-use/browser-use",
+        "score": "83,028",
+        "desc": "Star browser-use / browser-use 🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+        "summary": "Star browser-use / browser-use 🌐 Make websites accessible for AI agents."
+      },
+      {
+        "title": "HKUDS/LightRAG",
+        "link": "https://github.com/HKUDS/LightRAG",
+        "score": "30,211",
+        "desc": "Star HKUDS / LightRAG [EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+        "summary": "Star HKUDS / LightRAG [EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\""
+      }
+    ],
+    "producthunt": [
+      {
+        "title": "Tobira.ai",
+        "link": "https://www.producthunt.com/products/tobira-ai",
+        "desc": "<p> A network where AI agents find deals for their humans </p> <p> <a href=\"https://www.producthunt.com/products/tobira-ai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1100794?app_id=339\">Link</a> </p>",
+        "summary": "A network where AI agents find deals for their humans "
+      },
+      {
+        "title": "AlphaClaw Apex",
+        "link": "https://www.producthunt.com/products/alphaclaw-apex",
+        "desc": "<p> OpenClaw harness and fleet manager for Mac </p> <p> <a href=\"https://www.producthunt.com/products/alphaclaw-apex?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104299?app_id=339\">Link</a> </p>",
+        "summary": "OpenClaw harness and fleet manager for Mac "
+      },
+      {
+        "title": "DataSieve 2.0",
+        "link": "https://www.producthunt.com/products/textmine-extract-data-from-text",
+        "desc": "<p> Extract structured data from text, files and archives. </p> <p> <a href=\"https://www.producthunt.com/products/textmine-extract-data-from-text?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1103756?app_id=339\">Link</a> </p>",
+        "summary": "Extract structured data from text, files and archives."
+      },
+      {
+        "title": "Iris",
+        "link": "https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41",
+        "desc": "<p> Send work beautifully, pinned feedback, see what they viewed </p> <p> <a href=\"https://www.producthunt.com/products/iris-e28eb72c-ccff-4a5a-a7e8-6cf066ee9d41?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104801?app_id=339\">Link</a> </p>",
+        "summary": "Send work beautifully, pinned feedback, see what they viewed "
+      },
+      {
+        "title": "WeixinClawBot",
+        "link": "https://www.producthunt.com/products/weixinclawbot",
+        "desc": "<p> The official WeChat pipeline for OpenClaw </p> <p> <a href=\"https://www.producthunt.com/products/weixinclawbot?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104774?app_id=339\">Link</a> </p>",
+        "summary": "The official WeChat pipeline for OpenClaw "
+      },
+      {
+        "title": "Claude Usage Tracker",
+        "link": "https://www.producthunt.com/products/claude-usage-tracker",
+        "desc": "<p> See exactly how much you spend on Claude, across every tool </p> <p> <a href=\"https://www.producthunt.com/products/claude-usage-tracker?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104524?app_id=339\">Link</a> </p>",
+        "summary": "See exactly how much you spend on Claude, across every tool "
+      },
+      {
+        "title": "Zoer.ai",
+        "link": "https://www.producthunt.com/products/zoer-ai-2",
+        "desc": "<p> Build full-stack webapps from the database up </p> <p> <a href=\"https://www.producthunt.com/products/zoer-ai-2?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1096052?app_id=339\">Link</a> </p>",
+        "summary": "Build full-stack webapps from the database up "
+      },
+      {
+        "title": "Fastlane",
+        "link": "https://www.producthunt.com/products/fastlane-3",
+        "desc": "<p> Remix viral videos into content for your business </p> <p> <a href=\"https://www.producthunt.com/products/fastlane-3?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1104830?app_id=339\">Link</a> </p>",
+        "summary": "Remix viral videos into content for your business "
+      },
+      {
+        "title": "Honestly",
+        "link": "https://www.producthunt.com/products/honestly",
+        "desc": "<p> Real reviews from Reddit & YouTube when shopping online </p> <p> <a href=\"https://www.producthunt.com/products/honestly?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1076272?app_id=339\">Link</a> </p>",
+        "summary": "Real reviews from Reddit & YouTube when shopping online "
+      },
+      {
+        "title": "Nomie",
+        "link": "https://www.producthunt.com/products/nomie",
+        "desc": "<p> AI wellness app that turns doomscrolling into self‑care </p> <p> <a href=\"https://www.producthunt.com/products/nomie?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1088510?app_id=339\">Link</a> </p>",
+        "summary": "AI wellness app that turns doomscrolling into self‑care "
+      }
+    ],
+    "x": [
+      {
+        "title": "**视频生成工具爆发**：Seedance 2.0 能够自动化生成动效、APP 宣传视频、口播视频，AI 视频制作门槛进一步降低",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI 编码模型更新**：GPT-5.3 Codex 与 Claude Opus 4.6 对比讨论，推荐组合使用策略",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**AI Agent 应用**：多个开源项目发布，包括营销技能包、AI 渗透测试工具、桌面系统浏览器复刻等",
+        "link": "",
+        "summary": "聚焦 AI/Agent 能力，核心看可复用性与真实落地场景。"
+      },
+      {
+        "title": "**语音转文本**：Mistral 开源语音实时转写模型，小型化且高效",
+        "link": "",
+        "summary": "这条主要讨论「**语音转文本**：Mistral 开源语音实时转写模型…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "批评西班牙政府大量引入移民并限制批评言论（转推 MikeBenzCyber）",
+        "link": "",
+        "summary": "这条主要讨论「批评西班牙政府大量引入移民并限制批评言论（转推 Mike…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is a good sign\" - 对某事件表示认可",
+        "link": "",
+        "summary": "这条主要讨论「\"This is a good sign\" - 对某事件…」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Wow\" - 简短评论",
+        "link": "",
+        "summary": "这条主要讨论「\"Wow\" - 简短评论」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "支持 Fetterman 的观点",
+        "link": "",
+        "summary": "这条主要讨论「支持 Fetterman 的观点」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"Grok\" - 提及 Grok",
+        "link": "",
+        "summary": "这条主要讨论「\"Grok\" - 提及 Grok」，建议按与你当前课题相关度决定是否深读。"
+      },
+      {
+        "title": "\"This is how the scam works\" - 批评某种骗局",
+        "link": "",
+        "summary": "这条主要讨论「\"This is how the scam works\"…」，建议按与你当前课题相关度决定是否深读。"
+      }
+    ]
+  }
+}
